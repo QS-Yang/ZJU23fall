@@ -1,0 +1,1382 @@
+序号,1. E-mail,2. 姓名,3. 是否以硕士身份申请,4. 当前专业,5. 是否竺院,6. LinkedIn链接,7. 微信,8. 其他联系方式,9. 最终选择学校,10. 最终选择学位,11. 最终选择项目,12. 申请方向,13. 对于联络你的学弟学妹愿意提供哪些帮助,14. 你是跨专业申请吗,15. 总GPA,,16. 专业GPA,,17. 排名,18. 你的语言考试是,19. 你的语言考试成绩为,20. 你的GRE成绩是,,,21. 你的作品集网站/个人主页链接是,22. 你获得了哪些项目的 offer,23. 你收到了哪些项目的拒信,24. 你的科研经历,25. 你的实习经历,26. 你的竞赛经历,27. 奖项与奖学金,28. 论文和专利,29. 推荐信来源,30. 套磁经验,31. 选项标准和考虑,32. 最终择校的考虑,33. 申请的正面因素,34. 其他经验
+,,,,,,,,,,,,,,,填空1,填空2,填空1,填空2,,,,填空1,填空2,填空3,,,,,,,,,,,,,,
+1,hukp@zju.edu.cn,胡康平,否,人工智能（图灵班）,是,,HenryHu-H,,Georgia Institute of Technology,PhD,CS,,选校咨询，语言考试建议，文书修改，随便聊聊,否,3.88,88.68,4.00,91.09,,TOEFL,108 R30 L27 S23 W28,159,168,4.0,,"Georgia Institute of Technology#CS PhD
+National University of Singapore#CS PhD
+University of Illinois at Urbana-Champaign#MSCS
+University of California, Berkeley#EECS MEng
+Yale University#MSCS
+University of California, San Diego#MSCS","Princeton University#ECE PhD
+Cornell University#CS PhD
+University of Illinois at Urbana-Champaign#CS PhD
+Stanford University#MSEE
+Carnegie Mellon University#MSML
+Carnegie Mellon University#MCDS
+ETH Zurich#MSCS","ZJUIDG，巫英才，2021.4-2022.5，SRTP国创+IEEE VIS 2022三作
+ZJUVAI，陈为，2021.11-2022.8&2023.3至今，联邦学习可视分析项目（作为毕设）
+UIUC Secure Learning Lab，Bo Li，2022.2至今，联邦学习若干在投",,,省奖*1、一奖*3,,"Bo Li（UIUC）暑研导师
+巫英才（ZJU）科研导师
+陈为（ZJU）毕设导师
+吴鸿智（ZJU）授课教师","暑研最好在寒假就联系好国外导师（可以通过CSRankings筛选你感兴趣的方向），如果有机会线下暑研的话，可以主动提出在过去之前就开始线上进行科研（如果是线上暑研的话更不用等到暑假才开始了）。如果想在校内科研的话，随时都可以联系心仪的老师，直接发邮件即可。
+申请季套磁大概在九十月份，可以在暑研有一定进展甚至产出之后再套磁，这样可以增大老师回复的概率。实在没有产出的话，对于强professor制的学校，可以总结一下自己的进展找感兴趣的老师强行套磁，说不定就有老师看上了你的工作并给你一个机会（不过对于强committee制的学校来说用处可能就不是很大了）。
+写套磁信的时候，一般第一段先简单自我介绍一下（学校、年级、专业），然后开门见山阐明来意。第二段写自己目前学了什么和对方研究方向有关的东西，如果有相关的研究经历更好。第三段写自己为什么想要在对方那里做研究，可以是因为读了对方的论文然后对里面的东西很感兴趣等等。最后一段简单总结一下，然后表示期待即可。
+我套磁的时候没有海套，只找了几个真正感兴趣的老师，粗略读了一下感兴趣的论文，然后再套的。这样套磁的回复率很高，但因为套的太少了，所以风险也很大。",我是属于硕博混申的选手，从PhD到MEng都有申请。主要是考虑到自己科研产出不是很有竞争力，所以除了PhD和研究型master以外，也申了一些title比较好的授课型master。如果前者全聚德了的话，可能会考虑先去读授课型master，然后借上课机会套磁本校老师做科研。当时想的是，毕竟本科也算是授课型的，都能挤出时间来做科研，所以授课型硕士应该搏一搏也有机会。现在想来还是有点冒险，而且选校也有一点激进。,主要是在GaTech的CS PhD和UIUC的MSCS之间纠结。UIUC的专业排名更高，实验室氛围也更熟悉，其MSCS项目作为少有的研究型硕士方便为PhD做跳板；但MSCS相比CS PhD来说还是充满了不确定性，而且GaTech的老师也很不错，所以就决定去GaTech了。,几位推荐人应该都给我写了强推，GaTech作为强professor制学校也让我的套磁起到了至关重要的作用。此外，从校内科研到海外暑研再到申请季，我受到了很多浙大学长学姐的热心帮助，他们让我少走了很多弯路。,"语言考试要尽早准备，最好大三暑假之前就拿下，给后面科研/实习留出时间。做科研的时候要多问问题，不必等到组会才问。每次开完组会可以写一个简要的summary和todo，这样导师会认为你是一个有条理的人，对你印象更好，你也能对自己要做的事情更加清楚。
+文书、推荐信可以等申请季九月份再开始处理，借助Grammarly（以及现在的各种GPT助手）可以完成大部分润色工作，如有需要也可以再请人改改文书。文书主要就是把自己的经历串起来，讲一个好故事，展现自己的兴趣和能力。一般学校的申请网站上会简单介绍一下文书可以写的内容，有的学校写的非常详细，值得好好参考一下。要推荐信的时候可以把自己在对方那里做过的事情整理一下发给老师，写的时候不用太谦虚，保证真实详尽即可。简历的话网上有很多overleaf模板，可以找一个看得顺眼的用。
+申请的时候可以把要申的学校列一个表，然后分别标注截止日期、材料要求、当前进度等信息，做到随时心中有数，不会错过ddl。如果有面试的话，可以提前做一个PPT把自己的科研经历简单介绍一下。如果面试前比较紧张的话，可以自己对着PPT讲个几遍，讲麻了就不紧张了。申请季也是如此，如果焦虑的话，多和家人朋友老师学长学姐聊一聊，有时候说出来心里就好一些了。"
+2,q8yang@ucsd.edu,杨淇森,否,计算机科学与技术（图灵班）,是,,qs1094075179,QQ: 1094075179,"University of California, San Diego",PhD,Cognitive Science,Human-computer interaction,选校咨询，文书修改，随便聊聊,否,3.92,89.28,,,,TOEFL,104 R30 L27 S23 W24,,,,qs-yang.github.io,"University of California, San Diego#CogSci PhD
+University of Chicago#CS PhD
+The Hong Kong University of Science and Technology#CSE PhD","Massachusetts Institute of Technology#EECS PhD
+Harvard University#CS PhD
+University of Washington#CS PhD
+University of Washington#iSchool PhD
+University of Maryland, College Park#CS PhD
+Carnegie Mellon University#HCII PhD
+Carnegie Mellon University#MLT
+Georgia Institute of Technology#CS PhD(interviewed)","ZJUIDG，巫英才，2021.4-2022.4，SRTP国创+IEEE VIS‘22 
+Harvard VCG，Hanspeter Pfister(w/ Zhutian Chen), 2021.12-2022.9 IEEE VIS’22+CHI’23 
+HKUST VisLab, Huamin Qu, 2022.6-2023.4, IEEE VIS’23",,,省奖*1。二奖*3,"IEEE VIS’22二作
+CHI’23二作在投（后来中了）
+IEEE VIS’23共一（申请时候还没投出去）","巫英才（ZJU）跟了四年的导师，很强的推
+Hanspeter Pfister + Zhutian Chen（Harvard）看结果应该是偏强推
+Huamin Qu（HKUST）偏强推",暑研的话最好寒假期间就开始套磁老师，成功率最高的就是靠校内导师的connection（海投无果只能抱导师大腿的我）。如果需要海投，一个比较好的逻辑是：先找到一个你感兴趣的老师，一看师承（老师，学生，postdoc，师兄弟等），二看论文合作者，三看相同的会议chair（比如两个老师都是同一个会议的area chair），四看twitter互动（这东西其实真的挺有用的）。申请季套磁不要拘泥于申请季之前，我uchicago的offer就是申请提交之后套磁到面试的。总的来说陶瓷难度有connection>新ap>senior,因为在北美申请季之前hkust的老板就给发了offer用来保底，所以选校非常激进，MIT、CMU、Gatech、UW、Harvard都是可视化领域很有名的老师，再加上和老板有点connection的UMD，有vis rising star的UChicago，以及之前合作老师所在的UCSD。但申请之后发现许多HCI领域的老师也和自己的研究方向很像，其实可以多申请几个项目摸一下彩票的。总的来看感觉梯度比较合理，但其实申请过程中突发事件还挺多的，比如CMU HCII今年一共只招了二十个左右的学生，听说如果老师没funding直接pass；UW的老师招了另一个UMass没有paper但有强connection推荐信的美本老哥；Gatech面完之后告诉我没经费了；Harvard老板今年不招可视化方向，转而招了一个bio image的同学。,最后是在UCSD和UChicago里面选，问了一圈老师同学朋友得到的结论是两边老师都很好，对学生未来也非常支持，感觉选哪边都不会错。当时主要考虑的问题是SD没有cs title以及可能要做挺久的ta；UChicago那边主要是父母担心安全，虽然问过在那边生活的同学都说没什么问题。不过最后和SD的老师又聊了一下，得知他今年只招了一个学生，而且以后找教职或者research scientist都是看成果，不怎么看title，ta的话系里面工作量也不会很大。最后最重要的一点是，感觉SD的老师和我自己感兴趣的方向更加契合，所以最后决定来SD拥抱阳光沙滩了。选完之后发现老板今年真的好猛，CHI一共通讯了三篇拿了一个best paper和一个honorable mention。,几位推荐人都是可视化领域的大牛，而且今年写的推荐信都挺少的，所以强度上来看应该还不错。另外就是可能面试的时候画饼能力还可以（bushi）,"这里是一些申请碎碎念。
+1.	语言考试尽量早一点考掉，否则申请季撞上语言考试会非常的drama。我自己十一月中旬才把语言考出来，之前跟学长学姐聊的时候他们得知我语言还没考出来的时候都非常震惊（别骂了）。
+2.	关于找中介：个人感觉中介真的没啥用，我自己白嫖了再来人的奖学金项目，幸运的是给我匹配的导师跟我申请的方向很契合，除此之外真的没有什么其他作用了，甚至不如我在学长学姐那里得到的信息多。
+3.	关于申请季：在申请季其实大家的硬件基本都定型了，这个时候其实及时获取信息以及调整心态是最重要的。我们申请的时候有一个HCI PhD申请群，大家每天在里面交流经验信息并分享焦虑（bushi），收获良多。同时如果在申请季一个很不错的建议是：少看gradcafe。如果感觉焦虑，那就多找学长学姐或者身边同学聊聊，他们会给你一些全新的视角的。
+4.	关于HCI：HCI之大，csranking装不下。HCI领域的小方向五花八门，有做tech的，有做design的，还有做psychological的，这就导致你和朋友可能申请了同一所学校的同一个项目，但是申请的导师八竿子打不着，间接避免了大家的内部竞争。而且在gpt4出现之后，我个人是相信HCI会始终伴随技术的进步而发挥作用的。我和申请群的小伙伴们还在计划做一个HCI领域各个小方向的介绍（不知道会不会胎死腹中hhh），如果学弟学妹们对HCI感兴趣，也欢迎来找我聊~ 
+5.	最后给大家安利一下UChicago CS，他们自从挖来了UCB的系主任之后发展非常迅猛，过去三年faculty人数已经翻倍了，而且都是各自领域的rising star，对于sys/security/HCI感兴趣的同学可以考虑一下，性价比极高。（而且他们博士生工资贼高，同在芝加哥，比西北多了整整1/3）"
+3,ruihuanh3@zju.edu.cn,何瑞桓,否,计算机科学与技术,是,,,,University of Toronto,Master（授课）,MScAC,Artificial intelligence,选校咨询，随便聊聊,否,3.87,87.9,3.96,91.1,,TOEFL,109 R30 L30 S23 W26,155,169,3.5,,"University of Southern California#CS28
+Rice University#MCS
+University of Toronto#MScAC","Johns Hopkins University#MSE CS
+University of California, San Diego#CS75
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSAIE(ECE)
+Brown University#ScM CS
+University of Illinois at Urbana-Champaign#MCS
+Georgia Institute of Technology#MSCS(未出结果)",数据智能实验室 张东祥 2022.9-至今 半监督x多模态 毕设,苏州微软STCA 2022.6-2022.9 Windows APP开发,,,,"毕设导师 科研推 强
+体系结构老师 课程推 自己填写
+Manager 实习推 强",,"当时选择项目的时候主要是考虑了以下几点：
+1. 我留学的核心诉求是找报酬显著高于国内的工作，所以排除掉了除了北美以外的硕士项目（加拿大税后收入也没有高于国内太多，但增加了经济形势回暖后L1b到美国的可能性）
+2. 项目的支出：把预算高的项目都删除了，最后基本把CMU以外的高学费项目和USC以外的大城市项目都排除了。
+3. 项目的bar：参考了往年的飞跃手册和opencs.app，若前几年飞跃手册都没有类似bg的同学被录取就不浪费申请费了
+4. 不申中了也不考虑去的学校
+现在回头看时觉得自己的策略也有一些问题：
+1. 这几年CS的bar水涨船高，今年碰到北美找工形势不好，美本和被裁员工下场把ms项目的bar抬高了很多。且每一年各项目的招生情况不同（如今年突发恶疾的UCSD和去年突然扩招今年又缩回去的UIUC）。往年的bar可以参考，但不能全信。
+2. 加拿大的大学基本都只看大三绩点，当时应该多申请一些。
+3. 应该勇敢尝试彩票项目，万一扩招了呢，大多数找工向MS项目作为学校依赖的cash cow还有扩招的趋势。
+4. 可以避开爆火的项目（如今年的Brown和去年的NEU），这些项目在一亩三分地爆火之后收到的申请显著变多，难度也随之上升，Brown今年的bar看起来比往年飞跃手册上都要高了。UCSD则是一直都很火的类型，今年ZJU的AI track似乎发的很少。","1. 单纯从排名来考量，比我另外两个ad高太多了
+2. MScAC有8个月的Coop，基本可以回学费的本，在当前经济形势下对找工帮助较大。USC和Rice有毕业速通回国风险。
+3. 个人对MLE对工作更有兴趣，但普通CS硕没有pub的情况下很难找MLE工作，MScAC的课程和Coop都和MLE高度相关，符合兴趣。
+PS. 选校中还有Gatech没出结果，万一中彩票就选Gatech，还是希望能去美国
+PPS. 鉴于加拿大可能面临着长时间的签证安全调查导致offer作废，没有decline Rice的ad，运气不好加签安调就只能去Rice了。如果不是因为春招找不到工作可能会考虑Gap。","结论：像我一样BG并不出众的选手可以试试申请往年飞跃上没什么人报的项目防止同校踩踏。ZJU申请多大的人没有很多。
+多大重点看大三的GPA，我的大三GPA还算可以。CV里有实习有科研，符合了多大MScAC的Applied Research要求。
+个人体感SOP和CV（尤其是CV）其实在MS的申请中还是有一定的重要性的，并没有之前听说的那样MS只看三维，最好多看学校项目官网主打的卖点是什么，修改自己的CV和SOP尽量与该项目的卖点靠拢。",
+4,yikangpan2001@gmail.com,Yikang Pan,否,计算机科学与技术,是,,,,University of Toronto,Master（授课）,MScAC,,选校咨询，随便聊聊,否,3.97,91.67,,,,TOEFL,113 30 30 26 27,160,168,5,,"University of Toronto#MScAC
+Carnegie Mellon University#MIIS
+ETH Zurich#MSDS","Carnegie Mellon University#MLT
+Carnegie Mellon University#MCDS
+University of Illinois at Urbana-Champaign#MSCS
+University of Illinois at Urbana-Champaign#MCS
+Yale#MSCS(2 year)
+University of Waterloo#MMath
+University of San Diego#MSCS
+EPFL#MSDS","本校 划水一年
+NUS 大四开始，申请时无产出",微软 2022.06-2022.09 Edge-iOS开发,,一奖*2,,三封placeholder,无，收了实习offer就摆了,"主要考虑能与工业或学术紧密衔接（有coop/好转博）的master（不考虑一年硕）。最后申了的都是比较了解的项目。
+
+该申的没申：CMU可以报不止三个master（...）
+其实还有好多学校，比如UCLA, Cornell的硕士项目都非常不错。但最后写文书实在是写倦了，选校决策比较随意。当然也有加拿大学校出结果比较早，有补申空间的因素，选校是没申保底的。（不过不能迷信保底，只能多申抗风险）",拿身份（+找工）考虑。CMU和ETH对想上课的同学应该还是非常好的，CMU的LTI科研机会也很多，甚至MIIS这个项目23年找实习情况相当好看（根据学长说，对比CMU其他项目）。但最后确定了自己的priority之后就没有悬念了。MScAC 强制实习，毕业之后有相对稳定的拿身份途径，同时开销相对美国偏低。同时，相对美国低很多的工资与气候这两个缺点是我可以接受的，于是从了。,大概就是比较全面，没啥短板也没啥突出的master选手。最后的结果我也挺满意的了，要去的offer2月就来了，对我的精神状态非常友好。,"CMU的MIIS一个学校招一个（根据地里的观点），想申的可以先打听打听年级里其他人的情况（...）
+加拿大的永居政策目前还算友好，但25年大选。想拿身份的需要关注一些相关信息，动态决策。
+MScAC有面试但对科班非常友好，根据地里资料准备一两天就好。
+学弟学妹如果有问题欢迎来问我，往年本校去加拿大的datapoints是真的少..."
+5,zj_zhangjie@zju.edu.cn,张杰,是,软件工程,否,,zj_jh115,,ETH Zurich,PhD,CSE 岗位制PhD,Artificial intelligence,选校咨询，随便聊聊,否,3.8,90,3.8,90,一次国奖,TOEFL,105，但eth不需要英语成绩,,,,https://zj-jayzhang.github.io/,all in ETH,无,在sony和腾讯实习期间，发表2CVPR，ICML，NeurIPS，AAAI，ICLR。,在腾讯实习一年，sony实习一年。实习期间主要发paper为主。,有个cvpr workshop的第一名，没啥用,一次国家奖学金,见主页,"合作的博士师兄+硕士导师+腾讯的mentor
+推荐信我不占任何优势，都是不知名推??",按照eth的官方网站，定向套瓷了10个左右，最后面试了5个，过了1个,考虑到自己没connection（美国四大不太好申），且美国签证比较麻烦（不能频繁回国），最主要还是女朋友不好带出去。同时了解到ETH入学时间灵活，意向老师很强，申请不需要英语，配偶可以工作签等等，最后决定申请季all in ETH。,钱多&学校好&躺平&签证好过,paper多&和导师方向match,
+6,yixuan_sun0215@163.com,孙懿萱,否,其他: 能源环境系统工程（智慧能源）,是,,13989834012,,Columbia University,Master（授课）,MSDS,,选校咨询，语言考试建议，随便聊聊,是,3.88,87.31,,,,TOEFL,R28 L25 S24 W29,163,170,4,,"Columbia University#MSDS
+University of California, San Diego#MSDS
+University of Michigan-Ann Arbor#MSIOE
+Georgia Institute of Technology#MSOR
+Columbia University#MA in Statistics
+National University of Singapore#DSML","University of Pennsylvania#MSEDS
+Stanford University#MS&E
+University of California, Berkeley#Meng IEOR
+Cornell University#MS IEOR
+University of California, Los Angeles#Master of Engineering DS track
+Carnegie Mellon University#MCDS
+Brown University#MSDS",ZJU 程军 2020.12-2022.12 两篇微藻固碳Chemical Engineering Journal 的三作（可以说跟ds/cs的关系不大）,"绿城中国总部 2022.4.-2022.7 数分实习
+网易 2022.8-2023.3 商分实习","2022 美赛S奖
+2022 节能减排竞赛校一等奖，国家三等奖（挂名的第六负责人）",ZJU 二奖×2，三奖×1，一堆奇奇怪怪的标兵,,"程军 校内科研导师
+潘有能 校内课程老师
+周涵 网易实习mentor
+（都不算强推）","只有找实习的经验。
+大三下的时候赶上暑期实习开放，但当时还不太懂，就跨专业且零经验盲投大厂，不出意外颗粒无收，但是从笔试和面试中也能了解些ds/da/ba岗位需要掌握的技能。刷98看到了绿城在招数分实习且零经验友好，就无脑冲了。这段实习含金量极低，就是做excel，但是经过包装写上简历后，再找下一段big name实习就非常丝滑。
+结束第一段后，我在各大厂官网海投日常实习【注意是日常，比暑期门槛低而且往往没笔试】，收到面试后在牛客、小红书上看面经，顺利拿到大厂实习offer。网易实习相比于第一段在技术、业务的难度和广度上都提升了很多，对于我来说一直在接触新事物，所以我实习了大半年。其中一封推荐信也是来自网易mentor。
+如果你和我一样属于跨专业找实习，技术不是特别过硬，也许可以像我一样曲线找实习hhh。先找段简单的练练手来包装简历，包装完成后去冲big name；以及日常实习会比暑期实习的门槛低很多，字节、网易、滴滴和快手这些大厂招日常实习会很多，可以去企业官网/牛客等挖掘一下。","因为是跨专业申请再加上今年各平台都在说申请ds很卷，所以采取了海投，并且也申请了OR的项目。
+最想去加州所以投了很多加州的学校【UCB, UCLA, UCSD, Stanford, USC】；
+从项目的质量和评价出发，投了一些风评非常好的彩票项目【CMU, Upenn】；
+再投了一些学校名气大，项目也还行的【Columbia, Cornell】;
+怕美国搞什么幺蛾子所以投了新加坡【NUS】；
+最后是中介建议比较稳或保底的，防止全聚德【Umich，Gatech，Columbia统计】
+
+如果你推荐信没问题、申请费充足、跨专业、背景没有特别强的，可以像我一样海投个15所左右hhh总会有满意offer的","最终在ucsd ds75和Columbia msds纠结。
+ucsd的pros在于环境【谁能拒绝西海岸呢】和就业率，cons在于这个项目比较新，没有就业数据，且title比不过哥大。
+Columbia pros在于title大且项目老，cons在于就业差且贵。
+最终选择哥大是因为考虑到美国就业形势最近也不大好，很可能毕业后要回国就业，如果回国就业的话哥大的title会更好使，以及哥大的名气实在是太香了。","跟cs科班比起来我的背景应该没有什么突出的优势。可能算正面因素的有
+1、实习经历还算贴近ds专业；
+2、修的一些ds/da课【大数据分析、数据挖掘】成绩好；
+3、本科能源，算不算一种美国高校欣赏的diversity？？",
+7,zhangchaohci@gmail.com,张超,是,工业设计,否,,zhangchaodesign,,Cornell University,PhD,Information Science,Human-computer interaction,选校咨询，语言考试建议，文书修改，随便聊聊,是,3.93,95,,,1/60,IELTS,7.0 R8.5 L6.5 S6.0 W7.0,,,,zhangchaodesign.com,"Cornell University#InfoSci PhD
+University of Washington#HCDE PhD
+Northwestern University#TSB PhD
+University of Texas, Austin#CS PhD","Princeton University#CS PhD
+Carnegie Mellon University#HCI PhD",,,,,,"2封美国rising star assistant professor强推
+1封香港associate professor强推
+1封浙江大学硕导强推",,尽量多申,出于研究兴趣的匹配,,
+8,yiyuanlin@zju.edu.cn,林翊源,否,其他: 农业工程,否,,,,Cornell University,PhD,ECE,Robotics,,是,3.81,86,,,,IELTS,7.0 R8.0 L8.0 S6.0 E6.0,,,,,Cornell University#ECE PhD,"无，强connection推的Cornell，只申请了这一所学校， 没有海投。
+本人数据仅用于统计，请勿发表在飞跃手册中，谢谢！",,,,,,,,,,,
+9,878686093@qq.com,侯晓臣,否,产品设计,否,,Cocooxn,,Royal College of Art,Master（授课）,MA Digital Direction,Other,随便聊聊，其他: 插画（illustration）/ 故事叙述类（storytelling）作品集辅导,是,3.95,89.94,,,,IELTS,7.0 R7.5 L7.5 S6.0 W6.0,,,,,"Royal College of Art#MA Digital Direction
+Anglia Ruskin University#MA Illustration","Royal College of Art#MA Visual Communication
+University of the Arts London#MA Illustration (Camberwell)
+Kingston University#MA Illustration",,,,"2019-2020 浙江大学三等奖学金
+2020-2021 浙江大学二等奖学金",,,,我本身是产品设计专业转插画，而且是那种比较传统的插画（实验性、不商业的手绘插画）。因此，传统的插画项目我基本都有申请，而且在申请时我几乎已经是精挑细选：ual的camberwell学院的插画是经典、老牌的实验性插画项目，必申；kingston university的插画基底扎实，老师负责，业内口碑不俗，校方诚意满满（后续直接发邮件进行伦敦游览指导），值得申请；Anglia Ruskin University的儿童插画业界排名第一，但是其他专业基本上很普通，如果不是儿插方向建议不要申请。其他学校，诸如rca的visual communication，我只是例行申请但是不抱希望（但是vc总体来说还是比较时尚的，可能也不适合我）；digital direction属于我的个人兴趣，也是申请试一下；ual的lcc学院的插画比较商业化，具体来说，风格比较扁平化，颜色比较绚丽，我没有那么喜欢所以没有申请；Goldsmiths只有儿插，所以我没申请。,"首先，我喜欢storytelling。RCA的digital direction本身就是我的梦想专业之一，并且以后我还会继续研究下去。
+其次，我只得到了两个offer，另一个是aru的插画，比较普通。因此我选择了现在这个项目。","Digital Direction 这个项目可翻译为“数字编导”，强调叙事性，digital反而是其次。辅导我作品集的老师之一毕业于RCA的实验动画专业，本身对叙事媒介比较熟悉。他推荐我进行一些叙事材料的研究，包括文字、图像类小说（比如Raymond Carver的短篇小说、Shaun Tan的绘本等）。同时，我在课余时间研究叙事手法和编剧技巧，阅读了Robert Mckee的《故事：材质、结构、风格和银幕剧作的原理》一书，并将叙事结构以一种可视化的方式作为重点展示在作品集的每一个项目中。
+在文书和申请视频中，我确立了自身作为一个storyteller的人设；而作为转专业的学生，我试图将产品设计与讲故事联系起来，说明讲故事对于产品设计的重要性（比如作为产品经理，用情怀和故事忽悠用户）。
+以上这两点应该是我申请时主要的正面因素。",
+10,howie@zju.edu.cn,段皞一,否,计算机科学与技术,是,https://www.linkedin.cn/incareer/in/%E7%9A%9E%E4%B8%80-%E6%AE%B5-65963a268,howie075,,Stanford University,Master（授课）,MSEE,Machine learning,选校咨询，随便聊聊,否,3.97,91.38,3.99,93.17,,TOEFL,108 R29 L30 S23 W26,155,169,3.5,https://haoyi-duan.github.io/,"Stanford University#MSEE
+Carnegie Mellon University#MSML
+Carnegie Mellon University#MIIS
+ETH Zurich#MSCS
+EPFL#MSCS
+National University of Singapore#CS PhD
+University of California, San Diego#MSCSE
+USC#MSCS
+USC#MSCS(AI)","University of California, Los Angeles#MSCS
+Carnegie Mellon University#MSCS
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MLT
+University of Illinois at Urbana-Champaign#MSCS
+Massachusetts Institute of Technology (MIT)#Media Arts and Sciences
+Princeton University#ECE PhD
+Yale University#CS PhD
+University of California, Berkeley#EECS PhD",ZJU、华为诺亚方舟实验室,"华为诺亚方舟实验室 2022.6-2023.8
+搜索推荐组",,"浙江大学一等奖学金 x 3
+国家奖学金 x 1",WWW'23 二作在投 x 2,"赵洲 导师 强
+朱杰明 华为实习导师 强
+汤斯亮 SRTP导师 强",,我科研准备的比较晚，申请时主申硕士项目，因此硕士项目就按照保底、主申和冲刺三个梯度进行选择，PhD就全申了彩票啦哈哈哈~,,没有明显的短板。我有着还不错的三维，三封推荐信都是强推且老师都是方向相关领域的。我在浙大和华为的实验室先后参与了一些科研并有2篇在投的工作，文书的科研部分能够有一个循序渐进的脉络。填写申请表的时候，能填的地方尽量都填了，体现自己诚恳的态度和全面发展的自我。,"提前考完英语考试，不要像我拖到11月了才考出分┭┮﹏┭┮尽早开始科研，拥有几段方向相关的科研经历，对自己的申请和今后的方向选择都大有裨益。
+感谢我的爸爸妈妈在出国申请阶段对我的鼓励和支持?( ????` )，感谢导师在科研和实习期间给予我的大力帮助和耐心点拨，谢谢学长学姐们的一路相伴！放平心态，走好自己的路，祝愿学弟学妹们申请顺利！"
+11,mengqipan0624@gmail.com,潘孟祺,否,计算机科学与技术,否,,m5pan01,qq:1205498231,"University of California, San Diego",Master（授课）,MSCS,,选校咨询，语言考试建议，随便聊聊，其他,否,3.90,87.80,,,,TOEFL,104 R30 L26 S23 W25,156,170,3.5,,"University of California, San Diego#MSCS
+University of Michigan-Ann Arbor#MSCSE
+University of California, Los Angeles#MEng
+University of Southern California#MSCS
+Dartmouth College#MSCS","University of California, Berkeley#EECS MEng
+Carnegie Mellon University#MSIN
+Carnegie Mellon University#MSSE-SV
+University of Illinois at Urbana-Champaign#MCS
+University of Illinois at Urbana-Champaign#ECE MEng
+Georgia Institute of Technology#MSCS
+Rice University#MCS",,,,三奖*2，水比赛垃圾奖*1，水线上交流垃圾奖*1,,"课程推
+班主任/挂名指导老师推
+毕设导师推
+
+还是感谢各位老师在没那么熟的情况下给填了推荐",,常规的项目从彩票到保底都看了一遍，选了一些有感觉而且有机会的就申了。Duke、NYU太贵不考虑（但还是加了哥大，虽然到4.19还没消息）、Brown托福没105不考虑、YaleGRE没328不考虑。不心疼申请费而且老师/自己交推荐信没限制的话也可以申再多几个（Cornell Tech、 UT Austin、JHU、NWU等等）。多申比少申好，录取本身有随机因素，多申至少有更多可能性。,"达茅USC保底；UCLA Meng一年制而且本身专业大杂烩，就只是分了几个track。
+
+UCSD正经MSCS+学制灵活+费用低+综排专排都不错+天气好+第一个发的。但后面UMich来了还是十分纠结（UMich综排稍高，MSCSE人数较少，专排两者差不多；但费用较高，天气较差，也没前几届学长学姐了解情况），最后直接接了offer然后放弃思考。","无实习无科研，只有一个水线上交流（NUS暑校），软背景基本为0。可能的正面因素是用有限的素材编了一个比较偏冷门的故事，文书写的是将来要去工业界做软件，致力于intersection of computer science, multimedia and art，ucsd选的track也是computer audition和software engineer（虽然不清楚track与录取结果有没有关系）。相比CV、NLP等热门AI方向可能竞争较少。","建议早规划早准备。虽然我大一就有点想出国读研，但后面新冠一来形势急剧变化，也说不清之后到底该怎么办，直到大二暑假才开始慢慢悠悠学托福，12月还让取消了一次，22年3月才第一次考托福，考完之后又开始慢慢刷GRE，9月考出GRE。所幸都是一次考出成绩，否则很难说时间有多紧张。规划不好也影响了其他方面的准备，比如不知道大三暑假的重要性。寒假在学托福，3月才考出来。大三暑假如果要实习的话应该早就开始刷题，年过完就该投提前批了。暑研应该也是寒假就差不多套好了。总之没规划好导致这些标化成绩拖到很后期才完成，也没去搞什么更多的软背景补充，没能达到理想的申请条件。
+
+申请或者说留学的重点是搞清楚目标/需求（移民/做学术/找工作/提升学历拓宽眼界/...），这直接影响到路径（做暑研/实习/...）和选校择校（哪个国家/研究型还是授课型/关注学校title还是项目质量/...）。
+
+TG报班和中介我感觉是“报之前完全不知道怎么入手，报之后感觉我上我也行”。主要问题还是刚开始接触这些内容，本身没基础知识，信息又太多太杂，不知道怎么入门。diy需要自己去找资料了解，花钱相当于买了别人给的东西，但质量不好保证。总体而言还都得自己多注意。我托福报了班，GRE自学，申请又整的半包，现在会了之后感觉还是花了有些钱有点心疼。
+
+23fall交流群里面气氛有时候不太好，包括但不限于争论gpa有用没用、学校好坏、项目bar高低、ms是不是cash cow，可能也反映了某些方面的压抑感。就像说到填飞跃手册的时候，有些成绩差或者申请结果差的同学可能不好意思填一样，最后的结果就是好像成绩一般学术一般的普通同学都消失了，飞跃手册成了飞跃海报。过度比较的风气在个人和整体上都会有负面影响。当然我的申请结果相比我的背景算超常发挥了，这么说有些既得利益的感觉。但总的来说还是希望大家互相尊重互相理解，不要给彼此太多压力。"
+12,3190103383@zju.edu.cn,张耀辉,否,计算机科学与技术,否,,15706829002,QQ 915792670,Stanford University,Master（授课）,MSEE,Computer architecture,选校咨询，语言考试建议，随便聊聊,否,3.97,92.84,4,93.39,3/159,TOEFL,102 R30 L28 S20 W24,162,170,3.5,,"Stanford University#MSEE
+University of Illinois at Urbana-Champaign#MCS
+Carnegie Mellon University#MSECE
+ETH Zurich#MSCS
+University of California, San Diego#CS75","Yale University#MSCS(two-year track)
+Carnegie Mellon University#MSCS
+Carnegie Mellon University#MSML
+Carnegie Mellon University#MCDS
+University of Illinois at Urbana-Champaign#MSECE
+Harvard University#MSCSE",浙江大学 卜凯 2022.7-2022.8 设计一种针对hardware transactional memory的攻击，无产出,浙江大学 2022.9-2023.1 数字逻辑设计 TA,,"Zhejiang University Academic Excellence Award(2020 / 2021 / 2022)
+Outstanding Students Scholarship for Basic Subjects - Second Prize(2020)
+Higgs Asset - Zhejiang University Innovation Activity Scholarship(2021)",,"卜凯 课程老师+科研导师 强
+刘海风 课程老师 强
+蔡铭 TA课程老师 强",没有套过暑研，但是就总体趋势来说一段海外暑期科研是有必要的，一般理想的情况都是大三上开始和本校老师做一段，之后暑假再进行一段海外暑研，当然对于一些文章周期比较长的领域来说，光一个暑研可能并不够，这个时候那种为期一年的交换项目就非常理想，但是咱们学校并没有太多的此类机会；也没有找过实习，目前来说找实习还是比较困难的，我觉得比较两个可行的方案一是自己导师恰好在和对方单位合作发paper，这种情况的话一段经历既可以算作科研也可以算作实习，另一种的话就是当TA，TA的话相对工作量比较小，自己也看过一些往届学长审核申请ms材料的帖子，感觉国外还是比较认可TA的工作的。,尽管将来有申请PhD的打算，但是科研起步比较晚，自己的软背景也比较薄弱（ 没有文章），所以就多申请一些可以做科研的ms项目(虽然这些项目的要求不见得比PhD低，不过今年运气真的特别好，本来给自己的定位主要就在CMU的MSECE和UCSD的cs75)，选校的话主要参考飞跃手册以及opencs，可以根据自己的方向对申请的项目做一些调整，以arch为例UIUC的MSECE，CMU的MSECE，Stanford的msee，Princeton的ee都是可以选择的，相较于正统的cs项目选课、科研差别不大，不过在选课方面需要自己仔细阅读handbook。有一点名校情节，所以诸如UTA、Umich这类arch强校也没有申请，现在回想起来还是有必要考虑一下的。因为不太想去保底校，所以就没有申请，做好了要是全被拒就gap的打算。地域的话主要还是考虑US，瑞士申请了eth，不过课业压力确实不小，看到30页的体系考卷实属给我惊呆了。Stanford的话因为只能申请一个项目，建议如果msee在自己能接受的范围内还是不要申请mscs做彩票，今年大陆已知录取的只有一位姚班的女生，难度可想而知，同样诸如图形学等方向在ICME等项目中也可以选择。总的来说在三维还算比较理想的情况下，还是尽可能多的选择一些彩票，因为说不定就中了，多和学长学姐交流。,目前还没有明确的科研方向，Stanford能提供的选择较多。后续也有申请Phd的打算，请教了往届的学长学姐，尽管是course-based的项目，但是科研实习的机会还是比较多的，包括像暑假不设置课程，实习科研可以抵一部分学分等等，ms读完以后申请本校PhD的概率也相对高一些,我的背景在众多申请者中其实算比较平庸的了，可能唯一的优势就是GPA比较高，对于一些ms项目、一些文章周期较长的领域来说，对方院校并不一定要求你在申请前就有paper，自己还一度非常担心自己20分的口语（因为摆烂没怎么准备过，还只考了一次）甚至会因为达不到一些项目的bar而被直接拒，不过事实证明还是没有问题的，所以就语言成绩方面大家不用特地担心，自己还是用实例为大家测了一些项目的英语要求下限。不过就一些比较好的ms项目来说，一般都要求申请者每个方面都不能太差，包括三维、科研经历、实习经历等等，我觉得ms申请的话一作不是必须的，毕竟对于普通计院人来说，大三的课业压力还是比较大的，文章的发表也看一些机遇，主要的话还是把自己能覆盖的方面尽量做好。另外可能的正面因素就是科研方向相对冷门，如果同一所学校存在同一个方向但申请条件比你更强的申请者，那么对于一些top项目来说录取的概率会小很多。,申请季得到了很多人的帮助，包括老师、同学、学长等等，非常感谢卜凯老师在科研方向、人生规划等等诸多方面的建议，申请季和kg的交流有效减少了自己的焦虑。我个人是大三快结束的暑假前加入到卜凯老师那，时间点难免有些尴尬，先前也提到了大三上比较合适。总的来说多和他人交流还是非常有益的，找一个小伙伴一起DIY效率很高，而且也不容易遗漏一些关键信息，还能减缓压力。文书上也没有找过中介，而是请教了18级一位同方向的PhD学长，也非常感谢学长能在百忙中抽空为我的文书提出非常宝贵的建议。科研的话自己并没有过多的经验，但我觉得多和老师交流，把自己的想法表达出来还是非常重要的，不然对自己对老师都不是一件好事。同样的对自己申请的定位(ms还是PhD)比较明确的同学，在实验室的选择以及科研项目上也可以做一些选择，比如说对于ms申请来说，take part in 比 lead 一个项目可能更加合适。总的来说我的申请季运气成分比较大，希望大家在申请季都能获得想要的offer。
+13,194636027@qq.com,匿名,是,软件工程,否,,17799857875,,ucsd,Master（研究）,mscs,Computer vision,选校咨询，随便聊聊,否,3.83,86.8,3.90,-,34/80,TOEFL,106,157,170,,,"ucsd-mscs
+ucla-meng
+ucb-eecs调剂ieor
+usc-cs28
+upenn-cggt wl","cmu-mcds
+umich-mcse
+yale-mscs
+uiuc-mcs","2段校内
+1段海研",1段,无,三奖*2,无,1课程 1科研 1海外,,飞跃手册上选了几个较容易录取的,环境好，学业轻松好找工，学费便宜,ucsd靠运气,cmu可以多申几个项目，ini的也可以试试。个人认为只申uc系列，uiuc，cmu就够了。
+14,Luxy2001@outlook.com,陆星宇,否,信息安全,否,,L1533844852,,National University of Singapore,Master（授课）,MSDSML,Economics & computation,选校咨询，语言考试建议，随便聊聊,是,3.72,85.69,,,,IELTS,7.0,,,,,"National University of Singapore#MSCE
+National University of Singapore#MSQF
+National University of Singapore#MSDSML
+National University of Singapore#MSSTAT
+Nanyang Technological University#MSDS 
+Nanyang Technological University#MSAI
+Nanyang Technological University#MSCS
+The Hong Kong University of Science and Technology#MSFINTECH
+The Hong Kong University of Science and Technology#MSBDT",暂无,至申请材料提交完成，有安全方向科研一段，经济方向科研一段，数据方向科研一段,某互联网公司实习一段，大部分申请材料中未写,"四段数学建模竞赛经历，获奖级别不同
+商赛创赛经历若干，申请材料中一笔带过
+其他各方向竞赛若干，均未在材料中提及",校级荣誉若干，包括三奖,"无已发表论文，有安全方向专利
+经济和数据方向均有未发表论文",都是本校各专业方向的老师，有些项目不需要推荐信就没交,,因个人规划，申请时all in港新，更偏好新，收到港科和nus的保底offer后就放弃了港大和港中文的后续流程。申请规划是用cs类项目保底，主申金工量化（含强数据项目），无冲刺项目。因为港三新二属于同档次学校，因此主要差异在项目上，申请的时候基本把符合条件且心仪的专业申了个遍，有些强制要求GRE/GMAT的项目没有申。港新的申请流程很简单，申请费也很低，因此建议能申多申，总会中几个。,综合考虑个人规划、课程设置、项目的bar、毕业去向四个方面。获取信息的方式包括多平台咨询各项目学长学姐，官网资料，咨询同事和家里人脉等多种渠道。,仅面向港新授课硕，个人认为正面因素按重要程度排序：学校背景>GPA>较高的匹配度（申请项目的核心课程基本都修读过）>科研竞赛实习语言文书推荐信等,"1. 申请全过程没有联系中介，文书简历和其他申请材料都是纯DIY，文书有请人帮忙润色。个人认为时间规划和英语写作还可以的同学，申请港新不需要找中介，申请流程可以参考经验帖，很简单。
+2. 申请港新一定要早申！项目开放最好马上申请，新加坡的提前批也可以考虑下，条件够好就会早申早录，不然等offer的过程会有一点点焦虑
+3. 欢迎学弟学妹通过邮箱和微信咨询，申请流程、学校项目、科研竞赛等问题都可以聊～"
+15,houmx0607@outlook.com,侯明欣,否,其他: 建筑学,否,https://www.linkedin.com/in/mingxin-hou-073ba226a,,,"University of California, Irvine",Master（授课）,MSWE,,选校咨询，语言考试建议，随便聊聊,是,3.92,88.3,,,,TOEFL,111 R30 L29 S24 W28,160,169,3.5,,"University of California, Irvine#MSWE
+Rice University#MCS
+Brandeis University#MSCS","University of Pennsylvania#MCIT
+Duke University#MSECE
+Georgia Institute of Technology#CSE
+University of Illinois at Urbana-Champaign#MCS
+University of California, San Diego#CS76
+Yale University#MSCS
+University of Chicago#MPCS","浙江大学
+董玮
+22年暑假
+本校水科研",,,一奖、省奖,,"董玮 导师 科研推
+王东辉 课程推
+彭希羡 课程推",,"预算有限，排除太贵的：纽约地区的学校；时间长的学校。其他能申的基本都申了
+还应该多申一些IM IS这种项目，我这半个理工专业其实不太好申CSE/ECE的项目。今年UCSD CS76几乎没录陆本，CS75机会大一些，但其实谁也说不好明年是啥情况。转码项目bar涨得飞快，应该尽量多申
+UPENN MCIT目标是零基础学生，CS课多于4门就没必要申了
+选校参考 https://opencs.app","RICE 和 UCI 各方面都差不多，感觉更喜欢加州的环境一些，找工主要还是看自己（和运气）所以选了UCI
+UCI几个项目的介绍：
+https://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=71&filter=sortid&sortid=343&searchsort=1&searchoption%5B3024%5D%5Bvalue%5D=UCI&searchoption%5B3001%5D%5Bvalue%5D=0","CS课和数学课多，但是还不全
+申请之前修过C小、C大、计网、python、人工智能。申请的时候（大五上）修了DS OS OOP。这一学期的成绩可以及时更新到网申系统里，可以在CV里面标注在修的课，还可以跟在修的课的老师讨推荐信，还有就是文书里也可以强调，应该多少有点帮助。","我的USC CS37还在泡池子，TAMU MCS估计默拒了。CS类项目申请量越来越大，申请结果都带点玄学，不过是有的还可以解释下，有的是玄学中的玄学，可能没啥项目是稳录的，所以需要多申。
+我觉得转码跨申最重要的应该就是先修课了，一般要能写在成绩单上那种，有的国外学校的暑校 online bridge课也行。
+最好要修的课：编程语言; DS; OOP; 计组/计概；数据库；OS; 计网
+数学课：微积分；线代；概统；我记得UCSD有写要求离散，其他项目好像没看到
+转码友好项目对先修课的要求可能也会变化，最好去看官网，有的项目没明确写要求什么课
+校内选课的话推荐管院数据结构，简单好刷分，老师人很好，没上几节课就答应帮我写推荐信了。我选计院FDS从大三选到大五还没选上……
+建议从未来找工的角度出发，也得多学点CS课，相关课学得不多的话没法找实习
+
+语言准备：
+看了很多98经验帖，主要看各种资料自己学。GRE想考高一点得背至少一个月的单词，我是在微信小程序抖词上背的，但是只来得及背两遍根本记不住，然后Verbal刷题；数学部分看了张巍GRE的满分宝典和170难题，基本够用了。另外安利一下B站UP 加一正在学习中，关于GRE从背单词到刷题都讲得挺好，她也有背单词的小程序，挺好用的。
+托福阅读听力主要刷题；写作看了B站Vince的视频，托福写作挺套路的，可以多看看范文；口语看了B站吴奇的视频，参加了一期他的口语训练营，体验还好，有效抑制拖延；感觉托福口语写作给分挺玄学的，我托福首考 104（29+29+21+25）两个礼拜之后再考一次就考出了。期间我找了口语一对一纠发音，但是感觉考试的时候发挥得一般。所以可能差一两分多考几次就考出来了…… 建议早点考掉
+
+文书：
+从上过的参数化课开始理出一个转码心路历程，并且尽量强调CS相关背景。主要是自己写的，fiverr上找人改一下语言就交了。
+
+学弟学妹们如果有什么问题欢迎联系~ 
+=)"
+16,kevinliu@zju.edu.cn,劉哲愷,否,电子科学与技术,否,https://www.linkedin.com/in/che-kai-liu-719a7918b/,I_mKevinLiu,,Georgia Institute of Technology,PhD,ECE,High-performance computing,选校咨询，语言考试建议，文书修改，随便聊聊，其他: 都行,否,3.72,84.98,,,,TOEFL,103,,,,,"Georgia Institute of Technology #ECE PhD
+University of California Irvine #CS PhD
+University of Notre Dame #CSE PhD",无,"ZJU 2020/12-2022/4 CCF-B会议 一作 申请前见刊 亲自口头报告并当面套瓷
+ND  2022/4 - 2022/12 CCF-A期刊 共一第二（字母序排序）申请时在投
+UCI 2022/8 - 2022/11 CCF-A会议 一作 申请时在投（申请后被拒）/ CCF-B会议 N作（申请前中稿） / 其他乱七八糟N作",,,,"中国专利受理x2
+美国专利受理x1",ZJU/ND/UCI 皆强推,,,,,见98帖“給沒信心的你加油打氣: <85均分 11月拿到美Top10 ECE PhD”
+17,hanxif2@illinois.edu,方晗熙（废弃版）,否,其他: 地理信息科学,否,,1799321862,,University of Illinois at Urbana-Champaign,Master（研究）,MSCS,,选校咨询，随便聊聊,是,3.96,89.4,,,,TOEFL,109 R28 L29 S24 W28,154,169,3.5,,"University of Illinois at Urbana-Champaign#MSCS
+University of California, San Diego#MSCS(CS75)
+Carnegie Mellon University#MSIN
+Duke University#MSECE
+University of Southern California#MSCS(CS28)
+University of Wisconsin - Madison#MSDE
+University of California, Berkeley#MS-City Planning&MS-Transportation双学位（非CS项目）","Carnegie Mellon University#MSCS
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSAII
+University of Wisconsin - Madison#MSCS
+ETH Zurich#MSCS
+Swiss Federal Institute of Technology Lausanne#MSCS
+Georgia Institute of Technology#MSCS
+University of Pennsylvania#MSE CIS
+University of Michigan-Ann Arbor#MSCSE
+Duke University#MSCS
+Massachusetts Institute of Technology#Master in Urban Planning（非CS项目）
+Massachusetts Institute of Technology#Master in Transportation Engineering（非CS项目）
+Harvard#Master in Urban Planning（非CS项目）","浙大 高云君组 大三 时空数据库 两篇三作（申请时在投）
+UW-Madison 地信实验室 暑研 一篇地信相关一作（申请时已写完还在修改中）",,全国大学生GIS应用技能大赛 2021 特等奖（一个对申cs没什么用的竞赛）,,"TKDE 申请时在投 三作
+TITS 申请时在投 三作","浙大数据库实验室高云君老师 科研推 强推
+浙大数据库实验室陈璐老师 科研推 强推 
+UW-Madison暑研地信领域老板 科研推 强推",,,导师很nice，方向喜欢，CS排名高，Career Fair据说还不错，可以转博并且本校转博士能节省一年（适合我这种七八成概率想读博两三成概率想招工的骑墙派），TA/RA免学费还给生活费,"1. uiuc选导师有眼光，一选一个准（刚好需要学生，刚好人很nice，刚好方向我还比较喜欢）。我申请季全程就申请了这一个研究型项目，就套了这一个老师，没想到命运给了个意外惊喜。在这里推荐背景像我一样相对一般的朋友们，相比挤破头去大牛组，真的可以看看AP们的文章的具体内容看看研究方向和方法自己喜不喜欢，如果喜欢就选AP导师去陶瓷。有些导师做的还是相当不错的，只是因为年轻所以引用量相对低一些。
+
+2. 面试表现非常好。导师问的问题是和他的一个科研相关的，但是我直接联想到了Spark的一些原理，然后和他探讨了自己的一些想法，获得了赞许。这里真心建议，认真对待自己的每一段科研，搞清楚所有东西的原理，不要太功利也不要太焦虑，这样不仅能获得内心的快乐和平静，真正享受当下，有时候也会带来好运。
+
+3. 我的文书质量还是很高的，中介是一个个人，相比机构不仅便宜，而且水平极高。把我完全连不起来的故事硬生生讲出了一个版本。","1. Life is like a box of chocolate, you never know what you're gonna get。申请这件事情很玄学，很多时候需要靠一些运气。所以与其说申请要提前规划，不如说要尽早找到自己喜欢做什么。尽量享受你的科研，努力发现自己喜欢什么，找到自己的热情所在更重要。把问题都去搞懂，和组里的学长学姐深入交流学术，享受当下比发文章本身更重要。
+
+2. 早点找一切资源获取信息。我的大一大二大三上基本都是水朵朵度过的。直到大三下之前完全不知道98有这么多资源，甚至不知道什么是飞跃手册。我在大三下之前的选择（比如做什么SRTP，选什么课，需不需要以及什么时候进组，寒暑假怎么利用）基本都是盲选，绕了不少弯路。另外，大一的小朋友一般和大二的比较熟，但其实很多时候大二也不懂什么，如果你真的想对自己的未来从大一开始规划，建议直接咨询大四甚至研究生、博士生。
+
+3. 别再纠结浙大的课程质量了！别再尝试想从水课里学到什么了！挂梯子，找国外名校的课！直接从大一开始就可以上世界大学了！如果是cs，请google csdiy，会发现一个新世界。当然，我到了接近大四才发现这一点，悔恨不已。"
+18,chanceus@icloud.com,余晨阳,是,电子信息,否,,,QQ:786698925,University of North Texas,PhD,CSE,Databases,选校咨询，随便聊聊,是,3.5,82.5,,,,TOEFL,100 R28 L24 S23 W25,150,168,3.5,,"University of North Texas#CS PHD
+Kennesaw State University#CS PHD
+Old Dominion University#CS PHD
+University of South Carolina - Columbia#CS PHD
+Michigan Technological University#CS PHD",Georgia State University#CS PHD,"校内NLP相关科研，无产出
+校内CV相关科研，无产出","百度 3个月 测试开发实习生
+网易新闻 4个月 服务端开发实习生",,,,"网易实习导师
+研究生导师
+本科课程导师",一定要早陶瓷，不要因为害怕背景弱就不敢发邮件,"Funding,地理位置
+方向是否promising,毕业要求",Dallas生活成本低，大城市中餐丰富，科技大厂多方便找实习。导师是该领域Senior professor，毕业要求低,,
+19,bdwhst@qq.com,杨焓,否,其他: 能源与环境系统工程,是,,_6dwhst_,,University of Pennsylvania,Master（授课）,MSE,Computer graphics,选校咨询，随便聊聊,是,3.66,85,,,10%,TOEFL,107 R30 L30 S23 W24,169,169,3.0,,"Dartmouth College#CSDA
+University of Pennsylvania#CGGT
+University of Chicago#MPCS
+New York University#MSCS",mscs很多,水水校内科研,,,二奖，三奖,,毕设老师，cadcg老师，课程老师,,"图形学有关的项目还有general下面的一些比如ucsd，gatech自带graphics的track。
+后悔加州系的申的太少以及gatech没申",找工好一点,gre考的高不知道是不是录取因素,转专业gap了一年，debuff拉满了，还有学上，大家一定要多申一点相信自己
+20,ywqqwq@gmail.com,杨婉倩,否,计算机科学与技术,是,,ywq965641225,,ETH Zurich,Master（授课）,MSCS,,选校咨询，语言考试建议，文书修改，随便聊聊,否,3.93,89.47,,,,TOEFL,101 R30 L27 S19 W25,160,170,3.5,,"ETH Zurich#MSCS
+University of Southern California#MSCS","Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSIN
+Yale University#MSCS(one-year)
+Swiss Federal Institute of Technology Lausanne(EPFL)#MSCS
+University of California, San Diego#MSCS
+University of California, Berkeley#EECS MEng
+University of Illinois at Urbana-Champaign#MCS",一个很水的SRTP,一段腾讯实习，三个月,,"2019-2020 浙江大学二等奖学金
+2020-2021 基础学科拔尖学生二等奖学金
+（在CV上写了，后来感觉不如不写）",,两封课程推 + 一封科研推 + 实习mentor,,"主要是在往年学长学姐们申请比较多的项目中选了十所左右。
+该申没申的：比如cornell tech，当时偷懒不想搞wes认证。（后来觉得在没有书读面前，做一次认证，多写一封文书，多交一所申请费是多么小的一件事啊TT）
+其次就是加拿大的学校，加拿大的项目比较卡小分，因为托福这个实在没办法所以没申。
+然后保底新加坡的学校，当初计划的是拿USC和NUS保底，但是因为对申请结果盲目乐观所以没有申NUS（这个确实在等申请结果的过程中感到后悔了）。
+
+没必要申的项目：USC CS28，很感谢它给我发了offer，收到offer的时候也确实开心+安心了一些hhhh不然我真的怀疑我是不是网申系统填的有问题了。但是在很长一段时间里我手里只有USC offer的时候，我考虑的是gap一年再申而不是去USC。（当然这个项目本身还是不错的，读的过程中可以找两次实习，不想去主要是因为太贵了+不甘心。）虽然很多人拿USC保底，但是即使拿到offer也不会去的项目，没有必要因为硬要有个保底就去申请。","首先，我没得选。（划掉）
+ETHz这个项目本来就是我非常喜欢&&想去的。之前想的是在美国读研+找工，但是今年美国形势不太好，自己考虑了之后发现并不排斥读完研后直接回国工作，这样美国对我的吸引力就没那么大了。基于此，无论是开销、排名还是安全程度，ETHz都太香了。而且在仓促春招的过程中我也意识到了自身竞争力不太足的问题，在硬核的ETHz应该可以学到不少东西hhhh","从我的申请结果来看，很难说有什么正面因素……大概是运气比较好吧hhh（谢谢灵隐寺）
+但是可以帮忙排雷：gre在申请中是真没什么用，不用花大力气准备 :(","申请季对我来说实在是漫长且痛苦。
+我是在大三上才开始考虑出国的可能，大三下才坚定自己要出国的想法的，之前想的都是保研。父母一直比较支持我出国，我妈也跟我说可以先把托福考了，即使之后不出国也有用，但是因为自己的懒+拖延症（不要拖延症！不要拖延症！不要拖延症！），直到22年9月底才首考托福，放弃保研的时候我甚至还没有一个托福成绩。
+但是首考托福的分数很烂，我之前又很想去yale（有点名校情结，再加上yale对zjuer比较友好，bar相对透明，比起申请季种种玄学不确定因素，这种友好很让我心安），所以想尽量把gre分数考到328以上。中间的过程略去不谈，我最终在11月13日和11月20日分别把gre和托福考到了330和101。（中间还抽空看完了整个S赛（x））
+
+当时看到托福口语只有19分的时候我是崩溃的。虽然首考托福的口语分也不高，但是当时是在扬州考场考的（这个考场真的不推荐，当时选考位的时间比较紧张，只剩扬州有位置了，大家不到万不得已的情况还是不要去那考了），我一个口语很好的朋友在扬州考场口语分也不高，所以我也觉得大概是设备问题，收音不好。直到现实告诉我：原来我是凭实力考这点分的（。
+
+关于为什么没有去重考：
+当时的情况也还是有时间再考一次托福的（虽然时间真的很紧张很紧张了）。经历2个月极限备考gre+托福，我整个人都快被掏空了。所以翻了一下最近几年的飞跃手册：
+1. 从录取结果看，CMU SCS不卡托福小分，（我当时：连CMU都不卡，你们其他学校凭什么！）UCSD也不卡。（都有托福口语19被录取的案例）
+3. Yale官网上没有说托福最低要求，但是往年有托福95+的学长被录取，所以我天真的以为托福对yale来说不重要。（我当时觉得托福总分>100，口语19是比总分100-，口语20+更占优的，看来不是2333）
+4. EPFL官网上也没有说最低的语言要求，甚至可以不提交语言成绩。（不过EPFL拒了我之后我发了邮件询问具体的被拒原因，收到回复: The commission considers the overall application, including suitability to the specific program, academic background, previous coursework, specific grades and GPA, as well as motivation and confidential reference letters. 倒也确实不是因为语言拒的。）
+5. 其他学校中，gatech明确提出小分要求19+，uiuc虽然有个103的要求，但是并不是强制的，minimum的要求还是可以满足的。
+
+所以，我当时乐观地觉得自己会有一个还不错的结果（有一个还可以的gpa，托福满足100+，gre还行，科研和实习也都有），UCSD CS75，Yale MSCS，EPFL MSCS录取我的概率都比较大，而这三所学校我都很乐意去。除此之外Gatech，UIUC也完全有可能，其他学校申到就是赚到，没有必要再去考一次托福了。（结果我是小丑。）
+
+上面写这么多就是想说：申请本来就够玄学了，就不要再让自己有什么致命的短板来增加负担了。（托福口语很重要。）申请是大事，千万千万不要有赌的心理，任何一个环节出错都可能功亏一篑。
+
+申请季的一些经验之谈：
+1. 申请真的很玄学+运气。今年申请确实卷，但是我还是觉得UCSD拒我很玄学（不过ucsd的bar近年来也确实水涨船高）；UIUC MCS相比去年缩招不少，甚至感觉录取难度比之前还大（当然也有可能是我错觉）；EPFL也可能（针对陆本）缩招了。大家能做的也就是把每一个环节都做好。
+2. 尽量多申项目，选好保底。我三月份觉得要被（除USC）全聚德的时候想的就是如果年底再申一次，准备开启全球混申模式，多申学校。其实我在申请的时候没有很想去瑞士，但是过了一个寒假就变了。除了增加录取概率外，想法可能是会改变的，多申学校至少到时候可以有选择的机会。而且回过头来看，我自己的选校还是有点激进，热门的项目本来就竞争激烈，即使被拒了也不奇怪。（保底的重要性）
+3. 早一点提交申请。反正早提交总不会有坏处，对吧？
+
+最后，要相信努力是不会被辜负的！祝大家都可以收获理想的结果~"
+21,wangzhe00zju@gmail.com,王喆,否,其他: 主修地理信息科学，辅修人工智能,否,https://www.linkedin.cn/incareer/in/ACoAADj6QYEBEVmLznqoG3tvGqNPdT0ART_lCFg,flyingdoubleG,,Yale University,Master（授课）,MSCS（一年制）,Artificial intelligence,选校咨询，语言考试建议，文书修改，随便聊聊，其他: 随便啥都可以问，尽我所能回答hh,是,3.90,88.04,,,排名好像不重要，没交,TOEFL,104 R29 L28 S21 W26,162,170,3.5,,"National University of Singapore#DSML
+The Hong Kong University of Science and Technology#BDT
+Yale University#MSCS","EPFL#NLP&creativity PhD
+UCLA#NLP PhD
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSCS
+Carnegie Mellon University#LTI
+Carnegie Mellon University#MIIS
+Carnegie Mellon University#MSML
+Harvard University#MSCSE
+Stanford University#ICME-DS
+University of Pennsylvania#MSE CIS
+ETH Zurich#MSCS
+ETH Zurich#MSDS
+EPFL#MSDS （申请的时候少按了一个按钮导致申了第二批，现在还没发decision）
+University of Toronto#MSCAC（3月25号发了面试邀请但我最后没去）
+Georgia Institute of Technology#MSCS
+Cornell University#Cornell Tech Connective Media
+University of Waterloo#MDSAI
+King Abdullah University of Science and Technology#MSCS（有一个教授捞但是方向不太喜欢）","浙江大学 数据科学中心 徐仁军 大二SRTP finetune Longformer和BERT做科研论文的审稿意见生成
+浙江大学 计院 陈柳青 大三 实验室项目 基于中文维基百科的创意激发语义网络",无,无,（校三等奖学金+专业优秀奖学金） * 3年,无,"陈柳青 科研推 强
+徐仁军 科研推 强
+巫英才 课程推 强
+况琨 课程推 强",因为我是想做computational creativity，这个领域全世界可能都没几个人在搞，陶瓷的教授都没理我，就还是在校内陈柳青老师这做（本来打算保研去他实验室，但是感觉一些方面还是和老师不太合得来，就出国看看，陈老师的connection主要是在英国（））。我后来觉得最好还是在大三春夏学期积极陶瓷，暑研找国外老师，有connection的强推可能会有用很多。,我选校的思路是港新保底，抽瑞加美彩票，整体呈一个倒金字塔，保底的项目可能一两个就够，彩票项目必须全部拉满（只要托福等一些硬指标不会卡住，可参考https://opencs.app/guide/看软硬指标）。因为港新的项目都offer给的比美国早，而且需要巨额留位费（5万RMB左右），我建议可以尽量晚一点交，不用为了所谓的rolling制过分焦虑。我HKUST的BDT项目是拖到第二轮申请1月18号才交的，后面3月7号收到offer，3月份美国很多学校也会发offer，可以比较一下省下港新学校留位费的钱。从最后的申请结果来看，港新确实可以作为保底，美国的彩票只中了一个，差点全聚德也是很刺激。如果再申一次我的彩票项目应该会加上stanford 的mscs msee和uiuc mscs mcs。,感觉不论有脑子还是没脑子都只能选这个，反正最后都可能是回国的,"我个人分析可能主要是三维比较高（今年yale mscs也没有要求GRE必须超过328），然后大佬都分流去卷两年制的那个了。
+我写在简历上的修过的计算机相关的课有：Fundamentals of Data Structures(4.0), Advanced Data Structures & Algorithm Analysis(4.0), Computer System(4.0), Operating System(4.0), Computer Networks(4.0), Geospatial Database(4.0), Theory of Computation(4.0), Artificial Intelligence (4.0), Computer Graphics(4.0), Natural Language Processing(4.0), Data Visualization(4.0).
+我怀疑可能是sop或者推荐信有些地方有毒[AC01]感觉我的sop写的还是很好的（）","单从提高申请结果的角度，我认为如果我回到过去，我还能做的是在平时再学一些数院的课（参考https://www.cc98.org/topic/5561709哈哈），暑研陶瓷国外导师并且尽力拿到强推，如果能再发一篇论文会更好了。可惜回不得。
+
+对于英语学习方面，我会推荐大家在学期初或者学期中考试，这样有前面的假期一个月左右或者秋/春学期没有考试压力的两个月左右时间全力练题目。我总结的托福核心是刷题锻炼自己的脑子、耳朵、眼睛和嘴巴（阅读需要背单词加多看长难句，听力需要多精听，口语需要大胆多说，写作需要有清晰逻辑表述，不需要堆砌各种所谓好词好句），GRE核心是背完那些鬼一样的单词并具备一定的逻辑能力。托福我是大一有上新东方的托福课，事实证明这样上课对学英语来说屁用没有，英语主要还是得靠自己背单词，大量训练提升听说读写能力。我第一次托福考试是在大二寒假，总分90分，完全申不了美加瑞的程度。后来我选择在大三秋学期考试周（现在已经没有了）先把GRE考掉，顺便能提升一下自己的词汇量，具体的攻略可以参考https://www.cc98.org/topic/5192759，一次出分332还是很爽的。后面我是在大四秋学期开学初（9月4号）考第二次托福，有了之前新东方的教训，我这次报了一个线上的皇冠托福二八营（不知道之后会不会开了），因为我阅读还是可以的，只报了听力、口语和写作的二八营，一个科目的价格大概在七百-九百，这个营会讲很多精炼而有用的技巧，在微信小程序提供托福真题（不是tpo）供每天练习，听力有精听的功能，老师还会提供口语、写作的6次批改服务，最后我托福第二次考是104分，感觉已经到个人能力极限了，后面就没再考。
+
+其实等我9月4号托福考完的时候，我申请的硬件资料就差不多完成了，后面就是写简历sop，填每个学校的申请表格，我也是在notion准备了一个电子表格记录了各种学校项目的ddl、申请链接、账号密码、申请结果、推荐信确认情况等。每个项目新建一个文件夹放对应修改的简历和sop等。我一般都是ddl的前一天填学校的申请表格，大部分学校都来得及，除了EPFL我少点了一个确认之类的按钮导致申请交到了第二批，相当于没申请了。整个申请最难熬的也是提交申请到得到decision的那段时间，大概有2~3个月，那种感觉就像你往一个深不见底的深渊里抛了大概二十个硬币，硬币到底朝上朝下得等到几个月之后你才能知道，我那段时间入坑了原神每天肝5小时以上，这样让自己少想申请的事情hh。
+
+对于各位之后几届的学弟学妹，我觉得大家应该以一个一起合作、一起进步的态度真诚地对待身边的同学，积极地帮助身边的同学，互相分享资源，一起进步。你今天帮助了你的同学，你的同学就会变得更强，未来能在一个更高的位置帮助你。千万不要以他人的损失来成就自己，不要妄自菲薄，从恶性竞争、卖弱、慕强、鄙视链等行为中得到乐趣。你今天鄙视、看不起的同学可能未来会发展地比你好很多。成功只是偶尔，失败才是人生的主旋律，任何成功的创新都建立在对失败包容的态度之上。
+
+我个人认为未来的大趋势是中升美降，中国在整个欧亚大陆的影响力会越来越大。国内的物质生活会越来越好，去国外作为一个外国人为了身份受苦可能会越来越不值得。但是必须承认的是，目前中国在整个科技创新领域和美国还是有明显的差距，可能一方面是经济实力的差距，一方面是思想文化的差距？说难听点，我感觉中国很多的科研都是在吃美国两三年前的尾气。科技创新是第一生产力这句话会一直适用，直到人类真的到达生产力极大丰富那天。
+
+我的sop写的是AIGC方向，这也会是我未来主要想做的方向。在2019年大一求是潮设计的一些经历中，我隐约感觉到很多设计、绘画的东西其实都可以用计算机来做。在一个设计作品中，可以说大概有90%以上的都是重复劳动，剩下的不到10%是想象力与创造力。之后我就在2020年大二申请了人工智能专业的辅修，上了一些人工智能的课，在计算摄影学这门课里面，我跑了一个CycleGAN的照片和山水画互相转换的模型，这可能是我人生第一次体验到AI的能力，当时的AI能够很好地捕捉各种山水画的绘画风格，但是仍然不能创造出自己的风格。（从现在的AI模型深度学习训练模式来看，AI能够生成的文字和图片主要是基于训练数据集域内的信息，而无法生成域外的信息。换言之，AI能够完成设计作品中90%的重复劳动，真正的10%的创意依然需要人类提供。如果从信息的视角看GPT-3.5、GPT-4这样的大规模语言模型，它们其实是把巨量的数据压缩到了一个小小的模型里面，可能真正在模型的参数中保留的就是那10%的人类创意）我觉得让计算机有真正的和人类一样的创造力会是一个非常值得研究的方向，我当时了解到这涉及计算创意学（computational creativity）领域。计算创意学这个方向其实真的特别小众冷门，我在这个方向走了挺多的弯路，后面发现可能最终还是研究AI的人能够真正地实现让计算机拥有创造力。个人目前的想法是如果能让计算机获得和人一样的真实世界感知和交互能力（这个能力随着未来AI基础模型和算力的不断升级会逐渐变成现实），其实创造力自然就会产生。所以我后面还是准备申AI相关的硕士和PhD，但是结果证明AI相关的所有都是特别卷，没有比较好的论文或者推荐信很难申到资源好的项目。
+
+在2022年4月OpenAI推出DALLE2的时候，我意识到这会是一个新的AI能力拐点，可能一个新的生产力革命正在孕育。在那之后短短的一年里，加上11月chatGPT这个自然语言生成模型的推出，AIGC的概念一下子爆火，这可能一定程度证明了我从大一开始的直觉是对的hh。在兴奋之余，我也看到了一些艺术家和设计师开始抵制AI，因为AI使用了他们的数据进行训练，抄袭了他们的画风，这确实是急需解决的问题，个人应该拥有对自己产生数据的合法权利。同时，AI也确实可能会抢了很多人的工作机会，我看到了生产力发展、生产关系发生变革的宏观背景下一个个微观个体的挣扎，我自己也是这些微观个体中的一员。
+
+一些特别有用的网站：
+https://opencs.app/guide/对于申国外计算机方向研究生的大陆本科生来说，这个网站是最全面好用的，包括了各个学校和项目的申请难度，和一些项目的软硬指标。未来申请的信息会越来越透明。
+https://www.1point3acres.com/bbs/这个网站有很多高质量的留学相关信息，可以查到每个学校项目的真实体验情况。申请有啥不懂就在这个论坛搜就行。
+https://www.youtube.com/对于学计算机的同学，油管的计算机相关视频质量是非常高的，像斯坦福大学就把特别多的公开课都上传在油管了，绝对是全世界最顶级的学习资源，而且免费，还能顺便学英语。B站的很多视频其实也是从油管搬运、翻译来的，丰富程度和质量还是油管更强。
+https://www.yankong.org/这个网站里面可以查到国内相当一部分科研导师的真实面貌，对想保研的同学非常有用，说不定看起来表面对本科学生关心的老师背地对研究生是一个压榨学生、辱骂学生、抢学生一作的恶魔hhh。
+https://poe.com/chatgpt
+chatGPT拿来翻译、改语法、读代码、写代码、查资料、想框架、改文书、写邮件等等都是特别好用的。很多功能用了就知道，是你想不到的好用。"
+22,zehaozhu666@gmail.com,朱泽昊,否,软件工程,否,,zzh15235665269,,The University of Texas at Austin,PhD,ECE,,选校咨询，文书修改，随便聊聊,否,3.94,89.6,,,,TOEFL,103,,,,,"The University of Texas at Austin#ECE PhD
+University of Illinois at Urbana-Champaign#MSCS
+University of Maryland, College Park#CS PhD",—,,,,,,一封海外推，两封校内推，应该都是强推,感觉不管是申ms还是phd都可以找找海外科研的机会，对于zjuer来说，只要大胆地reach out一般都可以找到很不错的科研机会,选校可以多申一些，保底可以不申，但彩票一定要多申申，差不多十一月就可以开始准备申请的材料和选校了，尽量不要拖到ddl最后几天才提交。（phd一般是12.1，12.9，12.15，12.21的ddl）。phd选手可以申一些科研型ms，比如cmu msr，uiuc mscs,当时也纠结了很久，最后还是觉得ut的研究方向更match,根据我面试的反馈，我认为还是推荐信的作用最大,"做科研一定要多和老师交流，多做slides总结，不要闷头苦干。
+一般phd面试都集中在一月两月。最好做个slides讲一讲自己科研经历，面试前可以演练几遍，每个老师的面试时长都不太一样，有只让你讲10min，也有让你讲1h的，所以要准备应对不同时长的ppt。
+关于陶瓷，大部分老师都是你交完材料才面试（可以看到你的推荐信），但也有少部分老师会在你发完陶瓷信后就面试，陶瓷个人感觉一般是在十月到十二月套。"
+23,christezeng@gmail.com,曾帅,否,计算机科学与技术,是,linkedin.com/in/shuai-zeng-60081a259,zs1433281810,,The University of Texas at Austin,Master（授课）,ECE-SES MS/PHD,Software engineering,选校咨询，语言考试建议，文书修改，随便聊聊,否,3.96,90.3,3.98,92.63,,TOEFL,106 R30 L28 S21 W27,158,170,4.0,,"Brown University#ScM CS
+Yale University#MSCS (one-year track)
+Carnegie Mellon University#MSECE
+University of Illinois at Urbana-Champaign#MCS
+University of California, San Diego#CS75
+University of Southern California#CS28
+The University of Texas at Austin#ECE-SES MS/PHD","Carnegie Mellon University#MSCS
+Carnegie Mellon University#MCDS
+Georgia Institute of Technology#MSCS
+University of California, Los Angeles#MSCS
+University of Michigan-Ann Arbor#MSCSE
+University of Illinois at Urbana-Champaign#ECE MEng",浙大CCNT实验室 李莹 k8s autoscaling 无产出,字节跳动 2022Summer 推荐架构相关实习,,"浙江省政府奖学金
+浙江大学二等奖学金",,"竺院导师 
+科研导师
+实习Mentor",,"选校时完全参考一亩三分地和飞跃手册上的大众项目申请，和大众的重复率90%以上
+而且目前opencs.app的选校信息也非常丰富准确，建议参考飞跃手册和opencs.app选校
+浙大保底USC CS28一般都会申，基本能保住，其它就把主流的都申请一遍，不留遗憾
+而且注意要留足时间填网申+不要犯懒，我就是因为太懒了+太拖延了没有填CMU MSIN(确实这个项目要填的太多了)导致申请季有点后悔
+而且口语尽量要刷到23分以上，刷不到CMU SCS(至少23)、Cornell Tech(卡22)和加拿大UofT MScAC(卡22)基本没戏，我就因为口语不足错失一些机会
+建议GPA高的同学也申一手瑞士，多一份保障(我因为错估形式all in US就没申请)","UT Austin ECE SES (Software Engineering & Systems) 完全是一个CS项目，所以不用担心要上硬的课。课程可以选CS的研究生课和ECE的课(能选，选择不多)，但是我想上的课还是有，而且可以学习其他Track的内容，比如DICE Track在ML领域非常强，甚至可能比CS Dept的ML强。因为Austin无论是CS还是ECE人数都非常少，而且CS Dept的课非常理论和数学，所以理论上ECE的课可能更适合我。
+
+UT Austin ECE人少(一届10人左右)也有一定的好处，比如学校的CF不用排队，拿到OA甚至面试的机会更多，再者做TA/RA的难度也远小于其他学校，TA的话基本免学费+2千多刀工资。对于转博选手，DICE和SES有好多ML和MLSys的大牛老师，背靠德州超算中心，非常适合跟老师做MLSys相关工作，转博只需要老师同意带，直接换i20，不需要重新申请，有志于转的同学跟老师做两学期RA基本就可以转 。
+
+最后一点就是UT Austin性价比比较高，学费+生活费低廉，Austin科技公司众多，但是缺点是夏天非常热，城市整体比较村",,
+24,yipingwang6161@gmail.com,Yiping Wang,否,计算机科学与技术,是,,,,University of Washington,PhD,CSE,Machine learning,选校咨询，随便聊聊,否,3.97,91.99,4.00,92.55,Top 1%,TOEFL,109 R29 L27 S25 W28,,,,,"Swiss Federal Institute of Technology Lausanne#EDIC PhD
+The University of Texas at Austin#CS PhD
+University of Wisconsin - Madison#CS PhD
+University of Washington#CSE PhD
+ETH Zurich#MSCS","Stanford University#CS PhD
+University of California, Berkeley#EECS PhD
+Massachusetts Institute of Technology (MIT)#EECS PhD
+Princeton University#ECE PhD
+Carnegie Mellon University#ML PhD
+Cornell University#CS PhD
+Harvard University#CS PhD
+ETH Zurich#CS PhD
+Columbia University#CS PhD
+University of California, San Diego#CSE PhD","ZJU-CAD&CG 吴鸿智 2021.7~2021.11 透明物体的三维重建
+Stanford-IRIS Huaxiu Yao(postdoc) 2021.11~2022.1 Personalized federal learning
+Stanford-IRIS;Rutgers-Statistics Huaxiu Yao(postdoc);Linjun Zhang 2022.2~2022.5 OOD generalization algorithm NeurIPS2022 共一poster文章
+UW-Seattle,CSE Simon Shaolei Du 2022.6~2023.1 Provable Active Multi-task Representation Learning ICML2023 一作poster文章
+还有一些其他的gg或正在做的项目...",无,几次数学、物理竞赛和数学建模竞赛，就是玩一玩，数模可以给新手过一遍科研的流程，对申请季没什么直接帮助,竺奖、国奖等,"NeurIPS2022 2022.12 共一作者第二位
+ICML2023 2023.7 一作","国外的三个合作导师（Stanford Postdoc, Rutgers AP, UW-Seattle AP），应该都是强推吧","如果校内导师有国外老师的connection的话可以让他们帮忙推过去，没有的话就发邮件问。建议不要海套（你是教授你也不太希望对方邮件没诚意吧ovo），最好看过老师最近的论文，然后在email里面提一下自己看过，然后加一些自己的想法。教授每天收到上百封邮件，不回复或者隔很久才回复非常正常，把你最亮眼的点放在邮件标题里或许能加大被老师看到的概率（如：Self-Funding RA, rank 5%, nips在投*1，想做***项目）。我的回复率大概是4/20，算很高了我觉得。如果没回复可以refine一下过几天再发一下，然后最好不要同时套同个学院的老师，时间可以错开一点。暑研陶瓷要早点开始，不然后面老师没坑位了，我是从2月开始看老师的paper+陶瓷的。最好如果有多个offer，要有礼貌地说明有更合适的offer，学术圈很小不要得罪人
+
+最后申请季的陶瓷因为感觉UW暑研老板已经相对比较稳了，就只套了Stanford,MIT和Princeton学校的想去的老师和Harvard,UCSD的非常senior的老师，stanford和princeton的几个老师回了，尤其princeton的老师特别热情，但是最后他们面试都没给我orz。还是被姚班、北大数院和海本大佬dominate了","做的是ml theory方向，长远目标是用数学语言解释DL算法吧。ml theory现在是一个不少人感觉没什么用的方向，可以做很solid的work也可以做的比较水，主要是现在ml算法要很好地理论描述难度非常大。选校就是看比较top的大学比较match的老师吧(csranking, google scholar合作者 etc)，也有选一些做的比较统计的老师或者是看比较相关的老师。
+
+应该申但是没申的：
+Upenn Wharton Stats&DS。因为只有他一定要GRE，但是我没考...有两个给我写推荐信的老师都是upenn毕业的，而且有一个老师还帮我专门写了不一样的信，结果我没报，感觉非常对不起他....
+CMU其实可以多报几个PhD的，ML track可能要和ml empirical work的同学一起竞争（虽然我还是更喜欢UW一些）。然后三大,的ieor其实也可以了解一下
+然后Princeton其实可以报CS PhD的，可选的老师会更多一点，而且ECE的竞争者也不见得就比CS少（可能目标导师的坑位ye'bu'duo）。
+
+没必要申：
+对ml theory不知道是不是ETH没必要申，因为做这个方向的老师不多，今年我们这个track的最强申请者（应该横扫了四大）申eth也被降录成MSCS了
+
+选校申请其他信息：
+选校的时候还报了UIUC@CS PhD, NYU@CS PhD, UMich@CS PhD, Yale@Stats&DS PhD，但是UW出来之后都withdraw了（收到的面试有EPFL, UT-Austin, UMich，然后UW-Seattle, UW-Madison无免试录取，Yale无面试waitlist。UCB那边听说差一名没进10人的shortlist，好气......不过老师也不算特别match吧只能这样自我安慰hhh）
+
+在申请过程中了解到的一些学校的海外导师的情况，列出来可能方便之后的学弟学妹查找。?限于个人了解有限，很可能未详细完整列出！排名不分先后。如果有做这个方向的同学按着找一找大概能知道connection关系网可以补充。【一大流派就是Sanjeev Arora和他的学生们，如Rong Ge，Tengyu Ma，Yuanzhi Li等斯隆奖得主们，Simon Du也在他那做过博后。做rl/dl theory出名的华人还有Jason Lee、Chi Jin、Allen Zhu、Zhuoran Yang、Yingyu Liang等等。另外也有很多人的老板或者老板的老板是Robert Nowak。】
+MIT: Suvrit Sra/Ankur Moitra/Stefanie Jegelka/Asu Ozdaglar/Caroline Uhler
+Princeton: Sanjeev Arora/Elad Hazan/Jason Lee/Chi Jin/Boris Hanin
+Stanford: Tengyu Ma/John Duchi。
+斯坦福和mit的数学系那边也有几个老师，但是我颇有自知之明地没报，也了解不多，大佬可以补充一下
+UW: Simon Du/Sewoong Oh/Kevin G. Jamieson/Maryam Fazel
+UCB: Nika Haghtalab/Jiantao Jiao/Jacob Steinhardt。MI Jordan这种super senior就不提了
+CMU: Yuejie Chi/Andrej Risteski/Pradeep Ravikumar/… 其实还有很多相关的，直接去ml group看就行
+Upenn: Yuxin Chen/Weijie Su/Aaron Roth
+EPFL:Florent Krzakala/Volkan Cevher/Lenka Zdeborova/Martin Jaggi
+Cornell: Nathan Kallus/Chris De Sa/Adrian Lewis/Jayadev Acharya
+Harvard: Sham Kakade(也是超级大佬，从UW跳槽过去了)/Boaz Barak/David Alvarez-Melis/Sitan Chen/Lucas Jason
+UCLA: Quanquan Gu/Adanan Darwiche
+Columbia: Daniel Hsu/Shipra Agrawal/Daniel Russo/Richard Zemel
+UIUC: Nan Jiang/Matus Telgarsky/Han Zhao/Maxim Raginsky
+UMich: Wei Hu/XuanLong Nguyen/Qing Qu
+UCSD: Mikhail Belkin/Sanjoy Dasgupta
+UT-Austin: Qiang Liu/Alex Dimakis/Eric Price/Sujay Sanghavi
+NYU: Qi Lei(ZJU校友)/Joan Bruna/Jonathan Niles-Weed/Yanjun Han/Benjamin Peherstorfer
+UW-Wiscosin: Ilias Diakonikolas/Yingyu Liang/Robert Nowak/Kangwook Lee","因为是最好的offer:)。其实EPFL也有一些做的非常酷的老师，比方物理+AI什么的，theory的老师的论文看了也非常solid，比隔壁的这个方向目测要强得多，所以拒offer的时候还是挺伤心的，没有UW估计想去EPFL。UT-Austin的qiang liu老师的研究也很有个性
+UW老板是这个领域最出名的老师之一，做过暑研之后也感觉人非常nice，研究风格比较自由，组里氛围也非常好，除了做一些theory之外还有机会结合一些empirical work做。结合match程度和氛围，心目中能比UW offer更好或差不多的估计只有stf，mit，ucb, princeton和harvard了吧。还是非常非常感谢老板能捞我的。同时UW的系的氛围感觉也很好，不是特别卷，虽然peer pressure肯定挺大但是感觉应该会度过精彩的五年吧(如果不岩壁的话)，争取好好做些好的研究","海外强推，对PhD而言推荐信最重要
+（对本科生？）paper有一篇>=共一的顶会能保证没劣势（ai相关），不会因为paper被卡
+对theory这种，成绩高一点或者排名高一点可能会好一点。数学课学了十几门，绝大部分都90+，这个theory的老师可能也会认可一点。（听说今年有个来UW读theory方向的cs phd的人拿过imo金牌，被老师们抢着advise哈哈哈。
+文书找UW的学长学姐，再来人的奖学金计划匹配的导师改了一下，至少不拖后腿","大致搬运自：https://www.cc98.org/topic/5530837/1#1
+
+## 前言
+PhD申请基本告一个段落，拿到了非常心仪的Offer，也想给自己的经历做一些记录。我做的方向是machine learning (ML) theory，细分方向是representation learning相关，最近还在恶补deep learning (DL) theory的知识。这个方向浙大做的人应该相当少，但是其实清北和海本有不少人都在做，所以也希望我这些内容能给之后想做ML Theory的ZJUer一些参考。不过申请有很多因人而异的地方+随机性，帖子不一定能帮很多，更多其实是我个人给自己的反思。
+
+**具体情况**：见之前的内容
+
+PS：了解到今年UW cse phd的陆本招生情况大概是23清华（21姚班），7北大，3交大，2科大，1浙大。姚班扩招之后申请结果越来越dominate了，他们也是真的非常非常强，真心佩服。今年reality lab没有新招学生，不然我们学校应该至少能再多两个UW
+
+### 对 ML theory 的自我感受 
+对于这个方向的感受，我想起当时上《应用运筹学》时张国川老师的一句话（描述运筹学的）其实某种程度上也能概括，大意是，
+>CS的人觉得我们是搞数学的，搞出来的theory往往没什么实际价值；数学的人觉得我们很CS的，至少是应用数学的，都是应用到具体的application中去的。
+
+其实ML theory也差不多是这样的，不过相比TCS可能离统计/优化更近一点吧(((。大家有很好的数学能力 (((同时往往觉得写代码没什么意思或者就不怎么会写emmmm)))，但是也想对机器学习中一些惊人的现象进行解释。
+
+这个track的申请者基本都是**数学**系的或者有强数学背景的，CS+Math双修的也很多，陆本top申请者我见到的基本都是姚班和北大数院的，海本的申请者的background也很强。而且Theory岗很难找教职、也很难申funding，所以坑位也不像应用侧那么多，所以我个人观感是很**卷**的（可以移步知乎23fall申请结果汇报，里面有不少ML theory的神仙，而且做的不好的人就都转了，所以没啥做的不好的人...），且要做出真正impressive的工作也不容易，总之**入坑须谨慎**。当然这个方向虽然难，但如果真的喜欢和这些数学工具打交道且有想做的事的话，还是可以做的非常快乐的（至少我目前这么觉得吧，希望之后也能这么觉得，哈哈哈哈哈哈）。
+
+我个人转过科研方向，一开始是做图形学的，到大三下才正式转做ML theory相关的工作，纯theory的完整做完的经历目前也只有暑研的一段，所以能申到UW已经感觉非常幸运了，也很感谢暑研老板能捞我（当然我也很庆幸当时自己能够勇敢地换到自己更加喜欢更加有正反馈的方向，我总觉得做喜欢的事情比什么都重要）。读PhD最重要的当然是老板，我暑研接触下来感觉老板人非常nice而且巨强，所以能继续跟着读博对我已经是太高攀了感觉orz。一路上也受到老师、学长学姐、一起奋斗的朋友们的各种帮助，真的也非常感谢，也祝大家未来都能顺顺利利，能做自己喜欢的事情，happy everyday。
+
+
+## 方向选择和读博选择
+
+其实说起选择ML theory，某种程度上反映了我对数学、物理更感兴趣，对解释和理解一些现象的原理更感兴趣，而对CS中涉及到的很多工程性的东西，感觉更多是看成玩玩具一样的心态，没有那么感兴趣。说起方向选择，感觉还得先讲讲我以前的故事
+
+### 无厘头背景：物理、数学、计算机【可跳过】
+我高中搞物理竞赛搞了挺久的，虽然最终大学没选物理为主修方向（可能还是想追求一些现世的突破），但是受到的训练对大学帮助很大（至少覆盖完了普物的知识点和微积分的一部分内容），且我也永远拜倒于物理和高等数学的石榴裙下了【【。另一方面，当时沉迷刀剑神域，刚好追到Underworld篇，里面有一个**超级飒【少男尖叫】的角色叫Alice**【就是98账号昵称来源】，是个和人没啥区别的人工智能，by which我对人类的意识来源产生了很大的兴趣【觉得人可能是某种进化到无机智能体的最后的有机过渡；最不济，AI对象的市场指不定有多大】。加上也不是家里有矿，计算机赚钱多，感觉现在计算机还是对提高生产力有很大潜力，未来可能会缩水但是还是很有前景的，所以高考结束后选择了计算机专业作为主修。
+
+有了这些经历，在刚进大学的时候，作为一名中二（zhizhang）少年，我立志要成为计科+数学+物理的三学位大爹，叱咤风云，还像模像样地列出了每年要上的课的计划（虽然坚持了第一年就没了）。后面因为发现自己确实不是天赋异禀，想着物理要修很多实验课我实在懒，以后要再自己补点理论好了，所以物理就先放放（当时还立了flag，大学毕业要能够看梁灿彬的广义相对论三卷，结果到现在都还没动。虽然有些课已经修了，但我觉得我到博士毕业都看不完，哈哈哈哈）。数学方面当时第一个学期上的是吴洁姐姐的几何学，因为主要是爆算而且试卷不难，收获了满绩，也让我坚定了辅修数学的心吧。
+
+后面发现数院很多课其实都是背诵与应用背诵，上课好好听理解了主要思想，考前把作业题搞清楚就能考的不错，而且推公式理解公式虽然难很有成就感，就越来越喜欢数学。（大一升大二有一次转专业的机会，当时是疫情放到开学到考，因为想等到出成绩看看数学成绩怎么样，好的话就想转到数学专业，结果因为出分数太晚错过了转的机会，后来因为太晚就没这个想法了。也是阴差阳错吧，不知道当时转了会怎么样，或许数学基础会更扎实一点）虽然被枫哥的点拓和流形课薄纱，同调代数之类的课也没听懂太多（主要收获就是知道怎么从几何角度算同调群），让我放弃了发展纯数的念头，但是应用数学和很多基础课还是非常迷人的。
+
+这段宝贵的辅修直接影响了我未来的科研方向选择。我对CS的课的兴趣主要集中在一些应用侧能做一些有趣的产品的课，如C大程、图形学这种做做toy example，ML/DL 跑跑神奇的AI算法（但我主要是看CS231n，校内ML/AI课没上过），或者是DS、ADS、运筹学这种算法课。对于怎么理解计算机本身的课，出于自身角度我其实不是特别喜欢，不过也不排斥分数也不差，但我现在来复盘的话可能更愿意多学点数学课或者是早点接触ml theory的科研。
+
+
+## 科研经历：从图形学到ML应用，再到ML理论
+
+我大一大二主要是在上课，**大二暑假到大三上开始正式做第一段科研**【其实相比清北不少人已经晚了，但不是信竞选手要超前学完课程还是有难度，所以可能也早不了多少。而且前两年双修属实过于花时间，到现在已经190+学分了，其实有些纯数课和选修课可以不修腾出来时间，不过这种事情也很难预料最优解吧】：我一开始是做图形学偏三维重建的方向，导师人非常好，一开始上cs231n的时候经常有关心我的学习情况，开始科研之后我们也有比较频繁的交流。但是我后来觉得项目相对偏工程，和我自己想要做math-related research的想法以及理解意识/AI乱七八糟的想法关系不是特别近【图形学以及其他CS项目主要都把DL当作工具来用，以后有更好地工具就换了，而我想理解这些AI工具本身】，所以就想转方向。同时我也意识到图形学的代码量很大，水很深，我可能把持不住，ai这种代码比较简单的方向可能我更容易hold
+
+**大三寒假要转方向时，一度有纠结要转到物理模拟方向**，因为觉得还能搞点物理知识，同时要用到很多优化技巧。后来发现物理模拟主要用到的是计算数学的工具包，和ml/dl theory相关的工具包不完全一样，而且物理模拟有些小众，不如直接上手做ml theory（然后后面发现ml theory也很小众哈哈哈哈）。
+
+**大三上的尾巴我当时通过竺院QQ群了解到有Stanford的博后在招人做Federal learning 的合作，和他搭上了线之后开始做项目**。虽然这段经历没做出来什么结果，但是至少让我有动手跑神经网络项目的经历。其实AI application track很多研究确实bar不高，主要就是要动手熟悉baseline，然后魔改。但是里面不少网络有时候work有时候不work的现象着实让我很困惑，也不想只做调参侠，所以也看了一点论文。
+
+**大三下2月~5月底，我通过这位博后联系到了Rutgers 统计系的一个教授，我们合作一起做了一个“一半实验一半理论”的论文，主要研究OOD generalization**，用的方式是改进传统的mixup augmentation到regression task中并且根据label distance进行加权采样来选取mixing pairs。这个方法很简单但是效果确实还行，最后也有中NeurIPS2022的共一paper。所谓一半实验一半理论，指的就是后面会给定一些假设来证明算法是“Provable”的，我感觉也是最近很多ml paper的趋势了，常常会和一些统计的朋友合作来保证自己的算法的合理性，（虽然不少paper都有伪证....即使是三大会上的）这段经历我主要是完成了80%的实验以及证明了theory中一半的内容，也在这期间我粗粗选看了MIT的Rigollet和Hutter的High Dimensional Statistics （虽然太急来不及写作业，其实主要就用到一些concentration inequality，后面肯定要二刷的eek）打下了一些theory证明的基础。虽然这个结论现在看起来不是很难，但当时完全整出来还是很有成就感的哈哈哈。这也是我第一段完整做完的经历，而且产出的一篇paper能降低被cs phd committee直接刷掉的概率，相比没paper而言。赶paper ddl也是我第一次熬几天大夜的经历，确实有点蓝瘦，而且当时因为时间没安排好，导致有个比较重的课程project自己没干啥，几乎让队友一人包了，到现在还觉得特别对不起队友。
+
+**大三下2月的时候我通过陶瓷联系到了UW CSE的教授，并且在前面这个项目结束之后就开始继续补充相关知识+做暑研了，主题大概是active learning + multitask representation learning**。现在想来能申到暑研的主要原因就是，Rutgers的老师和UW的老师认识【有connection】+我的课内GPA比较高+我读了他的paper并且在邮件中提及了。我的陶瓷回复率大概是4/20，全是华人，这一届有不少同学也套到了四大的暑研，之后学弟学妹也可以向他们取取经。
+这段经历一开始有些尴尬，我误解了老板的意思[ac01]....我以为他是要我证明一个一定分布下随机矩阵的最小奇异值的下界，鼓捣了一会之后敲到latex上，汇报了才知道完全错了，他想我从算法层面研究那个最小奇异值是不是可以去掉的，比方说明lower bound中去不掉这一项。这个事情让我痛定思痛一定要好好地把对方的意思搞清楚，要多问，不要自己一个人瞎猜，沟通也是科研很重要的一节。【现在想想如果当时不走这个弯路可能会来得及投iclr吧，现在就要等icml了。不过可能后面也会少掉一个拓展章节。算了，曲折乃科研常事，有进步就行】
+这个小插曲后，我看了Martin Wainwright的神书High-Dimensional Statistics，并且证了一个lower bound并且设计了新的算法，也证明了他的upper bound，因为用了一些小证明trick说明了算法一个比较好的性质，老板还觉得结论挺可以的。后面听老板和学姐建议还拓展到了一个新场景，在加了些实验就投了icml了，其实也就一个月前的事。
+
+这段经历让我体会到了，**ml theory主要涉及的toolkit有高维统计**【非常丰富，非常有趣的学科，我还有好多没学五五】，which need **线代/矩阵论**【要玩的很溜，尤其奇异值分解】、**概率论**【会测度论看书会顺一点】、**数学分析**【积分、极限、级数、etc】、**优化和ODE**【传统优化证收敛的方法】**、回归**【会各种简单的estimator的结论】、**随机过程/SDE**【reinforcement learning (RL) theory用到很多吧，但我不是很懂，还没细看，惭愧】。有时候还需要一些**图论**【Unsupervised learning会用到？】总之我觉得工具非常丰富，也不是很抽象，还是挺好上手的。相比之下TCS偏向离散型问题，ml theory可能更偏向连续型问题，感觉后者对我更友好一点，我觉得前者能用的工具更少而且无疑更加困难一些。
+
+其他时间还有做过一个calibration相关的，但是结论不是很好。之前暑研搞出主要theory结果之后还尝试搞一个continual learning theory的课题（with Rugters AP），不过做的很慢，对申请影响不是很大。申请完了也有慢慢继续跟这些老师做一些有趣的项目
+
+展望未来以及整体对ML的看法：其实最近比较让人exciting的结果是一些DL theory的结果，但是慢慢的很多人发现做不太动，更多人目前的工作是在翻来覆去地证明算法的upper/lower bound，或者从数学角度解释算法基础，至少证明算法是Provable的。目前的热点可能在RL theory那边，而且投paper速度很恐怖。ork，其实大家所不熟的是，theory的paper发起来比experimental的还快，因为不需要做实验。但是真正solid的问题，是非常困难的。这个领域确实很难做出非常impressive的工作，要坚持也得足够热爱和享受这个学习+应用+探索的过程才行。其实我的科研经历相比很多清北+海本大佬并不充裕，也需要向他们好好学习很多东西，但我至少能确认做这些work能让我一段时间内有相当的正反馈继续做下去，希望之后能够好好思考做一些好的工作吧！（UW的NLP也无敌，之后可能也想争取结合着做点东西，以及multitask也有一些robotics背景的问题可能可以看看...?）
+（LLM发展也很快，将来的研究范式很可能也有很大的改变，也不可避免地要结合着做吧。一个人的命运，不仅要看个人的努力，还要看时代的进程。）
+
+
+
+## 其他因素
+
+### GPA
+主要针对PhD来谈。其实其他经验贴或多或少说了，对于phd而言GPA没那么重要，但是太低老师会担心你读博期间挂科，而且非常高的GPA对找暑研还是有点好处的，同时高rank（top1%，top3这种级别的）对于有些学校可能有增益。一般来说，百分制高于90，91之后边际效益递减很快了，没有很大必要再刷高了，多留点时间给科研！【当然得看之后bar了，10年之后是不是这样当然就不一定了】而且除了CV之外，很多学校的系统只要你填四分制成绩的，所以ZJU算法不少人都是3.9+【当然海本算法大多也很水，所以...不用太在意】
+
+### 托福
+我考了四次托福，从22年7月一直考到10月底，很极限，分数分别是87->95->101->109。最后109=R29+L27+S25+W28，可以看出其实听力一直不是很好哈哈哈。
+其实很多其他帖子都讲得很好了，我主要的经验就是，听力一定自己尽早刷起来，我第一次听力18第二次22，当时一度想放弃出国，还好硬听TPO啃下来了。就是多听，要练到能听懂的那种级别。阅读的话上过方爸的课就直接过。口语多说吧，我sec1自己积累了一些语料，感觉语料还是得自己说完记下来，背其他的是背不下来的，然后其他几个sec就是多练，然后模板开头结尾背下来。写作建议黎老师28英语，真的很好，很多是套路。口语和写作可能可以报班，前两个我个人感觉没必要，就硬练。
+了解到后来托福有重大改革，可能也得看情况emm
+
+# 后言
+关于申请本身反而我觉得是最后收官要做的事情，真正自己在申请阶段能改变的或许只有写一份清楚的CV以及写一份好的SoP（都说的PhD哈），最重要的还是推荐信。一些想法有：
+1. 不同方向申请难度差异巨大，选择比努力更重要。不过，我觉得开心更更重要，看人吧。
+2. 推荐信≈connection+个人能力。connection其实说白了就是给你写推荐信的老师committee认不认识，足不足以信任，熟人推荐往往要有效得多。举个例子，ml theory最后招的学生我感觉都是之前和圈子里的老师做过项目的学生。
+3. 和同学讨论了一下，对于PhD有可能缩招的情况下，return offer对于稳申请非常关键。
+4. 不同年份funding、坑位情况都不一样，很难能保证一些申请情况，所以选校要有梯度，PhD如果没有MS or return offer保底的话，可能最好多报一点？当然如果做好Gap准备的话另说
+5. 强推和强推是有差别的。四大暑研高风险高回报，竞争往往特别激烈，成则四大，败则平推。大佬平推，比较致命
+6. 读博选老师最重要，大尺度上选方向最重要。也不要太纠结排名吧，也不要太在意旁人的眼光。我个人感觉认识的海本同学都不是很care学校排名，更注意导师和match程度。可能尽量探索自己将来想做什么更有价值。现在来看应该没有比本科试错成本更低的地方了。当然这是我个人看法
+7. UW的新生里面其实也有相当比例是Gap或者工作之后再回来申请的，当然比较多是海本
+
+总之这段路上遇到太多好老师、学长学姐、朋友们的帮助了，也感谢nvpy一直的耐心陪伴。也希望未来自己能再接再厉做出一些好结果，希望大家的未来都顺顺利利！"
+25,yichencs at umich.edu,陈易,否,计算机科学与技术,否,,ptrnull,,University of Michigan-Ann Arbor,PhD,CSE,,随便聊聊,否,3.94,91.89,4.00,94.67,计院排名方法太多，我自己都不知道自己排第几。听说某学校申请系统里面浙大计院有好多第一，这真的是好事么,TOEFL,105 R29 L29 S22 W25,,,,,"University of Michigan-Ann Arbor#CSE PhD
+University of California, San Diego#CS PhD
+University of California, Santa Barbara#CS PhD","Massachusetts Institute of Technology (MIT)#EECS PhD
+Carnegie Mellon University#CS PhD
+University of Illinois at Urbana-Champaign#CS PhD
+University of Washington#CSE PhD
+没套磁的学校就懒得写了","校内一段，n 作
+MIT 暑研一段，还在做呢还在做呢",,校超算队的所有奖项基本都有参与,两次国奖,,暑研强推+校内,"我一共是两轮套磁
+第一轮是在大三寒假的时候找暑研的导师。那个时候就发简历/成绩单啥的，记得准备好面试。我觉得暑研导师的选择还是挺重要的，并不是说强的老师一定是好的导师，有些很强的组里面可能会有很多强的实习生，选择的时候得自己掂量一下强推会不会落到自己头上（毕竟推荐信主要是拿你和写推荐信的老师教过的别的学生比较）。没那么强的组的好处是 return offer 和强推比较好拿一点。这个就看个人定位了。
+第二轮是在大四 11 月的时候联系想申请的老师（好像别人比我早很多，有人暑假就确定去哪了。个人主页明确写不用联系的导师就别联系了）。这个时候找跟自己暑研老板认识的老师成功率会高很多。当然，前提是自己确实很希望能去那个实验室读博，别为了成功率不顾匹配程度了。我当时是没有海投，所以有精力针对每个老师写套磁的邮件。一开始发的几封全都约上了面试，后面就没联系别的老师了。到 2/3 月份的时候还会有些老师从申请池捞人（感觉要么是动手晚的老师，要么是那些刚入职的 AP），记得及时查收邮件。","主要看导师
+当时完全没考虑保底的事情，其实还是申一两个 MS 会比较稳一点，毕竟申请的运气成分感觉还挺大的。事后看看有点后怕",个人科研方向的兴趣，导师自身学术水平和口碑，导师培养学生的精力，导师之前毕业的学生的产出/出路，实验室风格之类的,,"申请方向其实是 Sys 和 Arch 的老师都有，这个大方向感觉大家应该都没啥论文吧（不像是 NLP，CV 之类的感觉没论文没法申请的方向），主要是看推荐信啥的。国内的推荐信基本作用不大，除非是某几个大佬老师。
+找老师：别太依赖 csrankings，这玩意儿是要有人提 pr 才会把新老师加进去的，所以会有些老师不在 csrankings 里面或者学校信息是过时的。感觉还是翻每个学校的 faculty list 靠谱点。当然了，通过论文找到的老师最靠谱了，可能有些很强的老师不在你心目中的名校里面。
+语言：TOEFL 的结果对申请还是略有影响的，比如 UIUC 就对 TA 的口语成绩有要求。而且面试的时候如果英语不行的话也会影响老师的判断的。除了个别项目，PhD 基本不要求 GRE，我反正是没考
+面试：其实我自己也不知道我表现到底怎么样。不同老师的面试风格也不太一样，有些老师会偏向于问基础知识，有些老师会偏向于跟你讨论你之前的项目，然后如果老师和暑研老板熟的话，可能面试的时候重点甚至不是你而是他的实验室情况（因为他会直接和你的暑研老板交流你的情况）。除了准备介绍自己之外，也多多了解下老师实验室的情况，准备一些相关的问题。还有就是有些学校（比如 UCSD）的 Zoom 会议的默认配置是只允许企业用户加入的，要小心一点。面试前也要记得试试网络以及麦克风。
+文书：Diversity Statement 我啥都写不出来（毕竟自己没 diversity），当时就表达了一下自己对 diversity 的支持。Statement of Purpose 我一开始也以为老师会不太看，但后来发现有两个老师面试前看得非常非常仔细，直接让我展开讲讲里面的某句话，所以还是得认真写写。
+择校：面完之后继续和老师保持邮件联系。如果拿到 offer 了的话尽早和老师实验室里的学生（不管是已经毕业的还是没毕业的）多聊聊，看看老师的风格适不适合自己。
+飞跃手册：由于显而易见的原因，很多 PhD 申请者以及对自己申请结果不是很满意的人是不会填飞跃手册的，想要参考他们的申请经历的话就得看你自己的 networking 能力啦"
+26,zhijing_hu@outlook.com,胡止境,否,电气工程,否,,e-2_7182818284,,Columbia University,Master（授课）,MSCS,,选校咨询，随便聊聊,是,3.71,85.17,,,保研排名是37%左右，果断不填啊,TOEFL,108 R30 L30 S20 W28,155,169,3.5,https://github.com/endless-hu,"University of Southern California#CS37
+Columbia University#MSCS
+New York University#MSCS","Northwestern University#MSCS
+University of Southern California#CS28
+University of Illinois at Urbana-Champaign#MEng ECE
+Rice University#MCS
+Duke University#MEng ECE
+Washington University in St. Louis#CS PhD
+University of Illinois at Urbana-Champaign#MCS
+University of California, San Diego#EC79
+Carnegie Mellon University#SESV
+Carnegie Mellon University#MSIN
+University of Michigan-Ann Arbor#MSCSE
+University of California, Irvine#MCS
+Texas A&M University#CS PhD
+The University of Texas at Austin#MSECE
+University of California, San Diego#CS75
+Duke University#MSCS
+University of Wisconsin - Madison#CS PMP",没有,没有,没有,大一大二有个三奖，大三连三奖都没了,没有,一封本科生导师、两封课程推，推荐强度都是拉满的，然而国外肯定不看就是了,授课硕没什么好说的，暑期肯定是找实习比较好，以后去国外找工也会有优势。找实习就直接投呗，字节、阿里、腾讯啥的都投一遍就完事，正常情况下浙大的title都能让你有个面试机会，当然22年的暑期实习非常离谱，我拿到阿里的口头offer后来就因为集团锁HC给撕掉了。那时我还面过字节和Akuna，但是因为担心日后他们不给推荐信啥的，在HR面的时候实话说了准备出国，就g了。如果以后的学弟学妹们有跟我一样打定主意要出国但是需要实习经历的话，一定记得在HR面的时候模糊自己的意思，比如说“还没想好毕业之后的去向，希望通过实习来体验一下工作的感觉”这类话术就可以蒙混过关——实习经历才是能写在简历上的王道，推荐信就是不要也罢。,"选项目的标准最好是和自己出去的目标相匹配。比如说，我的目标是：在日子过得舒服的前提下完成学业并找到高薪的工作。我对于“日子过得舒服”的判断标准是：
+1. 拥有自己的私人空间，不必共享卧室和浴室，且住处离单位不远。（在房价高昂的地方，这些会比较困难）
+2. 天气好，晴天多，温湿度不极端。
+3. 负担不重，在兼顾课程和找工的情况下仍有闲暇时间放松。
+4. 安全，免得出门的时候提心吊胆。
+
+为了找工方便，学校的项目最好能够：
+1. 地理位置靠近科技中心（加州、德州、北卡等）
+2. 人数较少，能够享受到更多上课教授和advisor的指导，且找工时有diversity的优势，不必和一众人内卷
+3. Workload不要太大，可以挤出时间来刷题、面试
+
+我对于地方小这种特点没有什么偏见，甚至还比较喜欢小地方，因为大都市的繁华对于我这种早睡早起、没有很大玩心、对吃要求不高的人来说没啥吸引力，反而还有生活费高昂、犯罪率偏高的缺点。
+
+满足以上所有要求的项目是UT Austin的MSCS，但是录取率非常感人；我申请的时候怂了，只敢去申ECE的SES（软工） track，其实现在想想就去抽个彩票也没什么嘛，要多给自己一些机会。
+
+我申了好多学校，所以几乎没有该申但没申的项目，但是我会觉得申CMU没有必要。当时申的时候被CMU的title吸引，但是如果对照上面的标准，CMU课程负担重、人多内卷、匹兹堡地理位置不好且天气糟糕，雷点几乎都踩遍了。",没得选，收到哥大offer的时候我手头只有USC（还是时长两年半的零基础转码项目），跟哥大正统MSCS没得比；后来收到NYU offer的时候我都在上海的酒店里等第二天的签证面试了。。。而且NYU也没比哥大好，所以当场拒了NYU。,"我觉得可能纯粹是我运气好。哥大和SD这俩出了名的看运气，好多人怀疑他们不看材料直接抽签录取。。。虽然这个说法夸张了一些，但是这俩学校的录取标准确实很迷。
+另一个可能的正面因素是，我参加过哥大在2021年来我们学校举办的线上宣讲会，那次宣讲会其实是面向22届的；但是我老早就在准备出国，哥大也在我的清单上，所以当时就去参加了一下，可能混了个脸熟？这些东西都好难说，也许等我进了哥大，在第二年去做student commitee的时候才会清楚录取背后发生的事情吧",98上发过一个详细的经验帖cc98.org/topic/5547471，当然之前还发过面试经验帖，都是同一个98ID，有兴趣的同学可以去看看
+27,ryanlee010809@gmail.com,李元,否,其他: 经济学,否,www.linkedin.com/in/yuanli3/,,,Carnegie Mellon University,Master（授课）,MSSE,Software engineering,选校咨询，语言考试建议，文书修改，随便聊聊，其他,是,3.95,90.27,,,,TOEFL,104 R30 L27 S20 W27,153,170,4.0,,"Carnegie Mellon University#MSSE
+Rice University#MCS
+University of California, Irvine#MSWE
+University of Wisconsin - Madison#MSDS
+University of Illinois at Urbana-Champaign#MSIM
+University of Southern California#ADS","Carnegie Mellon University#MSIN
+University of California, Berkeley#EECS
+University of California, San Diego#MSCS
+University of Southern California#CS37
+University of California, Los Angeles#MEng DS
+Northwestern University#MSCS
+Northeastern University#MSCS-Align",NLP+HCI 水科研，无产出,某初创公司 前端开发工程师,,一等奖学金&外设奖学金若干,,张自斌、方岳（强推），其它课程推&实习推,,,CMU 软工对于有实习经历的申请者转码友好，同届新生也有非工信类专业转码选手。校区在SV，地理位置好，也可以上到18613，15619等一些神课。,,"我在大三下学期才决定转码，而且我的专业经济学到计算机之间的跨度较大。相比其它理工科转码的同学，在申请准备时间和先修课修读上均处于劣势。因此，我的以下经验将分析与我情况类似的转码选手在申请季中需要着重注意的几个方面。
+
+选校策略：
+我是全程DIY申请，我在申请季的选校策略可以拆分成以下：
+1.将很多就业导向的CS项目作为冲刺
+申请这些就业导向项目不需要陶瓷，申请所带来的边际收益远远大于边际成本，尽可能多地试试这些项目更有可能取得满意的申请结果。
+2.将一些转码项目作为主申
+这些项目往往竞争激烈，尤其是零基础转码项目。不要抱着势在必得的心态只申这一类项目。
+3.将CS强校开设的非CS项目作为保底
+对于先修课背景较差的申请者而言，申请CS强校DS/IS项目相比申请CS更加容易。可以考虑采用这些项目作为保底，待入学后寻找双专业/转专业/修读CS课程的机会。
+	
+先修课：
+在转专业申请的过程中，优先级最高的是尽可能多地补充计算机课程。一方面可以扩大项目选择面，一方面知道自己到底适不适合学习CS。
+由于时间线较为极限，我在决定转码后只有一个学期的时间用来补充计算机课程。为了节约精力，我退掉了我所有经济学专业课放到大四下完成，并通过补选的方式修读DS，OOP，DB，离散数学，数值分析。
+对于选不上计院课程的情况，可以考虑：
+1.善用冲突选课
+2.线下找负责老师补选
+3.用其它学院的同名课程代替（更好选上的同时负担更轻）
+从我一学期上课的体验而言，这样的修课节奏对于零基础（不会C语言）的同学是具有挑战性的，尤其是0基础完成DB大作业。不过MiniSQL还是值得一写的，可以作为非科班选手找实习时简历上的项目经历。
+此外，我计划修读但是没有修读的课程有：CSAPP（可以短学期完成），计算机网络、操作系统、（以及你的心仪项目在要求里提及的课程）。
+另外一个trick：时间来不及的转专业选手可以先报名一个CS辅修，同时在简历上declare自己是一个minor in CS 选手，这样可以弥补一些自己在专业title上的劣势。辅修课程可以大四申请后慢慢补。
+
+语言：
+对于转码申请者，托福过线即可（100+S22）。转码永远有做不完的事情，都比卷托福成绩更加重要。托福的不确定性太大，能早考尽量早考。我一个月就把RLW三项刷够了，但是口语却卡了我两个月，直到10月才考出成绩。
+GRE也是过线即可（320+AW3.0），但在申请过程中没那么重要又需要大量精力，时间不足的转码选手可以放在申请季最后准备。
+
+实习经历：
+对于转专业选手而言，前端岗位的实习对于CS基础的要求没那么高，非科班出身的选手短时间准备实习也是可行的。实习经历没必要追求大厂，能实打实地做出成果，凭借这段经历让自己的简历和文书更加立体化很重要。
+
+文书：
+转专业选手在课程修读和科研实习经历方面竞争力都很难胜过CS科班申请者。因此，文书成为了转专业选手增强申请竞争力为数不多的机会之一。通过我的文书写作经历，我认为CS转专业文书应该注意以下要点：
+1.想好自己要讲一个怎样的故事，一篇有故事性，连贯的文书会更有可读性建议是通过一些本专业过往学习经历的描述引出自己转专业的理由。因为转专业本身就是diversity，这样可以恰到好处地cue到minority experience。
+2.将所修过的计算机相关课程和参与过的项目整合为一个连贯的叙述，以便在评审委员会面前展现一个一致的形象。申请者过去所做的一切努力都是基于一个特定的motivation，还能说服评审委员会自己有持续学习CS的动力。
+
+希望学弟学妹们早做规划早做准备，如果万不得已像我一样极限操作，没有必要因为和别人的起点不同而陷入无尽的自我怀疑。我们应当有弯道超车的自信，按转码申请所需的优先级权衡取舍（CS先修课≈托福过线>CS相关实习≈CS相关科研>GRE过线），多做投入产出比高的事情。最后，感谢经院的张自斌老师、方岳老师，以及学长学姐们在申请过程中的无私帮助。"
+28,haofeng.yang@zju.edu.cn,杨浩峰,否,计算机科学与技术,是,,hoffy17,,ETH Zurich,Master（授课）,MSCS,,选校咨询，随便聊聊,否,3.94,90.92,4,95.05,,TOEFL,105 R29 L30 S21 W25,159,170,3.5,,"Carnegie Mellon University#MSAIE-ECE
+EPFL#MSCS
+ETH Zurich#MSCS
+Georgia Institute of Technology#MSCS
+University of California, Berkeley#EECS MEng
+University of California, San Diego#MSCS
+University of Illinois at Urbana-Champaign#MCS
+University of Southern California#MSCS
+Yale University#MSCS","Carnegie Mellon University#MCDS
+Carnegie Mellon University#MIIS
+Carnegie Mellon University#MSCS
+Carnegie Mellon University#MSML
+Harvard University#MSCSE
+Stanford University#MSEE
+University of Michigan-Ann Arbor#MSCSE","一段水SRTP
+一段实验室打杂
+一段申请时在做的毕设",,,省奖*2,AAAI三作,"汤斯亮老师 科研导师
+伍赛老师 课程导师
+卜凯老师 课程导师",无套磁经验qaq,"       一开始主要考虑学校名气和CS水平，根据往届学长学姐的选校得到了30个左右的项目，然后排除掉哥大这样的学费贵+生活成本高的选项，再去掉没达到要求（如UCLA MSCS、UIUC MSCS、Cornell & Cornell Tech CS MEng口语没过线，CMU MSIN没实习交不了工业界的推荐信）/不是很安全（UChicago、JHU）的一些项目，得到了最后的申请项目列表。
+       参考往届飞跃手册、一亩三分地里的数据、诸如opencs（https://opencs.app/）等网站的难度划分，结合opencs创立者flash大佬提出的倒三角选校方法，我的选校是，彩票：H、S、CMU SCS、GaTech、UC Berkeley、Yale，主申：ETHZ、EPFL、UCSD、UMich、CMU ECE、UIUC MCS，保底：USC、NYU Tandon。
+       考虑到形势变化（例如今年大量海本选手入场）和运气因素（一些项目可能扩招/缩招、招人少的项目可能存在同校竞争等），多申一些彩票和主申项目是比较合理的。",       考虑的关键因素大概是学制不太短+项目质量+便宜，纠结的主要是GaTech和瑞士两所。考虑到安全因素先排除了GaTech，随后拉了一张表格对一些方面进行了打分，最后做了决定。,,"       关于口语。由于此前的飞跃手册上口语21-的数据点比较少，申请前非常担心自己的口语只有21会不会被很多项目直接机筛掉。从结果来看，口语21还是能够过不少项目的。PS：在早几届的飞跃手册上有学长提到过CMU SCS卡口语22，且口语在打分中的占比不低。不知道这个标准现在是否适用，但是建议有想法的同学还是尽量做到口语22+。
+       关于材料准备。DIY选手最好早一点点把材料准备好。按照今年的情况，几个很好的项目的截止时间在硕士申请季的很前面（如H 12.1、S 12.6/7、CMU SCS 12.12），DIY选手在没有人催的情况下有可能会比较拖延qaq。此外，也非常感谢我的三位推荐人，在我非常拖延的情况下能够及时地回复，并给我提供了很多的帮助和支持。
+       关于心态。和一些一同申请的小伙伴相互交流能一定程度上缓解申请季期间的焦虑，同时在材料准备、网申填写等环节中也会安心不少。也祝愿学弟学妹们能够战胜由不确定性带来的负面情绪，并被自己心仪的项目所录取。"
+29,1131424654@qq.com,方洲翔,否,人工智能,是,,focusv955,,Johns Hopkins University,Master（授课）,MSECS,,随便聊聊,否,3.83,86.78,4.00,91.38,竺院二奖前10%,TOEFL,107 R30 L30 S22 W25,153,170,3.5,,"Johns Hopkins University#MSECS
+Rice University#MCS
+University of Southern California#MSCS CS28","Carnegie Mellon University#MSCS
+Carnegie Mellon University#MCDS
+The University of Texas at Austin#ECE-SES
+EPFL#MSCS
+UCSD#MSCS CS75
+UIUC#MCS
+Gatech#MSCS
+Brown#ScM CS
+University of Southern California#CS PHD",一段国内导师科研 申请时一篇A类一作在投 后被拒,无,无,浙江大学二等奖学金x3,申请时一篇A类一作在投 后被拒,两封国内课程推 一封国内导师推,无,"在98的帖子上写了比较详细的指南（https://www.cc98.org/topic/5581581），这里补充一下我的比较粗暴的选校方法。
+首先翻阅过去五年所有的飞跃手册，只要我的三维达到了录取的最低标准就先加入我的选校list。然后再做减法。先确认了两三个保底项目，然后再根据项目大小、项目时长、费用、课程等因素排除即使中了也不会去的项目。（比如因为就业形式较差，我排除了所有一年制的项目）此外，因为CMU可以比较方便地申多个项目，所以申请MCSD的时候顺手也申了MSCS。USC因为可以免申请费所以也顺便申了PHD。这么操作下来最终确定申请的项目大概有十一二个。",人少，时长灵活，可科研可授课（保留读博可能性），NLP强（方向契合）,大概是有一篇A类一作在投吧，今年JHU说是特别看重科研经历，三维啥的反而没那么重要,申请的详细经历和心得可见https://www.cc98.org/topic/5581581
+30,caohuabingzhi@gmail.com,李若洋,否,计算机科学与技术,否,,yuzuru0904,,"University of California, San Diego",Master（授课）,cs75,,选校咨询，语言考试建议，随便聊聊,否,3.9,89,,,,TOEFL,103,166,167,3,,"University of California, San Diego#cs75
+University of California, Los Angeles#Meng
+Carnegie Mellon University#MSIN","Yale#MSCS 
+Carnegie Mellon University#MCDS 
+University of Illinois at Urbana-Champaign#MCS",,,,,,,,,,,应该多申请一些彩票的，能申的彩票都申请上，运气好抽中一个就是胜利。不太想去的学校就没必要申请。
+31,yf.pang@zju.edu.cn,庞懿非,否,计算机科学与技术,否,,,qq 1927817985,Carnegie Mellon University,Master（授课）,MSIS INI,Computer security,选校咨询，语言考试建议，文书修改，随便聊聊，其他: anything you want,否,3.80,87.16,3.94,90.85,保研排名55-60貌似,TOEFL,102 R29 L26 S23 W24,155,169,3.5,,"Carnegie Mellon University#MSIS INI
+ Georgia Institute of Technology#MS cybersecurity
+Johns Hopkins University#MSSI
+New York University Tandon#MSCS
+University of Southern California#CS32-computer security","Northwestern University#MSCS
+University of California, San Diego#CS75
+University of North Carolina at Chapel Hill#MSCS
+Columbia University#MSCS
+University of California, Santa Barbara#MSCS
+Boston University#MSCS",浙大 卜凯 2022.7-2023 网络协议的内容 在投期刊被拒让改ing,none,大二水水的数学竞赛的奖？,两年三奖（第一年太差了啥都无hhh）,TDSC 1月投稿 n作被拒啦x,"卜凯 科研导师 强
+黄劲 课程老师（多媒体安全，6封） 强
+陈文智 课程老师（体系结构） 强
+陆系群 课程老师（计网） 强",有一丢丢套磁经验但是自己太懒了就…理论经验尚可，实战经验基本为0的废物x。,"考虑申请security以及cs的security or network track的方向，有research机会的项目，纯就业的比如rice的没考虑（虽然可能也申不到hhh）。
+
+UNC真的白申请了，主要是当时和中介老师那边定下来而且这个有个国际生ddl比较近所以就。。UCSB科研项目但是没套磁，申请的时候才发现导师的方向和我的有亿点不相关so白给。BU不知道犯什么病，这么保底的不给我发offer也不拒绝我，属于是刚申请BU就收到tandon的offer，所以白花钱，建议不申请这个保底，保底可以申请其他性价比高一点的学校比如TAMU UVA这种超级保底。
+
+security的话大概ms可能还有一些能申请的，CMU ECE其实也可以申请一下感觉他们不用上特别多的课程？INI课有点多。当时申请的时候没想申请cmu的感觉录不了。。看到同学的那个中介给他总结的CMU全部项目特点我才去看的，这还得归功于疫情导致每期末考试推迟了（大四上有几门课，之前有挂科还要重修一下没想到延迟了导致很多学校没机会更新，比如CMU，这也算是阴阳相抵吧x）。阳康之后我在家胡乱翻找才申请了security上面录取的三个项目CMU GATECH JHU，不然没这三个offer的话有点自闭。不过tandon的cybersecurity也不错所以我拿到offer之后courant、NEU什么的都没继续申请了（虽然送分了，大冤种）。其他cs项目其实还很多，但我一下子还想不到x。","最后纠结点在于cmu和gatech，cmu贵一些，gatech便宜但是项目里基本都老印，据说之前是。
+然后cmu也可以做research（试图，毕竟有thesis），同学多一点，有趣的课程多，title大呀x。
+具体可以参考我的一亩三分地的帖子
+https://www.1point3acres.com/bbs/thread-972025-1-1.html；
+https://www.1point3acres.com/bbs/thread-977444-1-1.html；","感觉我这种GPA一般（大四没出成绩的时候大概是86.5 3.74这样，主要大一只有81左右太伤了，不过感觉专业课还行，上面的那个专业GPA我不知道，成绩单只有大三GPA所以就写上去了；大四重修了一门挂科H课，绩点上了一些），TG都一般的申请可以说是完全没优势，正统cs也是基本寄了。不过大三开始自己尝试学了一些security感觉挺有意思，所以在申请的时候也是朝这个方向走了，也算是避开了大多数人所以结果还不错。
+科研的话kg一直在大三推荐我去套磁，但我大三基本啥都没干（这方面），所以后来乖乖跟着在学校里做了，这个感觉量力而行吧，出去套磁也挺好的嘤嘤嘤。不过当时确实挺自闭的就一直没法开始，有些悔恨x。
+文书的话我感觉我的质量也一般，我差不多写好了然后中间那边的文书老师给我润色了一下，调调逻辑啥的，整体我感觉中介帮助不大。不过我ddl战士还是靠中介老师push才开始自己选校讨论然后写sop啥的，我10月底才开始看学校其实x，如果自己来可能大概率就寄了吧。申请季主打的就是一个自闭路线，托福考了5次，12.4才出结果hhh。刚申请的时候更是经历也凑不出，然后把一些小的research和project写上去重数x。","其他经验，不如大家来98看我之后的经验贴总结一下，最近在写毕业论文+焦虑签证x，有些自闭，但是飞跃手册ddl到了所以不得不先写一些上来。等6月多点可以看看本人98：https://www.cc98.org/user/id/662260；之后应该会有的。and如果你是竺院因为成绩原因退院的也可以来看看，因为本人是。
+
+有问题可以问我，不过本人能力有限hhh，你不一定能得到想要的回答吧可能。
+大家都很厉害其实，加油！！！"
+32,3190105811@zju.edu.cn,徐李可儿,否,其他: 信息管理与信息系统,否,,xulikeer,QQ（比vx常用）:350953737,Carnegie Mellon University,Master（授课）,MSECE,Other,选校咨询，语言考试建议，随便聊聊,是,3.92,89.5,,,前10%左右,TOEFL,103 R29 L26 S23 W25,152,170,3.5,,"Carnegie Mellon University#MSECE
+University of California, San Diego#MSECE
+Northeastern University#MSCS general in sv","University of California, San Diego#MSCS
+Cornell University#Connective Media wl转rej
+Carnegie Mellon University#MSIN wl转rej
+Carnegie Mellon University#MISM 16m general
+University of Illinois at Urbana-Champaign# MCS
+Duke University#MSECE
+University of Michigan-Ann Arbor#MSI
+University of Pennsylvania#CGGT","管院的水水SRTP
+NCSU 机器学习&时序分析相关 无论文产出",之江 申请时刚刚开始 其实是科研,无,一些三奖,无,"NCSU 暑研导师 强推
+本校 毕设导师 普通推
+本校 课程导师 课程推",大胆地reach out！,"看着往年的飞跃手册选了一些比较有可能的项目，另外还参考了一亩三分地的录取案例和csmsapp（现在是opencs了，网址：https://opencs.app/，汇总了cs相关项目的申请难度，但不绝对，可以用来参考）。
+
+选校的时候要分几个梯度来选，彩票、冲刺、主申、保底这样，每个层次申请的数量依次递减比较好。感觉我选校选的可能不是很科学2333，首先是保底并不是完全保底，我选了usc cs37和neu cs、umich msi做保底，实际只收到了neu的offer，而neu最近几年的bar挺迷的，感兴趣的学弟学妹务必早交申请！我是12月初交的，其实最好12月以前就把neu交掉。说neu保底不稳还有一个原因是我们专业申mscs相当于转专业申请，想要保底的话可以申更契合背景的is专业。usc的问题是这个项目卡理工科，我们的学位是管理学学士，可能就被卡掉了，现在都在池子里泡着呢QAQ，同上，建议本专业同学申请ADS做保底。umich msi发的比较晚，而且周期也长，我的问题是文书写的背景不太契合，但同时地里也看到背景很好的信管同学被msi拒了，录了msds，还是有点玄的。
+
+另外还有一点建议就是多申彩票、冲刺！ms的申请还是相对随机的，每年的扩招、缩招都说不定，去年uiuc mcs扩了，今年大s msee好像扩了，总之不要看没有案例就不申哪个学校，对自己自信一点多申一些没有坏处的，也不会因为申的太低最后后悔。","最终择校时我的选择不多，录了我的项目三个都各有缺点，拼在一起才能拼出来一个相对完美的项目体验（笑）。虽然cmu这个项目把我defer到spring了，且今年取消了applied track，在不走转学这种骚操作的条件下没办法入学当年用cpt暑假实习，但综合来看课程质量最好，校友connection比较好，就从了cmu了。
+
+与其他offer的简单对比：
+各大论坛常年看到各种控诉cmu workload的，我对比了一下sd的ec79，又是quarter制又要上我一点都不会的VLSI，workload上他俩可能半斤八两哈哈哈（辛酸）。neu综排较低，最终要回国就忍痛放弃了。","我感觉我的软背景比较弱，比较明显的正面因素就是：
+1. 海外强推
+虽然老师不是NCSU CS系的，但是跟着他从暑研开始陆续做了近半年的科研，感觉老师还是很nice的，愿意帮我发推荐信，在23fall海本加入战场、诸神黄昏的背景下还是很有帮助的，感恩QUQ
+2. 先修课基本满足
+本专业的一些缩水cs专业课+选修了计组、数值分析、os这些课程，基本能满足很多学校的先修课要求了，而且这些课程我的分数还是可以看的，也构成一些优势吧。
+3. GPA
+无论转不转专业都很重要，虽然大家都调侃GPA贬值之类的，但在海量的申请中要脱颖而出GPA还是不能差的。","首先感谢所有之前在飞跃手册里贡献经验的学长学姐！申请季最焦虑的时候经常翻飞跃手册（然后更焦虑.jpg），真的对我的申请有非常大的帮助~
+其次感觉自己真的非常幸运，帮我发推荐信的老师们人都超级好，而且科研、实习的时候带我的学长们也非常任劳任怨，给了我很多帮助，非常感谢所有帮助我、支持我的人qwq
+
+前面没有写到的一点是，希望大家申请的时候一定注意文书。我的文书是按申请ece/cs项目来写的，同时如果想要申请一些mis的项目，这个文书就不是很通用，最好按照is的逻辑把里面涉及的项目改掉，不然可能有一些负面影响，比如我就被cmu mism和umich msi拒了，这两个项目在我申请前觉得还算比较稳的，反思了一下应该是文书的问题比较大。
+
+从决定出国到语言考试、申请材料的准备、每天刷一遍portal真的是对身心的历练...建议学弟学妹们尽早开始准备，有任何需要问我的问题都可以直接联系，衷心希望能够帮助到大家！"
+33,acediazhang@gmail.com,张家浚,否,其他: 应用心理系,否,,,,University of Illinois at Urbana-Champaign,Master（授课）,MSIM,Other,选校咨询，语言考试建议，随便聊聊,是,2.96,75.9,3.37,80.33,,IELTS,7.5 8.5 8.5 6 6,153,168,321,,"University of Illinois at Urbana-Champaign#MSIM
+University of Pittsburgh#MSIS(Information Science)
+Syracuse University#MS in Applied Data Science
+Stevens Institute of Technology#MSCS","Boston University#MSCS
+Northeastern University#MSCS-Align
+Brandeis University#MSCS for Non-Majors
+George Washington University#MSCS",,,,,,,,,,,
+34,gengchen@cs.stanford.edu,耿晨,否,计算机科学与技术,是,https://www.linkedin.com/in/chen-geng-aa8a09125/,available upon request,,Stanford University,PhD,CS,Computer vision,随便聊聊,否,3.99,94.38,,,,TOEFL,107 R29 L27 S23 W28,,,,https://chen-geng.com,"Stanford University#CS PhD
+Carnegie Mellon University#Robotics PhD
+Princeton University#CS PhD
+Cornell University#CS PhD
+University of Illinois at Urbana-Champaign#CS PhD
+The University of Texas at Austin#CS PhD
+University of Pennsylvania#CIS PhD","CS PhD @ MIT, Berkeley, UCSD, Brown, UofT, UW",See my homepage: https://chen-geng.com,,,,See my homepage: https://chen-geng.com,国内国外导师+课程推,"以下内容针对申请PhD的同学找暑研.
+对于申请海外PhD的同学, 海外暑研是最重要的一步, 下面我分几个方面详细讲一下.
+
+- 暑研前的准备
+  在进行一次成功的暑研之前, 你最好需要已经具有(接近)独立的科研能力, 并且对于research trend与direction最好能有自己的理解. 这需要你在进行海外暑研之前就已经在某个愿意对你进行初步的科研指导的实验室有过若干段科研经历. 一般来说, 海外顶尖学校的top组很少能比较hands-on地带你进入科研的第一步, 因此我一般推荐同学们能够从大一开始就在一个愿意培养你基本科研能力的组进行科研尝试, 并且在这个过程中培养自己的科研品味. 同学们可以选择校内风评比较好的组或者校外的AP组进行初步的科研尝试. 
+- 如何找暑研.
+  如果大一大二已经进行了比较好的科研培养, 在大三找暑研的时候, 你自然就已经知道你所在的小领域中有哪些比较厉害的导师. 可以把你所在领域你知道或者熟悉的researcher列一个简单的list, 然后再根据csranking查缺补漏, 这样一个一个发邮件就可以了. 陶瓷邮件最好能够针对性地对于每个导师写, 具体体现你和他research interest的intersection. 
+- 选择暑研组
+  选择去哪个组进行暑研也是一件重要的事情. 最重要的因素我认为有两个. 
+  第一个是导师本身的影响力与connection. 对于申请phd来说, 最重要的申请材料就是推荐信. 一份committee认可的、能够calibrate的推荐信能够极大助力你的申请. 
+  第二个是你和导师的match程度. 这包括你们research interest以及research style是否match. 这也包括导师会不会给你亲自写推荐信, 比如有些极其senior的教授是不给所有暑研学生写推荐信的. 
+
+如果有同学是和我做相近方向的, 可以私戳我问暑研组选择相关的问题.","选择申请项目: 根据子方向比较强的prof选学校. 下面针对我申请一些学校我会写一点简单的录取流程和时间线上的comments. 如果没有特别说明的均为强committee. 
+
+- MIT
+  - Comments: 几乎不面试, 部分AP会面试. 所有学校里面的第一批出结果, 而且只发一批offer, 没收到的就是默拒. 一月底开奖. 强committee
+- Stanford
+  - Comments: 一月底出shortlist并分配committee member进行一到两轮面试, 二月初先发oral offer然后发正式offer. 同样只发一轮offer, 录取必须面试. 极强committee
+- Berkeley
+  - Comments: 一月中旬出shortlist并进行面试, 没有收到面试通知则为默拒, 录取同样必须面试. 强committee
+- CMU RI
+  - Comments: 大部分情况下不面试, 少数AP会面试. 二月初出offer, 应该是只发一轮. 强committee. 这个项目今年GRE是optional, 我没交, 最后还是录取了.
+- UW
+  - Comments: Reality Lab一般是一起招生, 招生分大小年. 今年不招生, 所以我所在的方向afaik无一人录取. 强committee, department level首先由学生committee初评.
+- Cornell
+  - Comments: 一月底committee陆续联系面试, 二月初出第一轮offer. 强committee.
+- Princeton CS
+  - Comments: 录取我猜是committee, 因为我面了一个老师, 但是录取的时候联系我的老师不是面试的那一位. 一月初面的.
+- UCSD, UIUC, UT Austin, UPenn
+  - Comments: 面试没有统一时间, 有老师会十二月末或一月初就开始面试. (应该都是)强prof.
+
+如果有同学拿到了上面学校的面试, 可以联系我咨询经验.",,推荐信是最重要的.,"下面说一些比较杂的点.
+
+- 关于英语成绩
+  - 不要相信申请PhD托福不重要这种话, 特别是如果要申请top phd项目. 对于Stanford来说, 有一个soft bar是105, preferably能达到108以上. 如果没有过soft bar (也就是105-), 即使要捞你的教授也会需要付出额外的精力或者进行额外的面试. 
+  - GRE截止2023 Fall对于大部分项目并不重要, 我没有考过GRE.
+  - 我个人由于前期太忙最后只花了两周的投稿之余时间准备TOEFL, 个人感觉关键还是背好学科单词, 其他能力在科研过程中大部分都已经培养和训练过了(读: 读paper, 写: 写paper, 听: 听talk, 说: 做pre)
+  - 建议大学前三年进行一下科研以外的刻意训练练好英语, 对于之后读PhD帮助很大.
+- 关于成绩和排名
+  - 北美学校的系统基本没有填排名的地方. 
+  - 成绩的话, 如果93+, 肯定是加分项, 当然也要看和你一起申请的其他人的成绩.
+  - 肯定是没有其他因素重要的, 重要性低于英语
+- 如何做好科研
+  - 这个问题很复杂, 很难通过简单的文字讲明白. 简单来说需要经历良好的科研训练, 因此我推荐本科生能够加入一些对于本科生科研有着完整训练方案和计划的组进行第一步的科研训练. 比如Xiaowei Zhou老师组有非常完备的本科生科研计划与安排, 有一套完整的科研新人上手方案和文档, 组里的学长也非常负责, 非常推荐对三维视觉和计算机图形学感兴趣的本科生前来实习. btw, 我们组今年申请北美PhD的同学全部申请到Top10的学校, 出去暑研的同学基本都有return offer, 可见我们组对于本科生科研训练的成果.
+- 关于推荐信
+  - 重要的是calibration.
+  - 北美 >>> 其他地区. 如果你主申北美且只有一次暑研机会, 请优先考虑在北美暑研.
+  - 对于大部分项目, 推荐信不需要在ddl之前交齐. 只要在学校开始审材料之前, 也就是12月下旬左右之前交齐就可以.
+- 关于陶瓷
+  - 我申请季没有陶瓷. 大部分committee的学校老师都会在开始审材料以后把POI写了自己的学生材料都看一遍, 如果感兴趣的话他们会主动联系面试的.
+  - 有时间的话也可以套套, 应该没坏处.
+- 如何缓解申请焦虑
+  - 其实PhD录取是一个比master录取透明一点的过程, 等待的时候可以多做做科研
+  - 也可以上知乎的申请贴或者gradcafe看看别人的时间线, 强committee的学校发面试和offer的时间一般是统一的.
+- 关于科研方向选择
+  - 客观来讲PhD申请的时候不同方向的申请难度差异很大, 甚至同一个方向的不同子方向申请难度差异也会很大. 
+  - 一方面, 不同方向对于paper的要求是不同的, 这和不同方向的paper周期有关.
+  - 另一方面, 如果你发现你所做的子方向只有东亚的组在做, 北美组基本没人做, 这个时候就要做好申请极其困难的准备了. 最简单的标准就是想想你们子方向你最先想到的那几个大牛是不是北美的. 
+  - 如果你想申请北美PhD, 尽量申请北美需求高的方向. 同时也要考虑喜不喜欢这个领域的paper cycle和research style
+- 关于文书
+  - SoP尽量写成一个故事, 把本科的科研经历串起来, 不重要的科研经历可以简略, 毕竟CV里面能看到完整的.
+  - 大概率大部分老师也不看, 但是的确会有老师会看这个, 所以还是好好写. 
+  - 好好写的另一个优点是可以用来串你的面试
+  - 好好做一个个人主页, 早点开始建立自己在学术圈的知名度.
+- 关于面试
+  - 不同学校要求不同, 可以提前找去年面过的学长问问. 比如UCB可能会考teaching, 虽然我没考.
+- 关于签证经验
+  - 首先CS PhD去申请签证一定要降低自己的预期, 绝大多数情况下都会check.
+  - 对于面签, VO的重要性 >> Study Plan / CV > 专业与方向 > ds160 > 其他
+  - 根据今年的经验, F-1签证: 上海 ~ 北京 > 广州 >> 沈阳
+  - 如果是上海或者广州, 推荐约最早的一场, 如果是北京, 尽量早起第一个进去签, 这样有最大的概率有VO的选择权.
+  - 签证的文书写法和申请完全不同. 关键是要**说人话**, 让别人听懂你的research到底是干什么的. 所谓check实际上就是VO根据自己的知识无法对你的case做出判断, 需要送去DoS进行进一步的审查. 如果你能用正常人类能听懂的语言解释你的研究方向, VO就会更自信地对你的材料做出判断
+    - 比如: Novel View Synthesis of Dynamic Performers: wtf?
+    - Creating Digital Characters in Video Games from Mobile Phones: ic.
+  - 面签时, 可以适当主动热情一点, 主动跟VO聊自己的研究方向. 开始的时候可以考虑I-20, 护照和study plan一起交上去, 避免VO看了专业就想check了.
+  - 时间上, 经验上推荐周一或者周五, 但这是一个玄学, 没有统计学依据.
+  - 祝同学们都能顺利下签, 不被check
+- 参考资料
+  - 列举一些其他的申请经验贴, 申请的时候可以多看看:
+    - https://trinkle23897.github.io/posts/application
+    - https://zhuanlan.zhihu.com/p/350439006
+    - https://chhzh123.github.io/blogs/2021-05-22-phd-application/
+    - https://zhuanlan.zhihu.com/p/466600430
+    - https://zhuanlan.zhihu.com/p/350439006
+    - https://zhuanlan.zhihu.com/p/475751340
+    - https://zhuanlan.zhihu.com/p/60961921
+    - https://zhuanlan.zhihu.com/p/362189295
+- 最后想说的
+  - 科研只是一份工作, 不比其他职业高贵, 也不是所有人都适合读PhD: 如果你还没有想好要不要读博, 就不要现在读. 北美的MS出路很好, 一方面可以申请PhD, 有了connection加成以后申到顶尖学校的概率大大提升, 另一方面找工作也比PhD同学提前几年进入工业界, 而且同样有机会进入research岗. 如果你还没有做好准备, 不需要也没有必要强求自己读或者申请PhD.
+  - 申请季是一个极其随机的过程, 如同顶会review一般, 中了的paper不代表一定比没中的paper牛逼, 因为整个过程都是充满主观性和随机性的. 申请来说, 即使暂时结果不尽如人意也希望不要气馁, 坚持自己真正喜欢的东西, 最后都会有好结果的. Life is not a straight line, it's a zigzag. 即使在人生的某个节点因为运气好坏进入到了一个意外的outlier点, 最后其实还是会震荡回归到你的能力应该所处的位置."
+35,luyaomacs@gmail.com,马璐瑶,否,计算机科学与技术,是,,M2310785528,QQ 2310785528,"University of California, San Diego",Master（授课）,MSCS,Artificial intelligence,选校咨询，语言考试建议，随便聊聊,否,3.91,89.19,3.94,89.98,Top 5%,TOEFL,108 R29 L25 S26 W28,153,169,4.0,,"University of California, San Diego#MSCS
+Yale University#MSCS (one-year track)
+ETH Zurich#MSCS
+Rice University#MCS","Carnegie Mellon University#MCDS
+EPFL#MSCS
+University of California, Berkeley#EECS MEng
+University of Illinois at Urbana-Champaign#MCS
+Georgia Institute of Technology#MSCS
+Duke University#MSCS",,,,一奖*1，二奖*1，三奖*1,,"毕设导师 强推
+课程老师*2 强推
+课程老师*1 应该是强推",,"选择申请的项目时考虑了费用、地理位置（治安，周边是否有企业）、学校的title、项目时长。
+
+虽然之前一直流传GRE328是Yale的铁bar，但我GRE没有328也被Yale的MSCS (one-year track) 录了，学弟学妹们GRE没考到328也可以申请试试。
+
+建议学弟学妹彩票项目多报几个！因为申请这件事很玄学，就像我被EPFL拒了，但是不知道为什么比EPFL更好的ETH录了我。",最后是在Yale的一年制MSCS和UCSD的一年半的MSCS中间纠结。Yale在国内的title比较好，UCSD在国内就没这么知名。但是Yale是一年制的项目，不能拿CPT去暑期实习，只能毕业后直接用OPT找full-time的工作，在找工形势不太好的当下，感觉风险还是有点大了。UCSD因为是一年半的项目，有CPT可以找暑期实习，从实习Return变为正式员工会更容易一些。因此最后还是选择了找工比较稳妥、治安比较好的UCSD。,,
+36,2503377821@qq.com,陈一航,否,计算机科学与技术,是,,,,Georgia Institute of Technology,Master（研究）,MSCS,,,,3.96,90.75,4.0,,,TOEFL,106 R30 L29 S19 W29,161,170,4,,"Yale University#MSCS
+University of California, Berkeley#EECS Meng
+ETH Zurich#MSCS
+Georgia Institute of Technology#MSCS
+Columbia University#MSCS
+Carnegie Mellon University#SESV
+Johns Hopkins University#MSCS
+Brown University#MSCS
+University of California, Los Angeles#Meng
+New York University#MSCS, Tandon
+University of Southern California#MSCS","Stanford University#MSCS
+Harvard University#CSE
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSIN
+EPFL#MSCS
+University of California, San Diego#MSCS
+University of Michigan-Ann Arbor#CSE
+Northwestern University#MSCS",,,,,,,,,,,
+37,ztshuai@umich.edu.cn,帅子滔,否,计算机科学与技术,是,https://www.linkedin.com/in/%E5%AD%90%E6%BB%94-%E5%B8%85-1779401a8/,ZJU_CS_SZT2001,,University of Michigan-Ann Arbor,Master（授课）,MSECE,Machine learning,其他: networking,否,3.5+,80+,,,,TOEFL,108 R28 L29 S23 W28,150,170,4,https://zitao-shuai.github.io/,University of Michigan-Ann Arbor#MSECE,Brown University#MSCS,"浙江大学; 况琨老师; 2022; OOD trustworthy AI; KDD一作在投,推荐信
+UC Davis; prof. Hao-Chuan Wang; 2022; HCI; 纯干活无论文，推荐信
+浙江大学；陈璐老师；2021；时空数据挖掘；纯打工，带我的phd说paper没中，反正n作都没
+浙江大学；骆兴国老师；2022；AI+资产定价；working paper * 1，没用
+浙江大学；董望老师；2021；AI+finance；填故事线用的经历",,美赛，一堆商赛，总之没有用上,浙江大学二等奖学金若干,2023 SigKDD 1作在投，应该是部分用上了的。,"Kun Kuang 校内科研推 合作一年+毕设的导师 强
+Hao-Chuan Wang 海外科研推 暑研导师 强。。。吧
+Xi Li 课程推 强
+Sai Wu 课程推 强",暑研是通过学校申请的，当时就是为了体验不一样的方向然后找的Hao-Chuan老师。聊之前速通了他们的近期工作，加上我本来有社科基础，聊得也比较愉快。本来各方面包括对方的hc都还是挺match的，但是后来想了自己的未来规划还是不准备走HCI这条路了。,"当时照着综排，把cs专排高的跳过，从高到低拉了一遍。同时避开一些对自己不利的点，比如陆本黑洞，比如要实习，比如只看gpa，比如卡口语。
+然后申了几个转博友好的ECE。",综排和专排都挺香的，正好讨厌写码不想读cs了，想沉淀一下机器学习的一些数学基础，然后当跳板再搞phd。另外ece的skill set和hf 的 buy-side需要的skill set比较match，符合我预期的失败phd生活之后的职业规划。,可能软实力好一些吧，比如双学位，比如经历比较多，也可能是自己确实运气好。我回想了一下自己确实没有任何亮点。。。唯一亮点可能是心态好吧，逆商比较高。,"首先感谢淇森大佬的邀请，感谢室友Huff Y 的邀请。本来我是不敢填飞跃手册的，因为自己确实是很菜很散漫的一个人，至少不擅长做题刷gpa。然后需要说声对不起的是因为历届出国群的氛围，我真的很怕被大家笑话被大家judge，所以我gpa填了一个没有什么参考价值的数字，offer那里我也随便写了几个数据点。如果要怪的话，就怪为什么有那么多魔怔人了吧。后来想了一下作为一个失败者分享一些失败的经验也未尝不可，供学弟学妹们引以为鉴，也挺好的，所以就厚着脸皮填了。同时我也希望借这个机会鼓励一下学弟学妹们，有的时候哪怕一直失败，上天也是不会对咱们的努力和探索视而不见的。
+科研：可以见我在98分享的经验：https://www.cc98.org/topic/5522984
+此外我也非常感谢大二的时候经济学院的王宇老师，他热心介绍的很多关于科研的经验我至今都觉得很有用。
+强推：以我个人的经验，老师主要看一个同学有没有科研潜质，有没有主动探索的能力，能不能发现有意义的问题，我觉得这也是区分一个人适合当sde还是适合做科研最关键的地方。当然基本的科研能力也是需要有的，会最基本的读文献、总结文献，才有insight，才有之后的一切。
+面试：我比较外向，口语好像一般但是deliver的还行，所以vedio eassy就随便说说就够了。和老师聊也是聊科研，其实就那些内容，不用太紧张的。当然我没申cs phd我暂时不懂申cs phd的问题，仅仅谈谈科研方面的交流和面试，希望大佬不要喷我误人子弟。
+关于语言：
+托福可以参考我在98的帖子：https://www.cc98.org/topic/5485162
+gre应该就是刷题就好，我就背了下单词，感觉自己确实不适合做题，考不高，过线了就没考了。
+此外，多叨叨两句，学好口语真的是一件很重要的事情，学托福也是很快乐的事情，大家如果抱着了解美国文化、平衡枯燥的工科学习的角度来看这件事，应该会愉快很多。
+关于学科交叉与申请：
+1.有学科交叉的经历对一些专业的申请应该是好的，辅修或者双学位的同学不用懊悔自己浪费了时间，以至于gpa不够高。
+2.学科交叉是竺院喊的口号，也是我的信条。我觉得真正的学科交叉，例如AI+Finance需要科研工作者对AI模型的特性有了解，对金融模型存在的实际问题有了解，不然连好的故事都讲不出来，自然就只能做出A+B的工作了。对于机器人、ECE、金工（实际上我不太懂），我的建议是对于交叉的各个学科不能只停留于皮毛，至少要对某一个方向有自己独到的insight，不然最后很容易样样懂，样样瘟。
+3.学好一个学科已经不易，想要深入理解两个学科的不同运行逻辑，要么能力很强，要么愿意牺牲其他时间，要么接受失败。我是最后一种，所以我接受我失败的gpa，接受一个不太好的去处，接受大四仍得上课和卷的后果，接受来不及考语言等到12月才出成绩的后果。但是如果愿意把眼光放长远一点，如果用四年时间充分探索了自己真正喜欢什么，那未尝不好。如果这个时候还打下了让自己未来一直受益的基础和学科思维，那更是可喜的。
+只是，要权衡自己是否能并且愿意接受现阶段的失败和他人的耻笑。
+关于双学位和辅修:
+作为失败者我仍然不劝退双学位和辅修，我根据自己的经验认为最优的情况是在大四放30分左右的课，在前三年只放30分左右的课来减少考试周对复习时间的占用。对于转码的同学来说，搞一个cs的辅修肯定是好事，对于数学转金工的同学来说，搞个金融的双学位应该轻轻松松，对于喜欢做理论的同学来说，辅修统计或者数学无异于给自己增添强大的背景。
+关于本科生活和diversity：
+我不清楚diversity文书帮到了我多少，但是我们本科参加各种活动一定都不是在浪费时间。只要是有意义的，就一定会有回报。此外我建议有音乐绘画特长的同学，多关注民族艺术，这样可以写自己热衷传播民族文化这一diversity。校队的同学也可以参加xx辅导站去教同学们打球，这样可以写自己热衷公益教育。领导力的话大家都会写到这个的，挑几个事情写写就好。"
+38,dongfu.jdf@gmail.com,姜东甫,否,计算机科学与技术,否,,tpfu4766,,University of Waterloo,PhD,CS PhD,Natural language processing,选校咨询，文书修改，随便聊聊,否,3.97,90.67,,,top 10%,TOEFL,R28 L27 S22 W24,151,167,3.5,jdf-prog.github.io,"ETH#MSCS
+University of Waterloo#CS PhD","UCSB#CS PhD
+USC#CS PhD
+UCSD#CS PhD
+University of Texas at Austin#CS PhD
+EPFL#MSCS
+UIUC#MSCS","浙江大学 赵洲 2021-2022年初 SRTP 基本无产出
+南加州大学 Xiang Ren 2022.3 - 2023.2 ACL 一作（申请时在投）",无,美赛等一堆无用奖项,"国奖x1, 一奖x2，以及各种外设院设奖",ACL 2023 一作（申请时在投）,"赵洲 SRTP导师 中强推
+Xiang Ren 暑研大导师 强推
+(Bill) Yuchen Lin 暑研小导 强推
+吴飞 人工智能课 课程推","因为在大三上的时候就决定出国读个phd，所以早早地研究了暑研的申请。实习经验基本等于无，所以感觉可以说说暑研。
+首先暑研套磁还是要尽量多投，并尽量保证能够看过一篇老师的文章后进行学术套，这样老师的回复率会比较高。我在2022年春节刚过完就开始在csranking上看各种导师并联系，因为之前SRTP做的是手语，所以找的老师基本上都是NLP或者CV的老师，其他方向比如AI security也尝试了一下。最后回复率大概在20%，而且回复的全部都是华人导师。暑研陶瓷的基本情况是
+- UIUC两个老师面并愿意带（方向非nlp,cv)
+- USC一个nlp老师面并愿意带，有具体的项目
+- 某曾在Gatech的nlp大牛佬的phd面（也是zju的学长），并愿意带，但是要自己想idea
+- UCSD某CV大佬老师面，后被拒（太菜了
+- UCSD某偏ML老师回复让看论文，但是时间太晚已经接USC了，
+- 收到大S校某CV老师一般回复（受宠若惊），但是时间太晚了已经接USC了，而且自知没有能力在大S老师手下要到强推（太菜了
+因为当时考虑到自己基本是科研纯小白，所以比较偏向有学长手把手指导的，而且略微没有那么卷的lab里面去做暑研。综合考虑最后就去USC了。这里建议大家在决定暑研去向时要仔细考虑好，以自己的能力能不能在这个lab拿强推，是不是比较契合自己以后的方向，这些因素在选择的时候往往比学校更加重要。
+23fall的暑研我知道的多数都是线上remote的，但是也有能够肉身翻墙去on-site的。个人感觉对CS来说，remote和on-site区别要比其他专业小，当然on-site确实能够建立更好的connection。24fall以及之后应该大多数都是线下了，暑研陶瓷就更要尽早提上日程了。
+
+最后还有一个小tip，并不是说暑研就一定时暑假才开始的。一般暑研申到之后，老师基本会立即让你投入到科研项目当中。我当时操作的时候有些贪心，想先上半年在USC，之后暑假开始再去另一个实验室。好处是这样就有两封科研推。结果和另外一个实验室的老师出现了沟通问题，后者的机会凉了，于是最后全程呆在USC了。事后证明这也许是个更好的选择，因为两份短科研并不一定会有强推的，可能两封推荐信的力度都不够。","选校考虑因素包括：
+1. 自身能力（深知自己在nlp这种方向并不能申到顶校）
+2. 天气（想去加州）
+3. 实验室方向和导师的taste（比较主观）
+4. 经济能力（主申phd，其次研究硕）
+5. 老师和学长推荐
+感觉自己的选校还是比较合理的。phd的话，除了UCSD和UT austin算是硬申，其他或多或少都有点connection。当然这俩也确实难，算是冲刺。然后UCSB, Waterloo, USC算是主申phd项目。最终也确实只收到了这三个老师的各种消息。没有保底phd项目，我记得某个飞跃的学长说过，全聚德也没什么可怕的，为了自己喜欢的方向，再来一年也是可以接受的。深受触动。非要说保底的话，三个ms算是保底把，然而也差点没保住。
+跟我背景差不多的可以找我聊选校。多篇顶会一作的大佬可能就看不上上面这些学校了（bushi","最终有积极回复的三所状态分别为：
+1. Waterloo: 很早就受到面试，面试第二天就给口头offer了。这是因为我USC的小导和他是close friend。这里也说明connection的重要性，毕竟我当时名义上是没有论文的（在投的不算）
+2. USC: USC的小导有微信推荐。而且方向不合（尽管很想去USC)。年后收到面试后没有消息。没有纠结的余地
+3. UCSB: 年后面试后无消息。后我被Waterloo催做决定，我就催UCSB老师，加面一次。然后只愿意给TA。
+
+最后在Waterloo和UCSB之间究极纠结了一个小时，还是觉得方向不太合适，最后放弃了。选择了苦寒之地Waterloo而不是舒适小镇芭芭拉。所以科研方向在我这里还是更加重要一点。",最重要因素：USC强推。在这里将近做了一年多。收获了巨多。老师也愿意给强推，非常幸运。,
+39,yqchen1129@gmail.com,陈泳岐,是,其他: 机器人工程,是,,C19858876769,邮箱也可以,University of Michigan-Ann Arbor,Master（研究）,MSR,Robotics,选校咨询，语言考试建议，随便聊聊,否,3.87,87.5,3.9,89.5,6/34,TOEFL,R27 L28 S21 W28,153,170,3.5,,"University of Michigan-Ann Arbor#MSR
+Carnegie Mellon University#MSAIE-ECE
+Duke University#MSECE
+University of Southern California#MSCS
+Northeastern University (Boston)#MSCS
+University of Pennsylvania#MSEE","Harvard University#MSCSE
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSR
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#MSCV
+Duke University#MSCS
+University of Pennsylvania#MSR
+University of Illinois at Urbana-Champaign#MSECE
+University of Illinois at Urbana-Champaign#MCS
+University of California, San Diego#CS75
+Georgia Institute of Technology#MSCS
+Georgia Institute of Technology#MSR
+Columbia University#MSCS","控制学院 张宇 2021.9-2022.2 SLAM相关 无产出
+MIT-IBM Watson AI Lab 2022.7-2023.3 视觉推理 申请时无产出",,,"浙江大学一、二、三等奖学金
+竺可桢学院领航奖学金",,"张宇老师 科研导师 应该是强推
+熊蓉老师 课程老师 也是强推
+暑研老板 强推",https://www.cc98.org/topic/5597847,申请的时候想当海王，申了很多，回头来看确实应该多申hhh,主要还是想去偏科研的MS项目，UMich项目可以两年且可以选择thesis-based，然后整体robotic科研实力也很强，最重要的是喜欢下雪（bushi,可能IBM的推荐信、GPA、本科背景是比较有用的，录取的几乎都是engineering相关的项目,详细的可以移步https://www.cc98.org/topic/5597847
+40,m.yunchaozhang@gmail.com,张耘潮,否,计算机科学与技术,否,,Silliest-Happiest,优先邮件联系，其他方式可能换,The University of Hong Kong,PhD,Institute of Data Science,Artificial intelligence,选校咨询，随便聊聊,否,3.84,87.26,,,,TOEFL,99 R27 L25 S23 W24,,,,,"University of Southern California#CS PhD
+University of Wisconsin - Madison#CS PhD
+The Univerisy of Hong Kong#IDS PhD","Stanford University#MSEE
+Univerisity of California, San Diego#CS PhD
+Cornell University#CS PhD
+Brown University#CS PhD
+University of Washington#CS PhD
+New York University#DS PhD
+Columbia University#CS PhD
+Univerisity of Toronto#CS PhD",,,,一奖*1，三奖*1，互联网+省金国银,申请时均为在投：CVPR一作，ICLR二作，TKDE三作，WWW四作,一封国内推荐信（浙大），两封海外推荐信（UCSC）,"找暑研的时候，自己并没有决定读博同时科研经历也比较薄弱，所以找了自己感兴趣的方向的导师就做了。所以对此没有什么很好的建议，同时关于暑研的经验分享，飞跃上也有挺多了。说几个想说的点：
+1. 暑研基本上决定了你的PhD申请结果。所以研究方向/导师要好好选，不要急，谨慎一点没事。
+2. 怎么看connection：大牛不用怎么看，到了副教授或者正教授，基本上都是领域里非常有名了，推荐信适用性很强。对于AP（助理教授），一般会有特定的connection，可以关注一下他的google scholar，看下他的coauthor，以及twitter上他和别人的互动/follower。这些人一般和他都有connection。还可以看下他在领域内的活跃度，有没有去别的学校给talk/组织一些workshop。
+3. 怎么选导师：一般就是选大牛组和AP组。个人觉得可以多和学长学姐交流，打探一下暑研消息。学术圈还挺小的，挺多事情大家都知道，比如xx大牛比较古怪，xx AP对学生不错之类的。不能只看表面的实力/connection，你暑研是否能拿到强推与帮助才是关键，但这个不一定是能从个人主页看出来的。如果没有内部消息，可以看下Alumni那一栏，有些人会放自己的intern的去处。关注一下这些intern的发展可以有个大致的评估。","主要考虑了导师的connection和自己想去的地方。不想去的地方没必要申，博士是一个五年的承诺，一定要选自己真正想去的地方。实在不行就gap，个人认为gap的风险比选择一个自己不想去的地方小多了。这个“想去”就得看自己了，有人因为天气原因只选加州的学校，有人只关注导师，有人关注学校的title。都无对错，多问问自己。
+顺便安利一下wisc的PhD。这个track好像是研究型master和PhD混在一起的，所以如果你读phd如果不顺利，你可以名正言顺的拿一个ms学位走人，相当于全奖ms。而且wisc的phd是rotation制，有些导师会在入学前通过套磁确定学生，有些导师倾向于和他先工作一段时间再确认，自由度还是比较大。我知道有zju的wisc phd学长拿ms走人去湾区工作的。可能还有拿这个当跳板申更好的phd的，这个路径应该也可以，但是我不知道相关的case。","本来是all in北美PhD的（抽了个stf msee的奖，当然以我的三维确实不太能申上），最后结果也挺不错，但是因为各种原因想gap了。
+和冲更高Tier的学校无关，主要和研究方向有关系。USC和Wisc申的导师集中在nlp和cv，还有一个MILA的全奖MS（因为最后决定不去了所以没发offer）是做多模态的，以及暑研UCSC的return offer做多模态/Embodied AI（和导师说了不去所以也没发）。虽然之前的研究也集中在这几个大热的领域，但是经过暑研我渐渐明确了自己真正想做的子方向，由于拿到的offer的学校里没什么人做这个，所以准备gap一年重新申请。
+2月底的时候看到HKU新建立的数据科学学院有适合自己想法的机会，和那边聊了一下，发现导师的想法和我非常契合，于是立即愿意给我发offer。犹豫了一会儿，因为导师是大牛&那边非常支持我自己的规划，所以决定没必要gap就去了。虽然错过了港府，但是也在导师的帮助下拿到了校长奖学金。
+当然，个人深知这算是一种赌博，也有很多个人因素存在。一般来说，去北美读博会对自己未来的发展更好，我这个算特殊的例子，不建议学弟学妹们效仿。","我想正负面因素都谈一下：
+正面因素：
+1. 拿到了导师的强推。虽然是ap的强推，但是我可能拿的是同届intern里最强的，导师对我的评价高（合作过的intern里的best）。
+2. 虽然都是在投，但是整体科研经历还算比较丰富，各个领域(CV/NLP/Graph/Security/推荐系统）都有点涉猎（也算缺点，样样不精）
+负面因素：
+1. 托福。因为个人原因，自己的托福是裸考的，填上去的是best score，实际只有94，好消息是口语比较稳定，都是23。申请季怕这个因素影响自己申请，所以非常的焦虑，经常深夜睡不着。还好最后结果还算不错，也确实说明了托福在博士申请当中没ms申请那么重要。当然，真的要建议大家早点考完，这样可以全身心投入科研。底线是100以上，口语最好24及以上（最好105以上）。个人觉得非常top的学校，除非你优秀到无可比拟，英语还是比较重要的。当然最好还要锻炼下你的口语交流以及presentation，不然你英语考的高面试发挥烂也没用。
+2. GPA。不高。","我觉得最重要的是想明白自己到底想做什么。每个人都有一个属于自己的世界，需要我们慢慢去寻找。现在的环境，尤其是申请出国留学，还是比较恶劣的。焦虑、纠结、歧视充满在各大留学群/论坛中，也许走到哪里都无法避免被judge。
+但是比如，如果我就想在美国读硕然后找工过上轻松的日子，那去读一个比人口中的“国外水硕”又如何呢？进一步的，很多学校虽然项目“水”或者title没那么响亮，但是项目出路很好，你会发现这些项目里出来找的工作和那些所谓的名校硕士没什么区别，都能过上你想要的生活，那个时候title又毫无意义了。人最需要注意的永远是自己本身的实力与生活，被title牵绊/靠title活着会引起不必要的精神内耗。当然，如果你对名校带来的隐形资源（人脉等等）有非常明确的需要，那你确实可以为之而奋斗，否则没必要。比如你想创业，开个留学中介之类的，那有个好的平台确实比较重要。
+我大二的时候想读硕，就是想过上那样轻松的日子。当时在一亩三分地上看到了一个博主分享了自己在美国湾区跑到苏黎世google，后来又transfer到东京工作的经历。那个时候我想：这不就是我想要的生活吗？环游世界的雏形，深切感受各个国家的文化。所以我选了很多没必要的课来提升自己拉跨的GPA。但到了大三下，随着科研的进一步深入，我发现自己可能更适合科研。也觉得现在大家无论什么专业都在转cs找sde的工，可能我还是更想做一点独特、能发挥自己优势的东西，希望自己能有特别的专长，而不是轻易的被别人替代。可惜大三下我那个时候已经选了非常多的课，所以兼顾课程与科研的我非常累，也没能取得特别好的成果。
+如果我大一能早点开始去尝试科研以及自己感兴趣的事物，早点思考自己到底想要什么，相信会有更好的结果。身边申请结果特别好的，一般都是比较早的就确定了自己的目标，一路走来非常专注，所有的努力集中于一点，效率非常高，最终的结果也是水到渠成。当然确认自己的想法是比较难的，所以除开自己想/尝试，也要关注一下外界的形势。比如对ms来说，现在国外抽签越来越困难；对PhD来说，当下某个方向正是热门，但是读博毕业后火的可能又是另外一个... 时刻关注外界形势，结合自己内心（这个当然最重要），相信你能做出好的选择。
+最后想说：什么时候都不算晚。我大一因为种种原因非常颓废，绩点也是年级末尾，一路以来想法变化较多，同时也十分挣扎于和自己的缺点作斗争，但是我从来没有过放弃自己追逐的理想。也曾被别人说过好高骛远，但是我明白自己虽然现状较差，但能付出足够的努力，也相信自己的能力，最终也算收获了好的结果，绩点上升到了保研边缘水平，最终没参加保研选择了出国读PhD。
+每个人的人生都是独一无二的，别人的建议永远只能是建议，世界上最应该相信的就是你自己。希望你能活出自己的精彩，找到属于你的世界。"
+41,guofeichen01@gmail.com,陈国斐,否,自动化,是,,,,Carnegie Mellon University,Master（研究）,MSR,Robotics,选校咨询，语言考试建议，文书修改，随便聊聊,否,3.95,88.83,,,,TOEFL,R30 L30 S23 W28,159,164,4.0,gfchen01.cc,"Carnegie Mellon University #MSR
+Georgia Institute of Technology #MSECE- Robotics
+University of California, San Diego #MSECE- EC80","Massachusetts Institute of Technology (MIT) #AeroAstro - S.M.
+University of Washington # CSE PhD
+University of Illinois at Urbana-Champaign #MSECE
+University of Michigan-Ann Arbor #MSR
+University of Pennsylvania #MSE Robotics
+ETH #RSC
+EPFL #MS Robotics","浙大工控所 葛志强 2021-2022 SRTP. 一篇水会三作，一篇期刊三作
+ZJU FAST Lab  高飞  2022.7-申请时. 申请时无产出",,RoboCup 浙江省赛 2022.7 小型机器人足球赛，冠军,,,"控院高飞老师科研推-强推
+计院张国川老师课程推-强推
+控院熊蓉老师竞赛/科研推-强推",,"先定国家。当时不想留在离东亚文化圈太近的地方，所以就排除了港新；英国的学校NPY不喜欢，于是就（草率地）排除了它们；据传澳洲这两年有一些圈子有变水，如果要过去读博，建议和在那里的学长多多交流，不要为了避免申请的麻烦草草决定。
+
+我自觉自己的文章和经历，直接申博不太能到很好的组，于是冲着将MS作为申顶级PhD开始了这次申请，所以申的一般都是可以有科研track，且这所学校有一些还算比较喜欢的导师的项目。然后再看看Robotics的水平，加上平时读论文的时候对学校的感觉，从难到易敲定了一些学校（保底校当然是USC啦，只不过最后让我补个材料，因为已经接了offer就withdraw了）。
+
+现在回想起来，应该多申一些PhD项目以及买买彩票，比如CalTech, UCB, Stanford这类。回想起来，当时不想搞AI和Vision，看到西岸的大部分研究都在这些方向；后来又看到杨硕硕哥在知乎上写的对UCB和CMU机器人的对比，就更倾向于东部这些搞控制和更传统一点的感知（非纯Learning）比较多的学校了。但现在对整个领域了解更多之后，我认为当时有一点狭隘，西岸的那些学校有这样的选择也有背后的原因。
+
+瑞士的话，ETH Robotics真的太强了，怎么可能不申呢？加上这个国家感觉大部分中国人会更喜欢一点（安全，受政治因素的影响小），只是项目时间有点短。","捋一下时间线：UCSD ad -> UW Reject-> CMU ad (2.14)。然后就接了哈哈哈哈
+CMU ad基本把MIT之外的项目基本都排除了，就等这俩。结果就是MIT拒信一来，直接就接了。后续的offer都没有任何影响。
+CMU MSR基本上可以说是为我量身定做的项目了，非常强调研究，课比较少，加上RI各种方向各类老师一应俱全，我申请的这些项目中可能只有MIT能撼动它了。","我是纯DIY的，申请结果以常理来看其实方差很大：有一些感觉不是很难的项目没有Ad，CMU却ad了。所以这个结果告诉我们，有时候佛一点，不要太关注你的学校排名如何啦，多想想这个学校的老师和科研能为你带来什么，往往被录取的都是非常match的，只要你文书写得足够符合你的真实情况和研究兴趣。
+
+先说说我的经历与我申请到的项目的关系。我认为飞哥的推荐和小型足球机器人的工作经历对我申请到CMU帮助非常大。一个很明显的感受就是，我在写其他的学校的文书时，当尝试把我的经历和导师的方向联系起来时，其实表达得有一些曲折，且不是那么贴合；而在写CMU得文书时，这个联系写得非常自然。在我CMU的文书中，提到的两位老师与我经历的关联度非常高（一个老师和飞哥有Connection，且和我到飞哥那里以后的研究内容有关联；另一个老师是CMU参加RoboCup的队伍的advisor）。我认为这是一个强调研究的项目判断它是否match你时最终要的因素。因此在选校和打磨文书时要有侧重点。
+
+我所有的文书中都强调了我对科研的兴趣，和我以后想要读PhD的plan，并且写了我对具体的想在那里工作的2位老师研究的看法。在选校的时候是一页一页看Faculty看过去的，耗费了很多精力，其实现在想想，这种策略可能对不同学校和项目是否讨好是不一样的。一些很强调研究的项目会喜欢这样的学生，而一些项目则不然（比如我申请结束，才发现UMich的Robotics要求想读PhD的直接申PhD，Master的培养目标不是让学生去读PhD。but who knows）。建议同学们如果特别想申某一个项目，一定要把成功申请到这个项目的同学的文书要来，看看Committee的taste。
+
+其实UPenn UMich拒我还是挺值得分析的。UMich后来觉得可能是文书不符合Committee对这个项目的预期；UPenn拒我有可能是因为文书中提到的Vijay已经快退休了，而CJ Taylor是做CV的，我没怎么做过这个方向，加上藤校对学生的绩点也许有一点期待/Connection问题？这些都不得而知了。
+
+至于EPFL和ETH，我觉得它们的口味有点点怪哈哈哈（而且ETH要求文书只有一页）。这两所学校都挺喜欢高绩点的同学，如果你的成绩非常好很建议加入选校名单（说实话我当时有一种想拿EPFL保底的心理，因为看过去的申请案例似乎对经历的要求不高，结果Rej了，估计是因为成绩太烂）。","首先放一本书：https://survivesjtu.gitbook.io/survivesjtumanual/。我是申请结束才看到这本书的，真的是相见恨晚。我认为里面说到的东西特别特别适合所有想要有一点点独立思考和做事能力的同学。请各位一定一定要读这本书！大部分我本来想说的话，都已经那里被Formulate了。
+
+不过我还是想对控院或者控院+竺院的同学说一点话：
+
+1.搞清楚自己想做的方向：这一点对控院同学而言尤为重要。众所周知，ZJU控院的方向非常杂，且方向与方向之间需要的能力差别比较大。我曾经在自己以后不会做的东西上浪费了很多时间，现在想起还是有一些遗憾（甚至我确定要做机器人方向，以及第一次学习机器人学都已经是大三的第二学期），建议各位提早了解，提早规划自己的专业方向。
+
+2. 提高能力而非成绩：
+
+a. 上课：控院培养方案中的一些课程水平很低，非常建议找更好的课替换（如计院OOP替换大二下的C++/Java选修）。虽然替换后的课学分多一点，难度大一些，但我认为既然要花时间，为什么不把时间花到最合适的地方呢？至于必修课，能在Youtube上找到Counterpart，就别在那些特别过时且无法让你获得insight的教学过程中浪费时间了（如控制理论，可以看看MIT OpenCourseware上讲控制的课代替；机器人学，可以看Russ Tedrake的机械臂和欠驱动机器人代替；最让我生气的是微分方程，1学分的微分方程真的讲得太烂，也远远不够控制人的要求，建议找MIT OCW的ODE）。
+
+b. 工程能力：想搞机器人，建议从大一开始用Ubuntu作为主力系统熟悉它，然后一点点学Bash, CMake, Docker, ROS，等等 (不知道学啥用啥？看看这个：the missing semester of your cs education)。如果你能在大三之前舒适地使用它，将节省你在课程/科研中学习这些完全可以用碎片时间一点点积累起来的能力的时间。
+
+c. 学好数学是非常重要的：Algebra, Convex Optimization, Matrix Analysis，等等，学得越深越好。数学分析的话，我觉得可以好好学，但有人觉得学了没用。我的观点是，这么基础的东西，怎么会用不到哇哈哈哈。还有各类其他数学（复分析，组合数学，等等），就算它再理论，再虚无缥缈，我认为学习它们比你花时间学计控这种课都更值得也更有趣。
+
+3. 与人交流，再开始努力
+如果你已经开始做研究了，那么请你特别重视与其他人的交流（导师，同一个实验室的同学，不同实验室的同学，你看的论文的作者，等等...）。自己的判断往往是Biased的，而你不交流就直接开始思考的东西，可以说一定有人思考过，尝试过，并且报告过。如果你感觉自己有点社恐，一定要多push自己和老师以及同学们聊你的工作和想法。可以让你事半功倍。
+
+4. Chill out!
+申请季很长，这件事也只是你生活的一小部分，总会有学上的，不要太焦虑。出去散散心，或者趁着没人打扰好好学一门一直很想上的课，都是利用好这些时间的好去处。"
+42,emilyqian0807@gmail.com,钱意纯,否,计算机科学与技术,是,,EmilyQ2001,,Stanford University,Master（授课）,MSEE,,选校咨询，语言考试建议，随便聊聊,,3.92,89.88,3.98,92.87,,TOEFL,111 R29 L29 S26 W27,163,170,4.0,,"Harvard University#MS CSE 
+Stanford University#MSEE
+University of Toronto#MScAc
+Carnegie Mellon University#MSIN
+Duke University#MSCS
+University of California, Berkeley#IEOR
+University of California, Los Angeles#MEng (AI track)
+Brown University#ScM
+University of Southern California#MSCS (CS28)
+Rice University#MCS
+University of Illinois at Urbana-Champaign#MCS (Defer)","Carnegie Mellon University#MIIS
+Carnegie Mellon University#MCDS
+University of California, San Diego#MSCS (CS75)
+Yale University#MSCS (Two-year track)","浙江大学 宋明黎
+西湖大学 张岳
+无论文",微软 2022暑期三个月 SDE,,一奖*2，二奖*1,,"刘海风、尹建伟 课程老师 未知（应该中~强）
+微软mentor 强
+西湖大学科研mentor 强","实习提前准备，sde就是刷leetcode+讲好自己的项目，各个公司都试试，记得关注心仪公司的公众号，面经从牛客/小红书等平台都能看。我是比较幸运地面了第一次就上岸了，今年以及之后的形势可能就相对难了hhh
+我本身就不打算申科研向，但是好像硕士项目都挺看重科研的。实习快结束时觉得自己科研背景很弱，想在9月到申请提交之间再补一补，所以在cc98和一亩三分地上找了相关方向的老师，全都投了一遍，先投最想去的。感觉老师都很友好的，尤其是近期在网上挂招聘贴的，基本一周内都会回复。","别人恐惧我贪婪。
+选上3个大保底兜住了（对我来说是usc, rice, brown（因为语言成绩和gpa达标）），剩下的想去什么都申一下，不要在乎多一两个项目的申请费了~中了彩票真的会很香:-) 这里也感谢下haofei学长，本来我是没有把Stanford列在选校里的，跟他交流后他鼓励我申的，没想到真中了hhh
+然后仔细分析下我的选校吧：
+彩票：Harvard CSE（今年录取率仅6%），Stanford MSEE（对cs本友好，比mscs容易）
+冲刺：CMU MCDS（青睐zju），CMU MIIS（nlp专项，无论文估计不行，不需要一作），UCB EECS MENG（这个项目现在风评很差，最后还给我转到ieor了），Yale MSCS (2年，今年新开的，科研向，收个位数的人)
+主申：UofT MScAc（申一个加拿大的分散下风险，需要面试，但对科班很友好），UCSD CS75（大众情人校，录取比较random），Duke MSCS（比ece听起来学位好一点，虽说研究向但也可以上成授课向），CMU MSIN（有实习建议都申），UIUC MCS（授课向，但是今年陆本惨烈），UCLA MEng（只是看到1p3a上说就读体验好就申了）
+保底：Rice，USC，Brown（托福>105，gpa>88感觉稳？）","我最早出的是UofT的MScAc，然后二月中旬相继出了Harvard和Stanford，感觉基本就只在这两个里面选了，anyway都是很好的项目，分析一下对我个人的pros和cons吧
+
+Harvard CSE
+Pros：in Boston，文化气息浓厚，安全；离MIT很近，可去蹭课+选导；金融、投资、创业氛围浓厚；我录的是ME 2年的要写论文的track，但是可以很方便的转成1年的SM，还可延至1.5年毕业
+Cons：项目全称是computational xxx，必修几门硬核数学课，我数学太拉了；天气寒冷；cs不是强项
+Stanford MSEE
+Pros：工科扛把子，旁边硅谷；加州天气好（阳光充足不容易抑郁）；选课自由，cs课多
+Cons：不是CS学位；项目人更多一点
+
+最后了解到Stanford的商学院以及创业氛围不输Harvard，天气对我本人的情绪和效率有很大影响，以及感觉西海岸的cs相关工作机会更多一点，所以选了Stanford。但是两个我都很爱TAT，要是能其中一个defer一年，两边都去上就好了hhh","我的背景真的很普通吧~但是我觉得是有一些做的好的地方
+1.三维，gpa还可以，语言成绩都比较高。
+2.实习的时候跟组里关系很好，mentor人也很好（甚至指导了我写简历），获得mentor强推。外企的背书效果还是不错的。
+3.科研经历虽然没有论文，但是强推。个人认为对于非研究型硕士，没论文也没关系，科研强推一样可以展现、印证你的经历。
+4.文书认真写了，找fiverr native speaker改了逻辑，从流水账变成了真正的讲故事。","尽早规划，多多connect
+搜集信息是很重要的能力
+选择很多时候大于努力
+找好兜底，大胆尝试
+
+有任何问题（语言考试、规划、选校等等）需要咨询/辅导，欢迎联系我~"
+43,2622206926@qq.com,张靖宜,否,产品设计,否,,,,The Chinese University of Hong Kong,Master（授课）,MA,,语言考试建议，文书修改，随便聊聊,是,3.9,88,,,,IELTS,7.5(L7.5 R8.5 W6.5 S6.5),,,,,The Chinese University of Hong Kong- Chinese Studies MA,"The Chinese University of Hong Kong- Cultural Management MA
+The Chinese University of Hong Kong- Intercultural Studies MA",,"NYUSH 一个月 视觉设计
+人民网 三个月 产品实习",,三等奖学金，标兵，优秀学生,,毕设导师,,本科期间辅修英语，更喜欢辅修的专业和一些文科类的课程，为跨专业申请做准备,项目是中国研究下面的文化与艺术方向，比起做设计更喜欢写论文… 在官网看了课程介绍都是喜欢的方向。,"文书质量，有提到写过和研究生课程相关的课程论文
+申到的专业暗卡雅思7",港校一定要早申！！！
+44,3170105860@zju.edu.cn,彭子帆,是,软件工程,否,https://sg.linkedin.com/in/zifan-peng-968205219,sfofgalaxy,sfofgalaxy,The Hong Kong University of Science and Technology,PhD,Financial Technology,Other,随便聊聊,是,3.66,83.8,3.84,86.72,,Other: Institution,no language,,,,ziffer.top,"University of California, Merced#CSE PhD
+The Hong Kong University of Science and Technology#FinTech PhD",none,1 publication as first author,"Alibaba 3 months
+Huawei 3 months
+Shopee 1 year",,三奖,ESWA 一作,HKUST和RA,,,,,
+45,1611921786@qq.com,岑丰吟,否,自动化,否,,,,University of Michigan-Ann Arbor,Master（授课）,MEngECE,Machine learning,选校咨询，语言考试建议，随便聊聊,否,3.52,81,,,,TOEFL,100 R27 L 25 S23 W25,154,170,3.5,,"University of Michigan-Ann Arbor#MengECE
+Northwest University#MSCE
+University of California, Irvine#MSCE
+University of Southern California#MSCS37
+University of Southern California#MSCyber Security","University of California, San Diego#MSCE
+University of Illinois at Urbana-Champaign#MEngECE",,,,,,,,学校综合排名、专业综合排名。本来还申了新加坡国立大学，但当时已经收到西北的offer了，感觉新加坡应该不会去了，没怎么重视，后来发现那边发邮件让我补护照信息我没补，就直接pass了。,专业排名和综合排名均靠前，由于chatGPT的关系导致转码的吸引力下降，而机器学习是个不错的领域,西北大学和我校有联合培养项目，如果不是申CS这种科目的话还是有很大概率能进的。,
+46,hongyuzhu999@gmail.com,朱泓宇,否,自动化,否,,xyiczhy,,Columbia University,Master（授课）,MSCE,,选校咨询，随便聊聊,否,3.48,80.58,,,,TOEFL,107 R29 L29 S21 W28,164,170,3.5,,"University of California Davis#MSECE
+Nanyang Technological University#MSAI
+Brown University#MSECE
+Columbia University#MSCE
+Boston University#MSECE
+University of Southern California#MSEE","Imperial College London#MSML
+University College London#MSML
+New York University#MSCE
+University of California Berkeley#MSECE
+Rice University#MSECE
+Carnegie Mellon University#MSECE",Imperial College London，Professor Bj?rn W. Schuller and Ognjen (Oggi) Rudovic，2020， Machine Learning and Data Science Workshop,,"全国数模大赛 2020 国家级二等奖
+浙大数模比赛 2020 校级三等奖",,"ACS Omega, 2022, Hongyu Zhu, Bocun He, Xinmin Zhang 
+IEEE Transactions on Industrial Informatics, 2022, Bocun He, Hongyu Zhu, Xinmin Zhang, Zhihuan Song",班主任，本科毕设老师，副院长,,,地理位置好，在纽约，机会多,,
+47,timsong@zju.edu.cn,宋运周,否,计算机科学与技术,否,https://www.linkedin.com/in/tim-song-6ab3b3261,timsong13588409645,,University of Pennsylvania,Master（授课）,MS robot,Robotics,选校咨询，随便聊聊,否,3.97,91,3.97,91,16,TOEFL,105 R29 L29 S24 W23,155,168,3.5,,"Carnegie Mellon University#MSECE
+University of California, San Diego#MSCS(CS75)
+Johns Hopkins University#MS robot
+NUS#MSCS
+University of Pennsylvania#MS robot","Carnegie Mellon University#MSCV
+Carnegie Mellon University#MSR
+Stanford University#MSEE
+ETH#MSCS
+University of Michigan-Ann Arbor#MSCS",ZJU3DV 周晓巍教授 2021~2022 ICRA2023二作,小厂 2022.9~2022.12,,"浙江大学一等奖学金
+国家奖学金",,"实验室导师
+课程教授",,自己也有些犹豫，做的事情与3D视觉、机器人相关度较大，但不确定自己是否读博，一直在摇摆。,读博、就业可进可退，robotics大类的口碑好，GRASP实验室学术资源相对丰富，CS、EE等可选范围大，算是半研究半授课型的项目。,非常感谢导师的推荐信。,我的申请全程都是DIY，最终的结果相对于三年的努力感觉有些失落。但主要是由于我自己还在摇摆是否要读博，对专业的具体方向还没有确定，所以如果只申请硕士许多项目都差不多。我的文书最后在fiverr上找写手帮忙润色过。托福我考的很早，第一次到了105后面就不想再折腾了。GRE也是纯自学，感觉不是很尽人意。在实验室呆了一段时间后感觉并没有很舒畅，转而去实习了几个月，又收获了一些经历。自己还需要努力学习。
+48,jinpeng98@zju.edu.cn,金鹏,是,其他: 光学工程,否,,,,California Institute of Technology,PhD,PhD in MedE-EE,Other,选校咨询，文书修改，随便聊聊,否,3.91,89.3,,,,TOEFL,101 R30 L25 S23 W23,153,170,,,"California Institute of Technology #MedE PhD
+Yale University# EE PhD
+University of Pennsylvania#ESE PhD
+University of Cambridge#Engineering PhD
+Washington University in St. Louis#ESE PhD","Massachusetts Institute of Technology #EECS PhD
+Stanford University#EE PhD","浙江大学 2020-2022年 图像传感器及阵列 一作Nature Communications(申请时小修) 一作Small Methods 
+浙江大学 2021-2023年 柔性电子皮肤PPG Sensor 共一 Nature Communications(申请时于Science Advances送审中)",,2020年12月 中国研究生数学建模竞赛 国家三等奖,"国家奖学金
+学优奖学金
+毕业研究生奖学金
+优秀研究生
+优秀毕业生","Nature Communications 2023 Peng Jin et al.
+Nature Communications 2023 Yingjie Tang, Peng Jin(Co-first) et al.
+Small Methods 2022 Peng Jin et al.","浙大 导师 强推
+浙大 课程老师 强推
+西湖大学 合作老师 强推",套磁到MIT Caltech Stanford Princeton UCB Yale Penn Cambridge WashU导师。建议9月份开始发套磁信，收到积极回复后，每隔一个月与老师交流一下最近研究成果，保持联系，直到申请之前，一直要不断套磁。,考虑顶级院校，理工科六大院校 MIT Caltech Stanford UCB Harvard Princeton都申请了。往多了申请最好，顶级院校没有说可以保底的。,Caltech梦校，精英学校，教授的精英程度令人发指，师生比极高，人均科研经费，人均诺奖，老师中院士比36.7%，均为世界第一且远超世界第二，自己能获得的资源和关注度非常高。导师比较年轻非常强课题组氛围很nice，组里近几年发表很多且全是大子刊级别的文章，仅2023年刚开始便以第一单位已有三篇Nature Biomedical Engineering，Nature Electronics级别大子刊，两篇Science Advances。方向为柔性电子皮肤很喜欢，也跟目前做的课题吻合。项目前两年给fellowship 4.5w美金，只招5个人左右，来campus visit有12个人除了本人均为海本，来自MIT，UCB，ETH，Wellesley，USC等学校且很多已经拿到MIT Stanford级别offer。,几乎全靠科研和文章，申请时已有一篇一作15分顶刊发表；一作Nature Communications小修且有Preprint在research square，面试时接收发表；一篇共一文章与Science Advances在审，虽然审完被拒了，但最后根据审稿人意见修改后与Nature Communications大修并发表。推荐信虽然没有海外导师，但是都是与自己很熟悉的老师，包括自己的导师，可以保证老师们的推荐信强度很高。,对于硕士研究生申请PhD来说，科研大于一切，科研做得好必然能拿到导师和合作老师的超强推。语言成绩，gpa，奖项委员会可能会卡门槛，但几乎仅限于此用处，面试时口语很重要，口语好加分很多。套磁没必要太早，太早老师funding还没确定，9月份就刚好，回复率很高。得到老师的积极回复就可以去申请。
+49,jiateng0104@gmail.com,刘嘉腾,否,计算机科学与技术,否,,L1878395037,,UIUC,Master（研究）,MSCS,Natural language processing,选校咨询，语言考试建议，随便聊聊,否,3.94,89.99,,,,TOEFL,109 R30 L30 S24 W25,  164,  170,3.5,https://github.com/Lumos-Jiateng,"Carnegie Mellon University#MSCV
+Carnegie Mellon University#MCDS
+University of Illinois at Urbana-Champaign#MSCS","UIUC#CS PhD
+UMich #CS PhD
+Cornell #CS PhD
+Upenn #CS PhD
+Yale #CS PhD
+UW #CS PhD","浙江大学 宋明黎 2021.3-2022.6 和师兄师姐投了两篇三作的AAAI但reject
+UIUC Heng Ji 2022.6-2022.12 ACL共一在投 现在中了findings
+Stanford Leonidas Guibas 2022.7-2022.10 无",无,无,无,,"ZJU 导师
+Stanford 博后
+UIUC 导师",大佬直接套最想去的组 菜鸡只能选择海套咯,"All in Top20 PhD 然后美美全聚德 
+HKUST PhD和UoT PhD后来有老师来捞 但不想去了
+Master项目基本都中了 选了研究型",暑研组的Return offer 可以转博也是自己想做的方向,,research一般 所以申不到PhD 鼠鼠菜咯
+50,liuwb0101@gmail.com,刘文博,否,计算机科学与技术,否,www.linkedin.com/in/ wendell-liu2001,liuwb2001,,Columbia University,Master（授课）,MSCE,,选校咨询，随便聊聊,否,3.62,83,3.73,85,,TOEFL,29 28 22 23,,,,,"Columbia University#MSCE
+University of California, San Diego#MLDS(EC93)
+University of California, Davis#MSCS
+National University of Singapore#DSML(提前批)
+National University of Singapore#MSCS","Northwestern University#MSCS
+Rice University#MSCS
+University of Southern California#MSCS
+Duke University#MSCS
+Carnegie Mellon University#MISM
+Carnegie Mellon University#MSECE
+University of California, Los Angeles#CS Meng
+University of California, Irvine#CS PhD
+National University of Singapore#CS PhD
+Purdue University#CS PhD","张克俊 2022.3-2022.7 实时音乐伴奏生成，跟随学长在ACM MM 2022发表论文。
+还有一些没什么产出的科研。",申请前无实习。,,,ACM Multimedia 2022 挂名,,,,"主要是在CU和UCSD之间考虑。重点考虑课程、就业。
+UCSD的项目有一些比较硬的数学课，个人不是很有信心。考虑到美国就业形势不好，回国可能性较大，所以倾向于选择CU这种title稍微好一点的。二者成本差距可以接受，个人也更喜欢在纽约这样的大城市生活。",,
+51,2854919592@qq.com,邓承克,否,计算机科学与技术,是,,,,Columbia University,Master（授课）,MSCS,,选校咨询，语言考试建议，随便聊聊,否,3.66,85.11,,,,TOEFL,105 R29 L29 S24 R23,,,,,Columbia University#MSCS,"Carnegie Mellon University#MSSE-SV
+RICE University#MSCS
+University of California, Irvine#MSWE",,字节跳动 2022.7.1-2022.9.27 Tiktok iOS客户端工程师,,浙江大学三等奖学金,,"两位授课老师的课程推荐信
+字节跳动leader的实习推荐信",在字节跳动官网找的暑期实习，填写了在98上看到的内推码。不过即使填写了内推码，也没有免掉笔试…,"考虑了四个因素：1.周边安全情况. 2.学校专业排名. 3.学校综合排名. 4.学费与生活开销。
+本应该申请USC的，但是托福考出来能用的分数时，USC申请已经截止了。我从2022年10月开始计划出国并准备托福，直到12月底才考到105分，很多学校12月15就结束了申请，所以错过了不少
+学校。
+没必要申请UCI的软工项目，当时觉得没有保底学校，申请了一个。但是现在感觉即使只有uci申请上了，我也不会去。",只收到了这个项目的offer，呜呜呜。比较想去cmu的项目，可惜被拒了。,"虽然我文书找的机构来帮我写，但是我在提供资料的时候写的很详细，并且思考了很久。负责我文书工作的机构老师说，我提供的材料质量很好。
+实际上机构的文书服务主要是将你提供的资料中有用的内容，转换为英文，因此自己提供材料时要好好准备，不要以为有文书老师兜底。",在面试字节暑期实习前，我刷了200+的力扣题目，并且看了牛客网上很多的面筋，看了很多高频面试题和八股文。这很大程度上帮助了我成功拿到字节跳动的实习。感觉能否找到实习很大程度上看个人有没有投入足够的时间和精力去准备。
+52,hanxif2@illinois.edu,方晗熙,否,其他: 地理信息科学,否,,,,University of Illinois at Urbana Champaign,Master（研究）,MSCS,,选校咨询，语言考试建议，文书修改，随便聊聊,是,3.96,89.4,,,,TOEFL,109 R28 L29 S24 W28,,,,,"MSCS @ UIUC
+MSIN @ CMU
+MSCS @ UCSD
+MSECE @ Duke
+MSCS @ USC
+MSDE @ UW-Madison
+MS-Urban Planning&Transportation Engineering @ UC Berkeley","MSCSE @ UMich
+MSE CIS @ UPenn
+MSCS @ Gatech
+MSCS @ Duke
+MSCS @ EPFL
+MSCS @ ETHz
+MSCS @ CMU
+MCDS @ CMU
+MSAII @ CMU
+MITS @ CMU
+MSCS @ UW-Madison
+MS-Urban Planning @ Harvard
+MS-City Planning @ MIT
+MS-Transportation Engineering @ MIT","申请时：
+大三浙大高云君老师实验室实习 产出两篇三作在投（包括一篇实验track综述）
+暑研 UW-Madison高松老师GIS相关实习",,,"大一到大三对应拿了浙大一二三等奖学金
+一些外设
+三年专业优秀奖学金",见科研经历,"浙大高云君老师 科研导师 强推
+浙大陈璐老师 科研导师 强推
+UW-Madison高松老师(GIS的老师） 科研导师 强推","找校内科研：脸皮要厚，邮件不回就当面去问（因为很可能是老师太忙忘了回邮件）。
+找暑研：我套磁了五六个CS的导师，无一回复。就直接找本校本专业老师推荐去做GIS的暑研了（因为当时还没想好要不要转专业到CS）。总之，找connection比海套来的靠谱。",详见地科院飞跃手册,详见地科院飞跃手册,"1. UIUC套磁的导师比较match，且刚好需要学生。
+2. UIUC MSCS面试表现较好。
+3. 文书质量比较高。中介是一个个人，两万出头的全套文书服务。水平挺高的，把我完全连不起来的故事硬生生编出了一个很合理的版本。
+4. 修了比较多CS的课。这里再次感谢GIS的培养方案（本身即涵盖了ds,oop,c小,c大,人工智能，计算机图形学，离散数学等一系列计院的课程；甚至本学院名下的地理空间数据库的授课老师也是计院的陶煜波老师）。除培养方案之外我修了：计网,OS,ads,db,一个计院的大一小学期，软件工程管理（大水课，当时想拿软工双学位辅修证书所以才修的，后来放弃拿到证书了）",引流地科院飞跃手册
+53,cairunqing02@outlook.com,蔡润青,否,其他: 教育学,是,,,,University of Chicago,Master（授课）,MPCS,,选校咨询,是,3.98,90.85,,,,TOEFL,112 R28 L30 S26 W28,156,170,3.5,,"University of Chicago#MPCS
+Northeastern University#CS - align",University of Pennsylvania#MCIT,教育学院 欧阳璠 2022.2-2022.10  研究成果向Instructional Science期刊投稿,无,无,"2020年10月获得浙江大学二等奖学金、NITORI国际奖学金、学业优秀标兵、社会工作标兵；
+2021年10月获得浙江大学二等奖学金、海亮二等奖学金、学业优秀标兵；
+2022年10月获得浙江大学三等奖学金、学业优秀标兵",无,"欧阳璠  科研训练项目导师
+朱天飚  竺院人社班班主任
+金立     逻辑学课程推",无,自己是大跨度转码选手，主要考虑项目是否能支持文科转码。其实我的选择真的不是很多，有些项目要求理工科背景的就没申，如南加大... Brandeis 可以申作为保底，但是当时已经拿到neu offer了就没申。,当时其实特别纠结neu和uchicago，因为前者的就业确实很香（主要表现在coop，以及2.5年的时长很有优势）。但是后来觉得找工这件事情吧还是更看时代背景，23年就业形势不好，neu的不少同学也没有上岸。所以最终选择uchicago，至少有比较好的平台和title，课程质量应该也会比neu好一些,"三维比较高
+另外uchicago 据说看重本科学校的背景，从申请的结果来看可能 zju 给我加分了？（猜","1. 关于转码申请看重什么的猜测
+我自己是大跨度转码的同学，对于cs本的申请不是特别了解，就单说一下转码项目申请的体验吧。
+感觉作为转码的同学我们一没学过cs课程二没cs实习三没cs科研，能看的东西其实并不是很多，主要是 三维 + 文书 + 其它经历
+首先三维高是必须要有的
+其次转码同学文书一定要好好写，讲好自己的故事，可以在fiverr上请人改
+另外申的时候有些转码项目如neu cs align还有upenn mcit不喜欢你学过很多计算机课程，不然会over qualify
+mcit非常适合转码，但今年真的好卷哇，第一轮我没在地里看到陆本过的，这个项目喜欢你有极高三维 + 没有学过cs专业课 + 漂亮的文书 + 其它专业的实习甚至是工作经历
+
+2. 关于要不要找中介这件事
+然后就是很多同学在问的找什么中介比较靠谱这件事，我个人的经验是不要找任何中介。中介市场本身良莠不齐；其次，就算运气好遇到良心中介，中介也不能帮我们遇到没人能够一直保姆式地帮助我们。申请本身也是一个锻炼，要自己查资料看项目官网联系老师。如果这一关都过不了的话后面找实习找工作都会成为问题的。"
+54,lixinjin@zju.edu.cn,李昕瑾,否,其他: 生工食品,是,,18357496986,,Columbia University,Master（授课）,MSCS,Natural language processing,选校咨询，语言考试建议，文书修改，随便聊聊,是,3.83,86,,,,TOEFL,112 R30 L29 S23 W30,167,167,4,,"Johns Hopkins University#MS ECE
+University of California, Los Angeles#Master of Engineer
+#SCS MSE Softerware Engineering
+Carnegie Mellon University#SCS MSE Softerware Engineering
+University of California, San Diego#EC93 Machine Learning and Data Science
+Columbia University#MS CS
+Imperial College London#Msc Applied Machine Learning
+Brown University#Meng ECE
+New York University#MS CS
+University of British Columbia#Master of Data Science",码不动了,"ETHz CS Department,  Ryan Cotterell, 2022暑研, NLP
+其他详见98贴https://www.cc98.org/topic/5544204","Nokia 2022.5-7 Python Software development
+滴滴 2021.7-9 数据分析","Kaggle银牌
+互联网+ 全省第二 全国银牌",浙江大学一等奖学金*2,,,如何找合适自己的海外暑研（CS 天坑转码） https://www.cc98.org/topic/5544204,,"纠结了很久哥大CS和UBC MDS，后续出个贴介绍一下加拿大转码吧。如果是坚定的润党，加拿大转码还是不错的，但我只是想出去看看更大的世界。
+作为一个平凡的理想主义者，我选择用理想主义的观点要求自己的想法和行为，但用现实主义看清并热爱这模糊恒久、无边无际的生活。",,"之前发过的一些经验贴：
+【出国DIY总结】10多家英文文书修改/润色详细测评 https://www.cc98.org/topic/5494312
+喜提托福写作满分*2，摸个攻略贴https://www.cc98.org/topic/5261543
+托福家考 近5000字 踩坑经验贴 https://www.cc98.org/topic/5245176
+美签CS丝滑5年签经验（一路楼382楼）
+https://www.cc98.org/topic/5585988/38#2
+后续可能还会更新一些～"
+55,zjuxiaochen@zju.edu.cn,陈骁,否,其他: 机械电子类工科+辅修工高,是,https://www.linkedin.com/in/xiao-chen-3b4a731a0/,,备用邮箱xiaochen.it@gmail.com,The Chinese University of Hong Kong,PhD,Information Engineering (MMLab),Artificial intelligence,选校咨询，随便聊聊，其他: 研究方向类似的话，可以帮忙给导师list排雷之类的,是,～3.8,～87,,,,TOEFL,～95,,,,http://xiao-chen.info/,"The Chinese University of Hong Kong#IE PhD
+
+还有俩保底用的NUS MS：
+National University of Singapore#Robotics MS
+National University of Singapore#CS MS（项目名字有点忘了，MComp？）",none,"- 上海人工智能实验室（Research Intern） 庞江淼 2021.11-至今（预计会在这里实习很久，目前都是on site，即将转为remote实习）
+我早期主要在做自动驾驶场景下的3d perception（基于monocular vision和point cloud的3D Object Detection），后来因为我效率不太高（当时忙着申请、毕设之类的事情，很分心，对3D Vision也不熟悉）/topic比较incremental/相同topic被其他圈内同行scoop，做一半就换题了。后来做Robot Learning相关的，主要是结合3D Vision (主要是Reconstruction和一点点Graphics的内容）/Reinforcement Learning做一些Active Vision/Robot Interaction相关的topic，一作CoRL在投。开始做Active Vision之后我PhD导师Prof. Tianfan Xue也involve进来了。
+- 英属哥伦比亚大学 李霄霄 2021.06-2021.11
+2D visual representation learning for reinforcement learning。实际指导比较少，主要是早期的时候给了一些referenve用于熟悉contrastive learning相关的topic，基本都是和小伙伴们讨论着做出来的。申请时挂了arxiv+在投。
+- 浙大控院 赵春晖 2020.07-2021.06
+差不多单挑了一个偏工程的项目（machine learning for industrial process，representation learning），期间有师兄带着巩固machine learning基础、讨论paper、听组会之类的；",上海人工智能实验室 2021.11至今 内容和产出“科研经历”里写了。,,,,"早期我也投了很多保研的夏令营，总的来说要过非常多老师的推荐信，应该都是比较强的推荐。
+上海AI Lab：庞江淼（比较关键的科研推）
+浙大控院：王越、赵春晖、梁军、吴均峰（吴老师后来去港中深了）
+浙大信电：余官定",,,,,"之前在CC98上写过不少关于选课、保研夏令营、本科规划相关的帖子，之后也会继续更新内容。具体内容可以直接看我的帖子（请不要把内容传到外网），也可以关注我后续其他帖子的更新。
+
+规划： https://www.cc98.org/topic/5353745
+工高班就读体验：https://www.cc98.org/topic/5340556
+CS/AI/Robotics/自动化相关方向的保研夏令营： https://www.cc98.org/topic/5212663
+课程推荐：https://www.cc98.org/topic/5223411
+
+未完待续。
+
+-----------------
+联系我的学弟学妹们：请一定写清楚自己的主要背景、未来规划和主要想交流的方面，我非常反感“这个方向好不好”“这个项目难不难申”这类很宽泛且脱离了context没什么意义的问题。非常欢迎带着自己的思考来交流 :)"
+56,1327251311@qq.com,金道源,否,其他: 农业工程,否,,dyJin2,,Cornell University,PhD,ECE,Robotics,选校咨询，语言考试建议，随便聊聊,是,3.93,89.5,,,1/61,TOEFL,109 R29 L29 S22 W29,160,170,3.0,,"Cornell University#ECE PhD
+University of California, San Diego#EC80
+University of Washington#MSME
+Johns Hopkins University#Robotics MSE
+University of Michigan-Ann Arbor#MS Robotics","Carnegie Mellon University#MSR
+Carnegie Mellon University#MRSD
+ETH Zurich#RSC",,,,果酱*1，一奖*3,,,,,,PhD项目看学院导师connection，MS背景硬申,欢迎交流！欢迎交流！欢迎交流！
+57,haianjin0415@gmail.com,金海岸,否,计算机科学与技术,是,,jha321,,Cornell University,PhD,CS,Computer vision,选校咨询，随便聊聊,否,3.98,92.6,,,,TOEFL,106 R30 L28 S22 W26,,,,https://haian-jin.github.io/,"Cornell University#CS PhD
+University of California, San Diego#CSE PhD","Stanford University#CS PhD
+Massachusetts Institute of Technology#CS PhD
+University of California, Berkeley#CS PhD
+Carnegie Mellon University#CS PhD
+University of Washington#CS PhD","浙大cad 周晓巍 大二寒假开始到大三寒假 没硬性产出，收获是领域基本入门，直接或间接地push自己学了科研必备技能
+UCSD 暑研导师 22年3月一直到申请 一篇CVPR一作",,,"国奖*1
+一奖*2
+省奖*1
+竺院院设*2
+浙大外设*1","CVPR 一作*1
+NeurIPS 共一在投*1 ( 申请之后做出来的）","本校导师
+UCSD暑研导师 
+北美合作research scientist
+
+应该都是很强推","我找暑研的时候因为没有pub，内心比较没底，因此不敢找四大的暑研......所以做法是打开cs ranking，排除四大后从上往下依次看，去老师的主页看近两年的pub有没有熟悉的，有的话说明比较match，确定match之后会看看老师组里的产量和citation怎么样，间接确定老师的影响力（我个人的观点是citations和别人对推荐信是否买账虽然没有绝对关系，但是是有很强的相关性的）。套磁的时候主要写了一下自己的优势，我写的是自己对这个领域有所入门，有参与过一些项目的经验，可以很快上手新项目；自己GPA挺高的，表明自己做事态度不会有问题之类的。
+最后也没有套很多，只分别找了Cornell和UCSD的一个老师（一年后选校也在这两个学校里面选，真是天注定。。。。）
+Cornell是稍senior但依旧很活跃的白男，组里很多工作我比较熟悉，UCSD是华人ap，引用量吓人的高.......
+最后两边竟然都要我了，因为UCSD很快发了面试然后给了答复，Cornell过了一个月才有人找我，那时候已经在UCSD上手项目了，所以最后在UCSD暑研了。两边答应我的理由都是觉得我过往参与的一些项目经历和他们很match。
+
+我个人的观点是与其海套，不如认真找找match的老师然后套他们，因为如果海套了一堆老师，就算有人答应了，之后去做一个自己不match/不熟悉的领域，可能暑研也很难有成果。
+
+申请前没套磁了，
+交申请后套了五个学校的老师，MIT老师客套回复，Cornell老师(和暑研套的不是同一个）说之后会关注我的申请，其他三个学校均无回复。
+个人经验是申请时套磁用处不大......但是这个又没有副作用，所以套不套都行吧。","我自己一直是比较坚定的phd选手。
+因为10月初的时候拿了暑研的PhD return offer(UCSD)，且老师答应会给我写很好的推荐信，
+所以只申请了我这个方向(cv/cg)，在我心中大于等于UCSD的学校的phd项目。
+UCSD的cv和cg都非常强，所以最后只选了四大+UW+Cornell，再加UCSD。一共七个学校的CS PhD。严格来说CMU在我这个方向并不强，以至于我在系统填poi的时候只能确定一个老师是match的，剩下的两个老师纠结了半天不知道填谁........但是选校的时候觉得CMU毕竟四大，不申有点可惜。事后和一些同方向的人交流，发现他们的选校优先级也基本和我一样。","最后主要在Cornell和UCSD的CS PhD之间纠结。
+UCSD气候和位置都很好，上升势头这两年很猛，暑研导师人非常nice，相处愉快且很熟悉，不会有风险。且组里学生都比较强，组内氛围不错。
+Cornell 的导师也很强，传闻描述和面试的表现也都比较nice，然后因为导师在纽约的tech校区，所以我之后可以自由选择是在伊萨卡的老校区或者是曼哈顿附近的新校区，因此选择Cornell的话，地理位置也不会差，唯一的缺点是Cornell的组规模都比较小，且组里的学长学长都已经/马上要毕业了，所以去了之后没什么高年级的同学交流。
+问了很多高年级的人，大部分人的观点是这两个offer都很好，选什么都不会错，更多是萝卜和青菜爱吃哪一种的问题。
+
+纠结了很久后，
+最后因为女朋友选择了Cornell PhD，给了我选择Cornell的最强理由。
+（抛开感情因素，我个人感觉这两个学校在我这个方向差不太多，选哪个学校主要是看哪个导师适合自己。）","最主要的帮助是暑研导师给我写了一封非常强的推荐信，猜测可能是写给十几个intern中最强的。以至于虽然我申请时只有一篇一作在投，但还是拿到了四大中部分学校的面试。（再次对导师表示感谢）
+另一个潜在帮助是cv/cg的交叉方向这两年很火，很多老师都感兴趣，加上相比其他大部分ai方向，这个方向发文章稍微难一点（虽然也有人灌水），所以相对其他cv子方向，这个方向对申请者的pub要求的数量没那么多。","我一共申了7个学校的PhD(四大+UW+Cornell+UCSD)，其中UW进了committee的short list，但今年我这个方向的三个老师集体不招人，一个面试都没发，所以相当于白交申请费了。CMU我申了CS PhD，但过了很久我才知道CMU的CS PhD主要是面向cs传统方向的申请者，cv/cg方向应该申RI PhD....怪我自己没做好调研，也纯白送钱了（希望学弟学妹不要犯我一样的错误。。。）。UCSD因为有return offer，所以也没什么悬念。事后回看，其实有悬念的申请只有四个学校了。
+其中：
+MIT：发了面试，但我自我感觉面试表现很不好，所以最后没给我offer也很正常；
+Stanford：发了面试，但面试没过；
+UCB：无面拒；
+Cornell：身边有些人很早就收到面试了，但我迟迟没收到，最后等不及了给一个POI发了邮件，问问我的申请情况，很快收到回复并约我当天面试，在面试的过程中告知我committee内部其实已经决定录取我，所以其实相当于无面试录取。
+
+我个人的感觉是今年非常卷，我身边拿了四大cs phd offer的基本都是暑研return offer，或者自身有其他四大的offer（也多为return）。
+所以单靠一封熟人强推申四大还是非常困难的。
+要申四大CS PhD可能需要：
+(四大暑研return offer) / (一封熟人强推+自己很多pub） / （一封熟人强推+自带diversity） /  (多封熟人强推）
+上述条件中的一种。
+其中因为CMU的老师比较多，方差比较大，所以如果找一些冷门老师可能要求会稍微低一点（但也不容易）。
+我的最大劣质主要是申请时的pub不够多。
+我个人主观观点是，如果对四大有执念，读两年ms或者gap再申也不是不可以，其实四大phd中本科直博的并不是主流。或者可以看一下四大中相对不热门，但又和cs沾边的项目。这些要看自己权衡。我最后对自己申请结果也比较满意了，加上自己觉得自己心态不好，可能不太适合gap，就不太想折腾了，安心接了offer。"
+58,hao.kang.sys@gmail.com,康浩,否,信息安全,否,,,直接发邮箱要其他联系方式即可,Georgia Institute of Technology,PhD,Computer Science,Operating systems,选校咨询，语言考试建议，文书修改，随便聊聊，其他: 科研规划，预防黑工,否,3.89,87.9,,,,TOEFL,105 R28 L29 S23 W25,,,,,"Georgia Institute of Technology#CS PhD
+University of Toronto# CS PhD
+University of California, Los Angeles# MSCS",太多了，我大概写不全,"UCLA Baharan Mirzasoleiman 6months ICML2023一篇
+MIT SongHan 8months None",,,,ICML 2023 Towards Sustainable Learning: Coresets for Data-efficient Deep Learning,"Baharan Mirzasoleiman
+其他浙江大学老师的课程推","具体内容见https://www.cc98.org/topic/5543901/1#1
+如果你害怕遭受到了学术上的不公平对待，人身侮辱或者有打黑工的可能。或许我可以帮帮你。
+我是个很open的同学，都可以加qq/微信聊（发我邮箱要联系方式就可以）。",,,,
+59,xinyuyang1203@gmail.com,杨心妤,否,计算机科学与技术,否,,yxy1802,,Cornell University,PhD,IS,Other,选校咨询，语言考试建议，文书修改，随便聊聊,否,3.95,90.45,,,,TOEFL,109 R29 L26 S24 W30,157,160,4.0,https://youngxinyu1802.github.io/,"Cornell University#IS PhD
+Stanford University#MSEE
+Carnegie Mellon University#MSML
+University of Illinois at Urbana-Champaign#MSCS","Carnegie Mellon University#MCDS
+Harvard University#CSE MS
+University of San Diego#MSCS
+University of San Diego#DS PhD
+Massachusetts Institute of Technology (MIT)#IDSS PhD
+Carnegie Mellon University#Societal Computing PhD","Stanford University Prof.James Zou 2022.4至今
+产出：ICML Workshop 共一，AISTATS 四作在投，Journal 共一在写",,,国奖×1，一奖×2，二奖×1,"ICML Workshop 2022 共一
+AISTATS 2022 四作在投
+Journal 共一在写（推荐信以及后续面试中着重强调的工作）","James Zou 暑研老板 推荐强度应该还行
+吴飞 毕设老师 强推
+Hugging Face Research Scientist 暑研期间项目合作者 强度未知","我暑研套磁比较顺利，是通过联系学长的方式，看到斯坦福学长在发招intern的广告，联系后就很顺利地开始进行暑研了。感谢学长带我！
+申请期间套过一些磁，主要是根据自己的项目和背景，联系了ML和computational social science的老师。找老师的时候都是找方向比较相近的，因为方向不是很大众，所以套的老师不多，回复率也高一些，但基本都是礼貌性回复鼓励申请，申请之后除了现在的导师，也基本没有后文了。但至少有回复总让人感觉心安一些，回复的都是说做的方向比较相近的，可能这也是相较海套的优点。",申请项目的时候我是ms和phd混申，因为有比较明确的之后读博的打算，但是由于pub不是很多害怕失学，所以也申了一些ms项目，ms项目申请的也是偏向研究型的，希望能为之后读博做打算。phd申请方向主要是Computational Social Science(暑研的主要工作）和ML(只能说是抱着尝试的心态）。个人对方向其实比较open，所以主要考虑的是和自己之前做过的项目的匹配度（这样更容易被老师要）。申请PhD的时候其实信心不是很足，虽然从最后的申请结果来看也确实只被一个PhD项目录取了，但是事后想起来，这种信心不足也导致了当时在选校的时候没有多调研关注PhD的项目，而且以往飞跃手册上申请IS方向的也不多，最后错过了很多Computational Social Sicence方向的PhD申请。很多Information Science 的department，截止时间都比CS早，在申请完Cornell IS之后我意识到我还可以申其他学校的IS项目，但是很多都已经来不及了，这是申请中比较遗憾的地方。其他的MS项目基本是对着飞跃手册参考着申请。,其实录取到的几个项目都是非常心动的项目，Stanford是梦校，CMU MSML项目很top，UIUC MSCS是不用花钱的研究型硕，选校的时候也比较纠结，咨询了很多学长老师的建议。最后还是觉得，因为比较明确地有读博意向，而且PhD录取的学校、导师、方向都比较满意，去Cornell还能和对象在一个学校读博；而硕士之后再申请的不确定因素更大一些，自己并不是那种乐于冒险的人，最后还是选择直接PhD。,硕士的申请结果还算不错，正面影响可能是三维还可以，加上有Stanford的科研经历，可能比较加分。PhD的申请结果不是很好，最后拿到的PhD offer个人觉得还是因为和导师的方向比较match。导师是新ap，当时看到了导师的招生广告的时候就觉得非常match，套磁了之后回复比较积极，之后也一直follow up保持联系。其实原本没有想到可以申Cornell IS PhD，也是偶然看到了导师的招生广告才去申的，可能也是种缘分吧。,感觉最大的感慨就是，早做准备和打算，减少无效的焦虑时间，大胆尝试。早做准备可以从语言、选校等等方面来说，个人就是因为语言考出来太晚了，到十月底才考出托福和GRE，度过了非常非常焦虑的一段时间。选校也因为时间问题，没有对信息进行更好地搜索，导致错过了一些项目。除此之外，多请教他人，学长学姐都非常热情，他们的建议和帮助都对我的申请起到了非常大的帮助，感谢申请季中所有被我打扰过的学长学姐！也欢迎学弟学妹们找我聊天hhh
+60,peipeizhong@zju.edu.cn,钟沛沛,否,其他: 地理信息科学，辅修计算机,是,,peipei_zhong1,,Carnegie Mellon University,Master（授课）,MSCV,,选校咨询，语言考试建议，文书修改，随便聊聊,是,3.93,88.66,3.99,90.26,,TOEFL,102,,,,,"CS75@UCSD
+EC93@UCSD
+MSCV@CMU
+ECE-AI engineering@CMU
+MPCS@UChicago
+MSCS@Columbia University
+MSCS@Duke
+CS28@USC
+MCS@Rice","MSML/MSIN/SESV@CMU
+MSCS@UT-Austin
+MSCS@UCSB
+MCS/ECE Meng@UIUC
+CS Meng@Cornell
+MSCS@GaTech",srtp；港大暑研；CG&CAD实验室经历。,无,美赛h奖,国奖，一奖,无,srtp导师，暑研导师，课程推,早行动，不要怂，多了解,"我是转专业申请，所以更想要一个CS的title，故先排除非CS title的项目（如ee，ece）；CMU因为cs的名气较大，在一定程度上可以不死磕CS title，而且它的cs项目又贼多，所以喜欢CMU的话可以都申申看。
+
+选校要有梯度，一般分为彩票、主申和保底三大类，但ms申请非常非常玄学，彩票的可能申上，主申、保底也可能被拒。比如今年Stanford录了不少，然而我选校的时候觉得它太nb直接划掉了（乐）；往年飞跃手册说uiuc的mcs好申，但是我被拒了，并且我以为可以保底的的ece meng也把我拒了；想求稳可以多申点。
+
+心路历程方面，实际上我在大三升大四的暑假才真正下定决心出国，算是非常晚了，那时甚至TG都没考，所以很仓促。因此择校的时候我没有太多时间去深入了解每个项目，仅仅按照梯度和申请ddl列了超级多学校和项目，想着拿了offer再选。。。然而到了一月多，已经累得不行，有些项目想想又从列表里划掉了，因为觉得同档次的学校没必要都申，或者单纯觉得它的网申网站填起来太麻烦（x），以及发现光申请费都已经花出去好多了，不如少申几所去吃点好的。",UCSD的CS75早在2月就来了offer，较为便宜的学费、学校良好的口碑、加州宜人的气候、CS的title，都让我非常心动，几乎都要接offer了；后来又接到了CMU的MSCV的offer，说不惊喜不心动是假的，早在大三听说在科大少年班的朋友被CMU录取时，我也曾想过“如果我出国了，我能被CMU录取吗”，毕竟是四大，还是SCS的项目，就选了。,绩点还行，修的CS课管够，background和项目匹配。,"如果让我来形容，申请季就像一场以高分为目标的12分钟跑：全程要尽可能保持匀速，到了中后期再疲惫也不能停下，只能坚持跑完。疲惫的来源是多方面的，申请季你需要处理非常多琐碎的信息和事情：项目是否有多批次申请，推荐信，文书，个别学校自己的要求，等等，每一样都要规划好。说到文书，写文书的体验因人而异，有的人目标明确、行动力强，每一步都走在局部最优解上，他的文书可以写得很快很顺畅；但如果你和我一样，过去的大学时光里混合着痛苦、迷茫、失败的尝试，得到的是自我怀疑多过肯定，那也请不要害怕，勇敢地面对真实的自己，接受自己，梳理大学期间做过的所有事情，进行整理、连缀，形成自己的文书。而且到了申请季这个时间点，就算你觉得过去的经历再不如意，也无法弥补了，不要因为他人的成就或其他原因妄自菲薄，写好自己的故事即可。
+申请季也不是什么洪水猛兽哇。道阻且长，行则将至。你就是你。"
+61,suzhesz00@gmail.com,苏哲,否,计算机科学与技术,是,,,欢迎在23fall qq群加我~,Carnegie Mellon University,Master（授课）,MSML,Machine learning,选校咨询，语言考试建议，随便聊聊,否,3.95,92,,,,TOEFL,111 R29 L30 S25 W27,,,,,"Carnegie Mellon University#MSML
+University of Southern California#CS28
+National University of Singapore#CS PhD","Stanford University#MSCS
+Carnegie Mellon University#MSCS
+Carnegie Mellon University#MLT
+Carnegie Mellon University#MCDS
+Carnegie Mellon University#CS PhD
+University of Washington#CS PhD
+University of California San Diego#CSE PhD
+University of Southern California#CS PhD",浙江大学 赵洲 2021.9开始 语音合成相关 一篇nips共一,,,一奖*2,NIPS 2022 共一,,,"我选校过于奔放，希望大家不要学我 : (
+phd基本上是把top校申请了一下，然后拿一个usc保底
+我phd也稍微考虑了一下学校排名，现在想想完全是思想出了问题
+最亏的是没有申请UCSB","在nus和cmu纠结了很久，还是想尝试做点大的
+msml虽然说是一个授课项目，但是research机会还是很多的",感觉唯一正面因素就是自己的nips共一,"我的申请季过的其实并不是很如意，虽然早早拿到了几个保底offer，但之后收到的都是拒信。
+我觉得对于本科生做research和申请，选择（导师，学校，项目）比想象中的重要，当然这也需要足够的信息支撑（我其实就没有很好用到身边学长学姐的资源，这点需要好好反思）
+很抱歉在以上几个问题中我都没法给出详细解答，不过我踩过很多雷，我很愿意在私聊的时候分享~"
